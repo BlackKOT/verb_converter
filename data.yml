@@ -1,0 +1,9690 @@
+---
+1:
+  1:
+  - :word: forespeak
+    :trans: fɔ:ʹspi:k
+  translations:
+  - предсказывать
+  - говорить заранее
+  2:
+  - :word: forespoke
+    :trans: fɔ:ʹspəʋk
+  3:
+  - :word: forespoken
+    :trans: fɔ:ʹspəʋkən
+2:
+  1:
+  - :word: foreswear
+    :trans: fɔ:ʹsweə
+  translations:
+  - отказываться
+  - отрекаться
+  - отказаться
+  2:
+  - :word: forswore
+    :trans: 'fɔ:ʹswɔ:'
+  3:
+  - :word: forsworn
+    :trans: fɔ:ʹswɔ:n
+3:
+  1:
+  - :word: foretell
+    :trans: fɔ:ʹtel
+  translations:
+  - предсказывать
+  - предвещать
+  2:
+  - :word: foretold
+    :trans: fɔ:ʹtəʋld
+  3:
+  - :word: foretold
+    :trans: fɔ:ʹtəʋld
+4:
+  1:
+  - :word: forget
+    :trans: fəʹget
+  translations:
+  - забывать
+  2:
+  - :word: forgot
+    :trans: fəʹgot
+  3:
+  - :word: forgotten
+    :trans: fəʹgotn
+5:
+  1:
+  - :word: forgive
+    :trans: fəʹgıv
+  translations:
+  - прощать
+  2:
+  - :word: forgave
+    :trans: fəʹgeıv
+  3:
+  - :word: forgiven
+    :trans: fəʹgıvn
+6:
+  1:
+  - :word: forgo
+    :trans: fɔ:ʹgəʋ
+  translations:
+  - отказываться или воздерживаться (от чего-л.)
+  2:
+  - :word: forwent
+    :trans: fɔ:ʹwent
+  3:
+  - :word: forgone
+    :trans: fɔ:ʹgɒn
+7:
+  1:
+  - :word: forlese
+    :trans: ʹfɔ:ʹli:z
+  translations:
+  - терять
+  - лишаться полностью
+  2:
+  - :word: forlore
+    :trans: 'ʹfɔ:ʹlɔ:'
+  3:
+  - :word: forlorn
+    :trans: ʹfɔ:ʹlɔ:n
+8:
+  1:
+  - :word: forsake
+    :trans: fəʹseık
+  translations:
+  - оставлять
+  - покидать
+  - бросать
+  2:
+  - :word: forsook
+    :trans: fəʹsʋk
+  3:
+  - :word: forsaken
+    :trans: fəʹseıkən
+9:
+  1:
+  - :word: forswear
+    :trans: fɔ:ʹsweə
+  translations:
+  - отрекаться
+  - отказаться
+  - отказываться
+  2:
+  - :word: forswore
+    :trans: 'fɔ:ʹswɔ:'
+  3:
+  - :word: forsworn
+    :trans: fɔ:ʹswɔ:n
+10:
+  1:
+  - :word: fortune-tell
+    :trans: ʹfɔ:tʃ(ə)ntel
+  translations:
+  - гадать
+  - предсказывать будущее
+  - ворожить
+  2:
+  - :word: fortune-told
+    :trans: fɔ:ʹtʃ(ə)ntəʋld
+  3:
+  - :word: fortune-told
+    :trans: fɔ:ʹtʃ(ə)ntəʋld
+11:
+  1:
+  - :word: fraught
+    :trans: frɔ:t
+  translations:
+  - нагружать
+  - обременять
+  2:
+  - :word: fraught
+    :trans: frɔ:t
+  - :word: fraughted
+    :trans: ʹfrɔ:tıd
+  3:
+  - :word: fraught
+    :trans: frɔ:t
+  - :word: fraughted
+    :trans: ʹfrɔ:tıd
+12:
+  1:
+  - :word: free-fall
+    :trans: ʹfri:ʹfɔ:l
+  translations:
+  - Внезапно/вдруг падать(снижаться)
+  2:
+  - :word: free-fell
+    :trans: ʹfri:ʹfel
+  3:
+  - :word: free-fallen
+    :trans: ʹfri:ʹfɔ:lən
+13:
+  1:
+  - :word: freeze
+    :trans: fri:z
+  translations:
+  - замерзать
+  - замораживать
+  - заморозить
+  2:
+  - :word: froze
+    :trans: frəʋz
+  3:
+  - :word: frozen
+    :trans: ʹfrəʋzn
+14:
+  1:
+  - :word: frostbite
+    :trans: ʹfrɒstbaıt
+  translations:
+  - обмораживать (части тела)
+  - получать обморожение
+  2:
+  - :word: frostbit
+    :trans: ʹfrɒstbıt
+  3:
+  - :word: frostbitten
+    :trans: ʹfrɒst͵bıtn
+15:
+  1:
+  - :word: gainsay
+    :trans: geınʹseı
+  translations:
+  - отрицать
+  2:
+  - :word: gainsaid
+    :trans: geınʹsed
+  3:
+  - :word: gainsaid
+    :trans: geınʹsed
+16:
+  1:
+  - :word: geld
+    :trans: geld
+  translations:
+  - холостить
+  - кастрировать
+  2:
+  - :word: gelded
+    :trans: geldıd
+  - :word: gelt
+    :trans: gelt
+  3:
+  - :word: gelded
+    :trans: geldıd
+  - :word: gelt
+    :trans: gelt
+17:
+  1:
+  - :word: get
+    :trans: get
+  translations:
+  - получать
+  - становиться
+  - добираться
+  2:
+  - :word: got
+    :trans: gɒt
+  3:
+  - :word: got
+    :trans: gɒt
+  - :word: gotten
+    :trans: gɒtn
+18:
+  1:
+  - :word: ghostwrite
+    :trans: ʹgəʋst͵raıt
+  translations:
+  - писать
+  - сочинять за кого-либо другого
+  2:
+  - :word: ghostwrote
+    :trans: ʹgəʋst͵rəʋt
+  3:
+  - :word: ghostwritten
+    :trans: ʹgəʋst͵rıtn
+19:
+  1:
+  - :word: gild
+    :trans: gıld
+  translations:
+  - золотить
+  - посластить пилюлю
+  2:
+  - :word: 'gilded '
+    :trans: ʹgıldıd
+  - :word: gilt
+    :trans: gılt
+  3:
+  - :word: 'gilded '
+    :trans: ʹgıldıd
+  - :word: gilt
+    :trans: gılt
+20:
+  1:
+  - :word: gird
+    :trans: ʹgɜ:d
+  translations:
+  - подпоясывать(ся)
+  - опоясывать(ся)
+  2:
+  - :word: girt
+    :trans: ʹgɜ:t
+  - :word: girded
+    :trans: ʹgɜ:dıd
+  3:
+  - :word: girt
+    :trans: ʹgɜ:t
+  - :word: girded
+    :trans: ʹgɜ:dıd
+21:
+  1:
+  - :word: give
+    :trans: gıv
+  translations:
+  - давать
+  2:
+  - :word: gave
+    :trans: geıv
+  3:
+  - :word: given
+    :trans: gıvn
+22:
+  1:
+  - :word: gnaw
+    :trans: 'nɔ:'
+  translations:
+  - грызть
+  - глодать
+  - беспокоить
+  - терзать
+  2:
+  - :word: gnawed
+    :trans: nɔ:d
+  3:
+  - :word: gnawed
+    :trans: nɔ:d
+  - :word: gnawn
+    :trans: nɔ:n
+23:
+  1:
+  - :word: go
+    :trans: gəʋ
+  translations:
+  - идти
+  - ходить
+  - ехать
+  - становиться
+  - стать
+  - держать путь (домой)
+  - направляться
+  2:
+  - :word: went
+    :trans: went
+  3:
+  - :word: gone
+    :trans: gɒn
+24:
+  1:
+  - :word: grandstand
+    :trans: ʹgrændstænd
+  translations:
+  - рисоваться
+  - бить на эффект
+  - играть «на зрителя»
+  - "«на публику»"
+  2:
+  - :word: grandstood
+    :trans: grændstʋd
+  3:
+  - :word: grandstood
+    :trans: grændstʋd
+25:
+  1:
+  - :word: grave
+    :trans: greıv
+  translations:
+  - гравировать
+  2:
+  - :word: graved
+    :trans: greıvd
+  3:
+  - :word: 'graved '
+    :trans: greıvd
+  - :word: graven
+    :trans: greıvn
+26:
+  1:
+  - :word: grind
+    :trans: graınd
+  translations:
+  - молоть(ся)
+  - размалывать(ся)
+  - перемалывать(ся)
+  2:
+  - :word: ground
+    :trans: graʋnd
+  3:
+  - :word: ground
+    :trans: graʋnd
+27:
+  1:
+  - :word: grow
+    :trans: grəʋ
+  translations:
+  - расти
+  - выращивать
+  2:
+  - :word: grew
+    :trans: 'gru:'
+  3:
+  - :word: grown
+    :trans: grəʋn
+28:
+  1:
+  - :word: hag-ride
+    :trans: ʹhægraıd
+  translations:
+  - мучить (о кошмарах)
+  2:
+  - :word: hag-rode
+    :trans: ʹhægrəʋd
+  3:
+  - :word: hag-ridden
+    :trans: ʹhæg͵rıdn
+29:
+  1:
+  - :word: halterbreak
+    :trans: ʹhɔ:ltə͵breık
+  translations:
+  - взнуздать
+  - приучать к узде(лошадей)
+  2:
+  - :word: halterbroke
+    :trans: ʹhɔ:ltə͵brəʋk
+  3:
+  - :word: halterbroken
+    :trans: ʹhɔ:ltə͵brəʋkən
+30:
+  1:
+  - :word: hamstring
+    :trans: hæmstrıŋ
+  translations:
+  - перерезать поджилки
+  2:
+  - :word: hamstrung
+    :trans: hæmstrʌŋ
+  3:
+  - :word: hamstrung
+    :trans: hæmstrʌŋ
+31:
+  1:
+  - :word: hand-feed
+    :trans: ʹhændfi:d
+  translations:
+  - кормить из рук
+  - подавать заготовки вручную
+  2:
+  - :word: hand-fed
+    :trans: ʹhændfed
+  3:
+  - :word: hand-fed
+    :trans: ʹhændfed
+32:
+  1:
+  - :word: hand-set
+    :trans: ʹhændset
+  translations:
+  - полигр. набирать вручную
+  2:
+  - :word: hand-set
+    :trans: ʹhændset
+  3:
+  - :word: hand-set
+    :trans: ʹhændset
+33:
+  1:
+  - :word: handsew
+    :trans: ʹhænd͵səʋ
+  translations:
+  - шить вручную (не на машинке)
+  2:
+  - :word: handsewed
+    :trans: ʹhænd͵səʋd
+  3:
+  - :word: handsewn
+    :trans: ʹhænd͵səʋn
+  - :word: handsewed
+    :trans: ʹhænd͵səʋd
+34:
+  1:
+  - :word: handshake
+    :trans: ʹhændʃeık
+  translations:
+  - пожимать руку
+  - здороваться
+  2:
+  - :word: handshook
+    :trans: ʹhændʃʋk
+  3:
+  - :word: handshaken
+    :trans: ʹhænd͵ʃeıkən
+35:
+  1:
+  - :word: handwrite
+    :trans: ʹhændraıt
+  translations:
+  - писать от руки
+  - висеть на волоске
+  2:
+  - :word: handwrote
+    :trans: ʹhændrəʋt
+  3:
+  - :word: handwritten
+    :trans: "͵hændʹrıtn"
+36:
+  1:
+  - :word: hang
+    :trans: hæŋ
+  translations:
+  - вешать
+  - висеть
+  2:
+  - :word: 'hanged '
+    :trans: hæŋd
+  - :word: hung
+    :trans: hʌŋ
+  3:
+  - :word: 'hanged '
+    :trans: hæŋd
+  - :word: hung
+    :trans: hʌŋ
+37:
+  1:
+  - :word: have
+    :trans: hæv
+  translations:
+  - иметь
+  2:
+  - :word: had
+    :trans: hæd
+  3:
+  - :word: had
+    :trans: hæd
+38:
+  1:
+  - :word: hear
+    :trans: hıə
+  translations:
+  - "(у)слышать"
+  2:
+  - :word: heard
+    :trans: hɜ:d
+  3:
+  - :word: heard
+    :trans: hɜ:d
+39:
+  1:
+  - :word: heat
+    :trans: hi:t
+  translations:
+  - нагревать(ся)
+  2:
+  - :word: heated
+    :trans: hi:tıd
+  - :word: het
+    :trans: het
+  3:
+  - :word: heated
+    :trans: hi:tıd
+  - :word: het
+    :trans: het
+40:
+  1:
+  - :word: heave
+    :trans: hi:v
+  translations:
+  - поднимать
+  - перемещать бросать
+  - пухнуть
+  - раздуваться
+  2:
+  - :word: hove
+    :trans: həʋv
+  - :word: heaved
+    :trans: hi:vd
+  3:
+  - :word: hove
+    :trans: həʋv
+  - :word: heaved
+    :trans: hi:vd
+41:
+  1:
+  - :word: hello
+    :trans: heʹləʋ
+  translations:
+  - здороваться
+  - приветствовать
+  - звать
+  - окликать
+  2:
+  - :word: hello'd
+    :trans: "%%%"
+  3:
+  - :word: hello'd
+    :trans: "%%%"
+42:
+  1:
+  - :word: hent
+    :trans: hent
+  translations:
+  - "(устар.) схватывать"
+  - охватывать
+  2:
+  - :word: hent
+    :trans: hent
+  3:
+  - :word: hent
+    :trans: hent
+43:
+  1:
+  - :word: hew
+    :trans: 'hju:'
+  translations:
+  - прорубить
+  - вытесывать
+  - высекать
+  2:
+  - :word: hewed
+    :trans: hju:d
+  3:
+  - :word: 'hewed '
+    :trans: hju:d
+  - :word: hewn
+    :trans: hju:n
+44:
+  1:
+  - :word: hide
+    :trans: haıd
+  translations:
+  - прятать(ся)
+  - скрывать(ся)
+  2:
+  - :word: hid
+    :trans: hıd
+  3:
+  - :word: hidden
+    :trans: hıdn
+  - :word: hid
+    :trans: hıd
+45:
+  1:
+  - :word: hight
+    :trans: haıt
+  translations:
+  - называть
+  - нарекать
+  2:
+  - :word: hight
+    :trans: haıt
+  3:
+  - :word: hight
+    :trans: haıt
+46:
+  1:
+  - :word: hip
+    :trans: hıp
+  translations:
+  - вывихнуть или повредить бедро
+  2:
+  - :word: hipped
+    :trans: hıpt
+  - :word: hipt
+    :trans: "%%%"
+  3:
+  - :word: hipped
+    :trans: hıpt
+  - :word: hipt
+    :trans: "%%%"
+47:
+  1:
+  - :word: hit
+    :trans: hıt
+  translations:
+  - ударять(ся)
+  2:
+  - :word: hit
+    :trans: hıt
+  3:
+  - :word: hit
+    :trans: hıt
+48:
+  1:
+  - :word: hoise
+    :trans: hɔız
+  translations:
+  - "(устар.) поднимать"
+  2:
+  - :word: hoist
+    :trans: hɔıst
+  - :word: hoised
+    :trans: hɔızd
+  3:
+  - :word: hoist
+    :trans: hɔıst
+  - :word: hoised
+    :trans: ɔızd
+49:
+  1:
+  - :word: hoist
+    :trans: ʹhɔıst
+  translations:
+  - поднимать
+  - поднять
+  2:
+  - :word: hoist
+    :trans: ʹhɔıst
+  - :word: hoisted
+    :trans: ʹhɔıstıd
+  3:
+  - :word: hoist
+    :trans: ʹhɔıst
+  - :word: hoisted
+    :trans: ʹhɔıstıd
+50:
+  1:
+  - :word: hold
+    :trans: həʋld
+  translations:
+  - держать в руках
+  - вмещать
+  - удерживать
+  2:
+  - :word: held
+    :trans: held
+  3:
+  - :word: held
+    :trans: held
+51:
+  1:
+  - :word: housebreak
+    :trans: haʋsbreık
+  translations:
+  - совершать кражу со взломом
+  - грабить квартиры
+  - приучать животных / делать их домашними
+  2:
+  - :word: housebroke
+    :trans: ʹhaʋsbrəʋk
+  3:
+  - :word: housebroken
+    :trans: ʹhaʋs͵brəʋkən
+52:
+  1:
+  - :word: housekeep
+    :trans: ʹhaʋski:p
+  translations:
+  - вести (домашнее) хозяйство
+  2:
+  - :word: housekept
+    :trans: ʹhaʋskept
+  3:
+  - :word: housekept
+    :trans: ʹhaʋskept
+53:
+  1:
+  - :word: house-sit
+    :trans: ʹhaʋs͵sıt
+  translations:
+  - присматривать за домом
+  2:
+  - :word: house-sat
+    :trans: ʹhaʋs͵sæt
+  3:
+  - :word: house-sat
+    :trans: ʹhaʋs͵sæt
+54:
+  1:
+  - :word: hove
+    :trans: həʋv
+  translations:
+  - поднимать
+  - перемещать бросать
+  - пухнуть
+  - раздуваться
+  2:
+  - :word: hove
+    :trans: ʹhəʋv(ə)n
+  - :word: hoven
+    :trans: "%%%"
+  3:
+  - :word: hove
+    :trans: ʹhəʋv(ə)n
+  - :word: hoven
+    :trans: "%%%"
+55:
+  1:
+  - :word: hurt
+    :trans: hɜ:t
+  translations:
+  - болеть (о части тела)
+  - причинять боль
+  2:
+  - :word: hurt
+    :trans: hɜ:t
+  3:
+  - :word: hurt
+    :trans: hɜ:t
+56:
+  1:
+  - :word: inbreed
+    :trans: ınbri:d
+  translations:
+  - производить/выводить потомство от близких родственников
+  - формировать/развивать (внутри себя)
+  2:
+  - :word: inbred
+    :trans: ınbred
+  3:
+  - :word: inbred
+    :trans: ınbred
+57:
+  1:
+  - :word: indwell
+    :trans: "͵ınʹdwel"
+  translations:
+  - обитать
+  - проживать
+  - постоянно находиться (где-л.)
+  2:
+  - :word: indwelt
+    :trans: ınʹdwelt
+  3:
+  - :word: indwelt
+    :trans: ınʹdwelt
+58:
+  1:
+  - :word: inlay
+    :trans: ʹınʹleı
+  translations:
+  - делать инкрустацию или мозаичную работу
+  2:
+  - :word: inlaid
+    :trans: ʹınʹleıd
+  3:
+  - :word: inlaid
+    :trans: ʹınʹleıd
+59:
+  1:
+  - :word: input
+    :trans: ʹınpʋt
+  translations:
+  - вводить данные (в ЭВМ)
+  2:
+  - :word: input
+    :trans: ʹınpʋt
+  - :word: inputted
+    :trans: ınpʋtıd
+  3:
+  - :word: input
+    :trans: ʹınpʋt
+  - :word: inputted
+    :trans: ınpʋtıd
+60:
+  1:
+  - :word: inset
+    :trans: ʹınset
+  translations:
+  - вставлять
+  - вкладывать
+  2:
+  - :word: inset
+    :trans: ʹınset
+  - :word: insetted
+    :trans: ınʹsetıd
+  3:
+  - :word: inset
+    :trans: ʹınset
+  - :word: insetted
+    :trans: ınʹsetıd
+61:
+  1:
+  - :word: interblend
+    :trans: ıntəʹblend
+  translations:
+  - смешивать
+  2:
+  - :word: interblended
+    :trans: ıntəʹblendıd
+  - :word: interblent
+    :trans: ıntəʹblent
+  3:
+  - :word: interblended
+    :trans: ıntəʹblendıd
+  - :word: interblent
+    :trans: ıntəʹblent
+62:
+  1:
+  - :word: interbreed
+    :trans: "͵ıntəʹbri:d"
+  translations:
+  - скрещивать(ся) (о породах)
+  2:
+  - :word: interbreeded
+    :trans: ıntəʹbri:dıd
+  - :word: interbred
+    :trans: "͵ıntəʹbred"
+  3:
+  - :word: interbreeded
+    :trans: ıntəʹbri:dıd
+  - :word: interbred
+    :trans: "͵ıntəʹbred"
+63:
+  1:
+  - :word: intercut
+    :trans: ıntəkʌt
+  translations:
+  - прерывать
+  - разрывать (особенно монтаж фильма и т.п.)
+  2:
+  - :word: intercut
+    :trans: ıntəkʌt
+  3:
+  - :word: intercut
+    :trans: ıntəkʌt
+64:
+  1:
+  - :word: interknit
+    :trans: "͵ıntəʹnıt"
+  translations:
+  - переплетать(ся)
+  - сплетать(ся)
+  2:
+  - :word: interknit
+    :trans: "͵ıntəʹnıt"
+  3:
+  - :word: interknit
+    :trans: "͵ıntəʹnıt"
+65:
+  1:
+  - :word: interlay
+    :trans: "͵ıntəʹleı"
+  translations:
+  - класть между (чем-л.)
+  - переслаивать (что-л.)
+  2:
+  - :word: interlaid
+    :trans: "͵ıntəʹleıd"
+  3:
+  - :word: interlaid
+    :trans: "͵ıntəʹleıd"
+66:
+  1:
+  - :word: interset
+    :trans: ıntəset
+  translations:
+  - помещать между
+  2:
+  - :word: interset
+    :trans: ıntəset
+  3:
+  - :word: interset
+    :trans: ıntəset
+67:
+  1:
+  - :word: interweave
+    :trans: "͵ıntəʹwi:v"
+  translations:
+  - заткать
+  - вплетать
+  - переплетать(ся)
+  2:
+  - :word: interwove
+    :trans: "͵ıntəʹwəʋv"
+  3:
+  - :word: interwoven
+    :trans: "͵ıntəʹwəʋvən"
+68:
+  1:
+  - :word: interwind
+    :trans: ıntəwınd
+  translations:
+  - сплетать вместе (~ with)
+  2:
+  - :word: interwound
+    :trans: ıntəwu:nd
+  3:
+  - :word: interwound
+    :trans: ıntəwu:nd
+69:
+  1:
+  - :word: inweave
+    :trans: "͵ınʹwi:v"
+  translations:
+  - воткать
+  - заткать
+  2:
+  - :word: inwove
+    :trans: "͵ınʹwəʋv"
+  3:
+  - :word: inwoven
+    :trans: "͵ınʹwəʋv(ə)n"
+70:
+  1:
+  - :word: erry-build
+    :trans: dʒerıbıld
+  translations:
+  - строить дешево и быстро(но некачественно)
+  - возводить непрочные постройки
+  2:
+  - :word: jerry-built
+    :trans: dʒerıbılt
+  3:
+  - :word: jerry-built
+    :trans: dʒerıbılt
+71:
+  1:
+  - :word: joy-ride
+    :trans: ʹdʒɔıraıd
+  translations:
+  - гонять (на машине)
+  2:
+  - :word: joy-rode
+    :trans: dʒɔırəʋd
+  3:
+  - :word: joy-ridden
+    :trans: dʒɔırıdn
+72:
+  1:
+  - :word: keep
+    :trans: ki:p
+  translations:
+  - держать
+  - иметь
+  - хранить
+  2:
+  - :word: kept
+    :trans: kept
+  3:
+  - :word: kept
+    :trans: kept
+73:
+  1:
+  - :word: kneel
+    :trans: ni:l
+  translations:
+  - становиться на колени
+  - стоять на коленях
+  2:
+  - :word: knelt
+    :trans: nelt
+  3:
+  - :word: knelt
+    :trans: nelt
+74:
+  1:
+  - :word: knit
+    :trans: nıt
+  translations:
+  - вязать
+  - хмурить брови
+  2:
+  - :word: 'knitted '
+    :trans: nıtıd
+  - :word: knit
+    :trans: nıt
+  3:
+  - :word: 'knitted '
+    :trans: nıtıd
+  - :word: knit
+    :trans: nıt
+75:
+  1:
+  - :word: know
+    :trans: nəʋ
+  translations:
+  - знать
+  2:
+  - :word: knew
+    :trans: 'nju:'
+  3:
+  - :word: known
+    :trans: nəʋn
+76:
+  1:
+  - :word: lade
+    :trans: leıd
+  translations:
+  - грузить
+  - нагружать
+  - погружать
+  2:
+  - :word: laded
+    :trans: leıdıd
+  3:
+  - :word: 'laded '
+    :trans: leıdıd
+  - :word: laden
+    :trans: leıd(ə)n
+77:
+  1:
+  - :word: landslide
+    :trans: lændslaıd
+  translations:
+  - оползать
+  - обваливаться
+  - победить на выборах с большими перевесом
+  2:
+  - :word: landslid
+    :trans: lændslıd
+  3:
+  - :word: landslid
+    :trans: lændslıd
+78:
+  1:
+  - :word: lay
+    :trans: leı
+  translations:
+  - класть
+  - положить
+  - лежать
+  - находиться
+  - происходить в будущем
+  2:
+  - :word: laid
+    :trans: leıd
+  3:
+  - :word: laid
+    :trans: leıd
+79:
+  1:
+  - :word: lead
+    :trans: li:d
+  translations:
+  - вести
+  - показывать путь
+  2:
+  - :word: led
+    :trans: led
+  3:
+  - :word: led
+    :trans: led
+80:
+  1:
+  - :word: lean
+    :trans: li:n
+  translations:
+  - наклонять(ся)
+  2:
+  - :word: 'leaned '
+    :trans: li:nd
+  - :word: leant
+    :trans: lent
+  3:
+  - :word: 'leaned '
+    :trans: li:nd
+  - :word: leant
+    :trans: lent
+81:
+  1:
+  - :word: leap
+    :trans: li:p
+  translations:
+  - прыгать
+  - скакать
+  2:
+  - :word: leapt
+    :trans: lept
+  - :word: leaped
+    :trans: li:pt
+  3:
+  - :word: leapt
+    :trans: lept
+  - :word: leaped
+    :trans: li:pt
+82:
+  1:
+  - :word: learn
+    :trans: lɜ:n
+  translations:
+  - изучать
+  - учить
+  - узнавать
+  2:
+  - :word: learnt
+    :trans: lɜ:nt
+  - :word: learned
+    :trans: lɜ:nd
+  3:
+  - :word: learnt
+    :trans: lɜ:nt
+  - :word: learned
+    :trans: lɜ:nd
+83:
+  1:
+  - :word: leave
+    :trans: li:v
+  translations:
+  - покидать
+  - оставлять
+  - уходить
+  - уезжать
+  2:
+  - :word: left
+    :trans: left
+  3:
+  - :word: left
+    :trans: left
+84:
+  1:
+  - :word: lend
+    :trans: lend
+  translations:
+  - давать взаймы
+  - одалживать
+  2:
+  - :word: lent
+    :trans: lent
+  3:
+  - :word: lent
+    :trans: lent
+85:
+  1:
+  - :word: lese
+    :trans: li:z
+  translations:
+  - терять
+  - 'лишаться (archaic verb: only ''lorn'' is used now)'
+  2:
+  - :word: lore
+    :trans: 'lɔ:'
+  3:
+  - :word: lorn
+    :trans: lɔ:n
+86:
+  1:
+  - :word: let
+    :trans: let
+  translations:
+  - давай
+  - давайте
+  - разрешать
+  - позволять
+  - "(в(ы))пускать"
+  - давать (сделать что-л.)
+  - мешать
+  - препятствовать
+  - служить помехой
+  2:
+  - :word: let
+    :trans: let
+  3:
+  - :word: let
+    :trans: let
+87:
+  1:
+  - :word: lie
+    :trans: laı
+  translations:
+  - лежать
+  - находиться
+  - происходить в будущем
+  - класть
+  - положить
+  2:
+  - :word: lay
+    :trans: leı
+  3:
+  - :word: lain
+    :trans: leın
+88:
+  1:
+  - :word: light
+    :trans: laıt
+  translations:
+  - зажигать(ся)
+  - освещать
+  - случайно натолкнуться
+  - сходить
+  - выходить
+  2:
+  - :word: lit
+    :trans: lıt
+  - :word: lighted
+    :trans: laıtıd
+  3:
+  - :word: lit
+    :trans: lıt
+  - :word: lighted
+    :trans: laıtıd
+89:
+  1:
+  - :word: lip-read
+    :trans: lıpri:d
+  translations:
+  - читать по губам
+  2:
+  - :word: lip-read
+    :trans: lıpred
+  3:
+  - :word: lip-read
+    :trans: lıpred
+90:
+  1:
+  - :word: lose
+    :trans: lu:z
+  translations:
+  - терять
+  2:
+  - :word: lost
+    :trans: lɒst
+  3:
+  - :word: lost
+    :trans: lɒst
+91:
+  1:
+  - :word: make
+    :trans: meık
+  translations:
+  - делать
+  - создавать
+  - заставлять
+  2:
+  - :word: made
+    :trans: meıd
+  3:
+  - :word: made
+    :trans: meıd
+92:
+  1:
+  - :word: mean
+    :trans: mi:n
+  translations:
+  - значить
+  - иметь в виду
+  2:
+  - :word: meant
+    :trans: ment
+  3:
+  - :word: meant
+    :trans: ment
+93:
+  1:
+  - :word: meet
+    :trans: mi:t
+  translations:
+  - встречать(ся)
+  2:
+  - :word: met
+    :trans: met
+  3:
+  - :word: met
+    :trans: met
+94:
+  1:
+  - :word: melt
+    :trans: melt
+  translations:
+  - плавить(ся)
+  2:
+  - :word: melted
+    :trans: meltıd
+  3:
+  - :word: 'melted '
+    :trans: meltıd
+  - :word: molten
+    :trans: məʋltən
+95:
+  1:
+  - :word: misbecome
+    :trans: "͵mısbıʹkʌm"
+  translations:
+  - не идти
+  - не подходить
+  - не приличествовать
+  2:
+  - :word: misbecame
+    :trans: "͵mısbıʹkeım"
+  3:
+  - :word: misbecome
+    :trans: "͵mısbıʹkʌm"
+96:
+  1:
+  - :word: miscast
+    :trans: mısʹka:st
+  translations:
+  - неправильно распределять роли (в пьесе)
+  2:
+  - :word: miscast
+    :trans: mısʹka:st
+  3:
+  - :word: miscast
+    :trans: mısʹka:st
+97:
+  1:
+  - :word: mischoose
+    :trans: mısʹtʃu:z
+  translations:
+  - неправильно выбирать
+  2:
+  - :word: mischose
+    :trans: mısʹtʃəʋz
+  3:
+  - :word: mischosen
+    :trans: mısʹtʃəʋz(ə)n
+98:
+  1:
+  - :word: miscut
+    :trans: mısʹkʌt
+  translations:
+  - неправильно резать
+  - нарезать
+  - разрезать
+  2:
+  - :word: miscut
+    :trans: mısʹkʌt
+  3:
+  - :word: miscut
+    :trans: mısʹkʌt
+99:
+  1:
+  - :word: misdeal
+    :trans: mısʹdi:l
+  translations:
+  - ошибаться при сдаче карт
+  2:
+  - :word: misdealt
+    :trans: mısʹdelt
+  3:
+  - :word: misdealt
+    :trans: mısʹdelt
+100:
+  1:
+  - :word: misdo
+    :trans: "͵mısʹdu:"
+  translations:
+  - поступать неправильно
+  - совершать оплошность/ошибку
+  - наносить ущерб
+  2:
+  - :word: misdid
+    :trans: "͵mısʹdıd"
+  3:
+  - :word: misdone
+    :trans: "͵mısʹdʌn"
+101:
+  1:
+  - :word: misfeed
+    :trans: mısʹfi:d
+  translations:
+  - неправильно подавать бумагу(о принтерах/копирах)
+  2:
+  - :word: misfed
+    :trans: mısʹfed
+  3:
+  - :word: misfed
+    :trans: mısʹfed
+102:
+  1:
+  - :word: misfit
+    :trans: ʹmıs͵fıt
+  translations:
+  - плохо сидеть
+  - быть не впору
+  2:
+  - :word: misfit
+    :trans: mısfıt
+  - :word: misfitted
+    :trans: mısfıtıd
+  3:
+  - :word: misfit
+    :trans: mısfıt
+  - :word: misfitted
+    :trans: mısfıtıd
+103:
+  1:
+  - :word: misgive
+    :trans: mısʹgıv
+  translations:
+  - внушать опасение
+  - недоверие
+  - дурные предчувствия
+  2:
+  - :word: misgave
+    :trans: mısʹgeıv
+  3:
+  - :word: misgiven
+    :trans: mısʹgıv(ə)n
+104:
+  1:
+  - :word: mishear
+    :trans: mısʹhıə
+  translations:
+  - ослышаться
+  2:
+  - :word: misheard
+    :trans: mısʹhɜ:d
+  3:
+  - :word: misheard
+    :trans: mısʹhɜ:d
+105:
+  1:
+  - :word: mishit
+    :trans: "͵mısʹhıt"
+  translations:
+  - промахнуться
+  2:
+  - :word: mishit
+    :trans: "͵mısʹhıt"
+  3:
+  - :word: mishit
+    :trans: "͵mısʹhıt"
+106:
+  1:
+  - :word: misknow
+    :trans: "͵mısʹnəʋ"
+  translations:
+  - плохо знать
+  - неверно понимать
+  2:
+  - :word: misknew
+    :trans: "͵mısʹnju:"
+  3:
+  - :word: misknown
+    :trans: "͵mısʹnəʋn"
+107:
+  1:
+  - :word: mislay
+    :trans: mısʹleı
+  translations:
+  - положить не на место
+  - затерять
+  - заложить
+  2:
+  - :word: mislaid
+    :trans: mısʹleıd
+  3:
+  - :word: mislaid
+    :trans: mısʹleıd
+108:
+  1:
+  - :word: mislead
+    :trans: mısʹli:d
+  translations:
+  - вводить в заблуждение
+  - обманывать
+  2:
+  - :word: misled
+    :trans: mısʹled
+  3:
+  - :word: misled
+    :trans: mısʹled
+109:
+  1:
+  - :word: mislearn
+    :trans: mıslɜ:n
+  translations:
+  - обучаться неправильно
+  2:
+  - :word: mislearned
+    :trans: mıslɜ:nd
+  - :word: mislearnt
+    :trans: mıslɜ:nt
+  3:
+  - :word: mislearned
+    :trans: mıslɜ:nd
+  - :word: mislearnt
+    :trans: mıslɜ:nt
+110:
+  1:
+  - :word: misread
+    :trans: mısʹri:d
+  translations:
+  - "(про)читать неправильно"
+  - неправильно истолковывать
+  2:
+  - :word: misread
+    :trans: mısʹred
+  3:
+  - :word: misread
+    :trans: mısʹred
+111:
+  1:
+  - :word: missay
+    :trans: mısseı
+  translations:
+  - сказать неправильно
+  - оговориться
+  - клеветать
+  - порочить
+  - злословить
+  2:
+  - :word: missaid
+    :trans: mıssed
+  3:
+  - :word: missaid
+    :trans: mıssed
+112:
+  1:
+  - :word: missend
+    :trans: mıssend
+  translations:
+  - отсылать неправильно
+  - отправить письмо на неверный адрес
+  - не туда послать
+  2:
+  - :word: missent
+    :trans: mıssent
+  3:
+  - :word: missent
+    :trans: mıssent
+113:
+  1:
+  - :word: misset
+    :trans: mısset
+  translations:
+  - устанавливать неправильно
+  2:
+  - :word: misset
+    :trans: mısset
+  3:
+  - :word: misset
+    :trans: mısset
+114:
+  1:
+  - :word: misspeak
+    :trans: "͵mısʹspi:k"
+  translations:
+  - говорить или произносить неправильно
+  2:
+  - :word: misspoke
+    :trans: mısʹspəʋk
+  3:
+  - :word: misspoken
+    :trans: mısʹspəʋkən
+115:
+  1:
+  - :word: misspell
+    :trans: mısʹspel
+  translations:
+  - делать ошибки в правописании
+  2:
+  - :word: 'misspelt '
+    :trans: mısʹspelt
+  - :word: missspelled
+    :trans: mısʹspeld
+  3:
+  - :word: 'misspelt '
+    :trans: mısʹspelt
+  - :word: missspelled
+    :trans: mısʹspeld
+116:
+  1:
+  - :word: misspend
+    :trans: mısʹspend
+  translations:
+  - транжирить
+  - неразумно тратить
+  2:
+  - :word: misspent
+    :trans: mısʹspent
+  3:
+  - :word: misspent
+    :trans: mısʹspent
+117:
+  1:
+  - :word: misswear
+    :trans: mıssweə
+  translations:
+  - давать ложную клятву
+  - давать ложные показания
+  2:
+  - :word: misswore
+    :trans: 'mısswɔ:'
+  3:
+  - :word: missworn
+    :trans: mısswɔ:n
+118:
+  1:
+  - :word: mistake
+    :trans: mısʹteık
+  translations:
+  - принимать (за другого
+  - за другое)
+  - ошибаться
+  - неправильно понимать
+  2:
+  - :word: mistook
+    :trans: mısʹtʋk
+  3:
+  - :word: mistaken
+    :trans: mısʹteık(e)n
+119:
+  1:
+  - :word: misteach
+    :trans: mısti:tʃ
+  translations:
+  - обучать неправильно
+  2:
+  - :word: mistaught
+    :trans: mıstɔ:t
+  3:
+  - :word: mistaught
+    :trans: mıstɔ:t
+120:
+  1:
+  - :word: mistell
+    :trans: mıstel
+  translations:
+  - неправильно информировать
+  2:
+  - :word: mistold
+    :trans: mıstəʋld
+  3:
+  - :word: mistold
+    :trans: mıstəʋld
+121:
+  1:
+  - :word: misthink
+    :trans: "͵mısʹθıŋk"
+  translations:
+  - неправильно подумать
+  - прийти к неправильному
+  - ошибочному выводу
+  2:
+  - :word: misthought
+    :trans: "͵mısʹθɔ:t"
+  3:
+  - :word: misthought
+    :trans: "͵mısʹθɔ:t"
+122:
+  1:
+  - :word: misunderstand
+    :trans: mısʹʌndəʹstænd
+  translations:
+  - неправильно понять
+  2:
+  - :word: misunderstood
+    :trans: mısʹʌndəʹstʋd
+  3:
+  - :word: misunderstood
+    :trans: mısʹʌndəʹstʋd
+123:
+  1:
+  - :word: miswear
+    :trans: mısweə
+  translations:
+  - одеваться неправильно
+  2:
+  - :word: miswore
+    :trans: 'mıswɔ:'
+  3:
+  - :word: misworn
+    :trans: mıswɔ:n
+124:
+  1:
+  - :word: miswed
+    :trans: mıswed
+  translations:
+  - выдавать/выходить замуж
+  - женить(ся) неправильно
+  - неудачно жениться
+  2:
+  - :word: miswed
+    :trans: mıswed
+  - :word: miswedded
+    :trans: mısʹwedıd
+  3:
+  - :word: miswed
+    :trans: mıswed
+  - :word: miswedded
+    :trans: mısʹwedıd
+125:
+  1:
+  - :word: miswrite
+    :trans: "͵mısʹraıt"
+  translations:
+  - писать неправильно
+  2:
+  - :word: miswrote
+    :trans: "͵mısʹrəʋt"
+  3:
+  - :word: miswritten
+    :trans: "͵mısʹrıtn"
+126:
+  1:
+  - :word: moonlight
+    :trans: mu:n͵laıt
+  translations:
+  - работать по совместительству
+  2:
+  - :word: moonlighted
+    :trans: mu:n͵laıtıd
+  - :word: moonlit
+    :trans: mu:n͵lıt
+  3:
+  - :word: moonlighted
+    :trans: mu:n͵laıtıd
+  - :word: moonlit
+    :trans: mu:n͵lıt
+127:
+  1:
+  - :word: mow
+    :trans: məʋ
+  translations:
+  - косить
+  - жать
+  2:
+  - :word: mowed
+    :trans: məʋd
+  3:
+  - :word: 'mowed '
+    :trans: məʋd
+  - :word: mown
+    :trans: məʋn
+128:
+  1:
+  - :word: naysay
+    :trans: ʹneıʹseı
+  translations:
+  - постоянно говорить 'нет'
+  2:
+  - :word: naysaid
+    :trans: ʹneıʹsed
+  3:
+  - :word: naysaid
+    :trans: ʹneıʹsed
+129:
+  1:
+  - :word: nip
+    :trans: nıp
+  translations:
+  - ущипнуть
+  - щипать
+  2:
+  - :word: nipped
+    :trans: nıpt
+  - :word: nipt
+    :trans: "%%%"
+  3:
+  - :word: nipped
+    :trans: nıpt
+  - :word: nipt
+    :trans: "%%%"
+130:
+  1:
+  - :word: nosedive
+    :trans: ʹnəʋzdaıv
+  translations:
+  - резко падать
+  - снижаться
+  2:
+  - :word: nosedived
+    :trans: ʹnəʋzdaıvd
+  - :word: nosedove
+    :trans: ʹnəʋzdəʋv
+  3:
+  - :word: nosedived
+    :trans: ʹnəʋzdaıvd
+  - :word: nosedove
+    :trans: ʹnəʋzdəʋv
+131:
+  1:
+  - :word: OD
+    :trans: "͵əʋʹdi:"
+  translations:
+  - отравиться слишком большой дозой наркотика
+  2:
+  - :word: OD'd
+    :trans: əʋʹdi:d
+  - :word: Oded
+    :trans: "%%%"
+  3:
+  - :word: OD'd
+    :trans: əʋʹdi:d
+  - :word: Oded
+    :trans: "%%%"
+132:
+  1:
+  - :word: offset
+    :trans: ʹɒfset
+  translations:
+  - возмещать
+  - компенсировать
+  2:
+  - :word: offset
+    :trans: ʹɒfset
+  3:
+  - :word: offset
+    :trans: ʹɒfset
+133:
+  1:
+  - :word: okay
+    :trans: əʋʹkeı
+  translations:
+  - одобрять
+  - утверждать
+  - давать согласие
+  2:
+  - :word: okayed
+    :trans: "%%%"
+  3:
+  - :word: okayed
+    :trans: "%%%"
+134:
+  1:
+  - :word: outbid
+    :trans: aʋtʹbıd
+  translations:
+  - перебивать цену
+  - предложить более высокую цену (на аукционе)
+  2:
+  - :word: outbid
+    :trans: aʋtʹbıd
+  3:
+  - :word: outbid
+    :trans: aʋtʹbıd
+135:
+  1:
+  - :word: outbreak
+    :trans: ʹaʋtbreık
+  translations:
+  - вспыхивать (о пожаре, войне, эпидемии)
+  2:
+  - :word: outbroke
+    :trans: aʋtbrəʋk
+  3:
+  - :word: outbroken
+    :trans: aʋtbrəʋkən
+136:
+  1:
+  - :word: outbreed
+    :trans: ʹaʋtbri:d
+  translations:
+  - воспитывать вне семьи
+  2:
+  - :word: outbred
+    :trans: ʹaʋtbred
+  3:
+  - :word: outbred
+    :trans: ʹaʋtbred
+137:
+  1:
+  - :word: outbuild
+    :trans: aʋtʹbıld
+  translations:
+  - чрезмерно застраивать
+  2:
+  - :word: outbuilt
+    :trans: aʋtʹbılt
+  3:
+  - :word: outbuilt
+    :trans: aʋtʹbılt
+138:
+  1:
+  - :word: outburn
+    :trans: aʋtʹbɜ:n
+  translations:
+  - выжечь
+  - выгореть
+  2:
+  - :word: outburned
+    :trans: aʋtbɜ:nd
+  - :word: outburnt
+    :trans: aʋtʹbɜ:nt
+  3:
+  - :word: outburned
+    :trans: aʋtbɜ:nd
+  - :word: outburnt
+    :trans: aʋtʹbɜ:nt
+139:
+  1:
+  - :word: outcast
+    :trans: ʹaʋtkɑ:st
+  translations:
+  - изгонять
+  - отвергать
+  2:
+  - :word: outcast
+    :trans: ʹaʋtkɑ:st
+  3:
+  - :word: outcast
+    :trans: ʹaʋtkɑ:st
+140:
+  1:
+  - :word: outdo
+    :trans: 'aʋtʹdu:'
+  translations:
+  - превзойти
+  - побить
+  - превосходить
+  - опережать
+  2:
+  - :word: outdid
+    :trans: aʋtʹdıd
+  3:
+  - :word: outdone
+    :trans: aʋtʹdʌn
+141:
+  1:
+  - :word: outdraw
+    :trans: 'aʋtʹdrɔ:'
+  translations:
+  - привлекать к себе больше внимания
+  2:
+  - :word: outdrew
+    :trans: 'aʋtʹdru:'
+  3:
+  - :word: outdrawn
+    :trans: aʋtʹdrɔ:n
+142:
+  1:
+  - :word: outdrink
+    :trans: aʋtʹdrıŋk
+  translations:
+  - перепить (всех)
+  - выпить больше всех
+  2:
+  - :word: outdrank
+    :trans: aʋtʹdræŋk
+  3:
+  - :word: outdrunk
+    :trans: aʋtʹdrʌŋk
+143:
+  1:
+  - :word: outdrive
+    :trans: aʋtʹdraıv
+  translations:
+  - обогнать
+  2:
+  - :word: outdrove
+    :trans: aʋtʹdrəʋv
+  3:
+  - :word: outdriven
+    :trans: aʋtʹdrıv(ə)n
+144:
+  1:
+  - :word: outfight
+    :trans: aʋtʹfaıt
+  translations:
+  - побеждать (в бою)
+  2:
+  - :word: outfought
+    :trans: aʋtʹfɔ:t
+  3:
+  - :word: outfought
+    :trans: aʋtʹfɔ:t
+145:
+  1:
+  - :word: outfit
+    :trans: ʹaʋt͵fıt
+  translations:
+  - снаряжать
+  - экипировать
+  - обмундировывать
+  2:
+  - :word: outfit
+    :trans: ʹaʋt͵fıt
+  - :word: outfitted
+    :trans: aʋtʹfıtıd
+  3:
+  - :word: outfit
+    :trans: ʹaʋt͵fıt
+  - :word: outfitted
+    :trans: aʋtʹfıtıd
+146:
+  1:
+  - :word: outfly
+    :trans: aʋtʹflaı
+  translations:
+  - обогнать в полёте
+  - летать дальше
+  - выше или быстрее
+  2:
+  - :word: outflew
+    :trans: 'aʋtʹflu:'
+  3:
+  - :word: outflown
+    :trans: aʋtʹfləʋn
+147:
+  1:
+  - :word: outgo
+    :trans: aʋtʹgəʋ
+  translations:
+  - превосходить
+  - опережать
+  - превзойти
+  - побить
+  2:
+  - :word: outwent
+    :trans: aʋtʹwent
+  3:
+  - :word: outdone
+    :trans: aʋtʹdʌn
+148:
+  1:
+  - :word: outgrow
+    :trans: aʋtʹgrəʋ
+  translations:
+  - перерастать
+  - вырастать (из платья и т. п.)
+  2:
+  - :word: outgrew
+    :trans: 'aʋtʹgru:'
+  3:
+  - :word: outgrown
+    :trans: aʋtʹgrəʋn
+149:
+  1:
+  - :word: outlay
+    :trans: ʹaʋtleı
+  translations:
+  - тратить
+  - расходовать (деньги)
+  - находиться снаружи
+  - вне (чего-л.)
+  2:
+  - :word: outlaid
+    :trans: ʹaʋtleıd
+  3:
+  - :word: outlaid
+    :trans: ʹaʋtleıd
+150:
+  1:
+  - :word: outleap
+    :trans: ʹaʋtli:p
+  translations:
+  - перепрыгнуть
+  2:
+  - :word: outleapt
+    :trans: aʋtʹlept
+  3:
+  - :word: outleapt
+    :trans: aʋtʹlept
+151:
+  1:
+  - :word: outlet
+    :trans: ʹaʋtlet
+  translations:
+  - выпускать
+  - давать выход
+  - пропускать
+  2:
+  - :word: outlet
+    :trans: ʹaʋtlet
+  3:
+  - :word: outlet
+    :trans: ʹaʋtlet
+152:
+  1:
+  - :word: outlie
+    :trans: ʹaʋtlaı
+  translations:
+  - находиться снаружи
+  - вне (чего-л.)
+  - тратить
+  - расходовать (деньги)
+  2:
+  - :word: outlay
+    :trans: ʹaʋtleı
+  3:
+  - :word: outlain
+    :trans: ʹaʋtleın
+153:
+  1:
+  - :word: output
+    :trans: ʹaʋtpʋt
+  translations:
+  - производить
+  - выпускать
+  2:
+  - :word: output
+    :trans: ʹaʋtpʋt
+  3:
+  - :word: output
+    :trans: ʹaʋtpʋt
+154:
+  1:
+  - :word: outride
+    :trans: aʋtʹraıd
+  translations:
+  - перегнать
+  - опередить
+  - выдержать
+  - стойко перенести
+  2:
+  - :word: outrode
+    :trans: aʋtʹrəʋd
+  3:
+  - :word: outridden
+    :trans: aʋtʹrıd(ə)n
+155:
+  1:
+  - :word: outring
+    :trans: aʋtʹrıŋ
+  translations:
+  - прозвучать
+  - прозвенеть
+  2:
+  - :word: outrang
+    :trans: aʋtʹræŋ
+  3:
+  - :word: outrung
+    :trans: aʋtʹrʌŋ
+156:
+  1:
+  - :word: outrun
+    :trans: aʋtʹrʌn
+  translations:
+  - опередить
+  - обогнать
+  2:
+  - :word: outran
+    :trans: aʋtʹræn
+  3:
+  - :word: outrun
+    :trans: aʋtʹrʌn
+157:
+  1:
+  - :word: outsee
+    :trans: 'aʋtʹsi:'
+  translations:
+  - видеть дальше
+  - обладать большей проницательностью
+  2:
+  - :word: outsaw
+    :trans: 'aʋtʹsɔ:'
+  3:
+  - :word: outseen
+    :trans: aʋtʹsi:n
+158:
+  1:
+  - :word: outsell
+    :trans: aʋtʹsel
+  translations:
+  - продавать больше
+  - чем конкуренты
+  2:
+  - :word: outsold
+    :trans: aʋtʹsəʋld
+  3:
+  - :word: outsold
+    :trans: aʋtʹsəʋld
+159:
+  1:
+  - :word: outshine
+    :trans: aʋtʹʃaın
+  translations:
+  - затмить
+  - превзойти
+  2:
+  - :word: outshone
+    :trans: aʋtʹʃɒn
+  3:
+  - :word: outshone
+    :trans: aʋtʹʃɒn
+160:
+  1:
+  - :word: outshoot
+    :trans: ʹaʋtʃu:t
+  translations:
+  - выстреливать
+  - посылать
+  - отправлять
+  2:
+  - :word: outshot
+    :trans: aʋtʹʃɒt
+  3:
+  - :word: outshot
+    :trans: aʋtʹʃɒt
+161:
+  1:
+  - :word: outsing
+    :trans: aʋtʹsıŋ
+  translations:
+  - превзойти в пении
+  - петь лучше или громче
+  2:
+  - :word: outsang
+    :trans: aʋtʹsæŋ
+  3:
+  - :word: outsung
+    :trans: aʋtʹsʌŋ
+162:
+  1:
+  - :word: outsit
+    :trans: aʋtʹsıt
+  translations:
+  - пересидеть (других гостей)
+  - засидеться
+  2:
+  - :word: outsat
+    :trans: aʋtʹsæt
+  3:
+  - :word: outsat
+    :trans: aʋtʹsæt
+163:
+  1:
+  - :word: outsleep
+    :trans: aʋtʹsli:p
+  translations:
+  - проспать
+  - спать больше других
+  2:
+  - :word: outslept
+    :trans: aʋtʹslept
+  3:
+  - :word: outslept
+    :trans: aʋtʹslept
+164:
+  1:
+  - :word: outsmell
+    :trans: aʋtʹsmel
+  translations:
+  - иметь более тонкое обояние
+  2:
+  - :word: outsmelt
+    :trans: aʋtʹsmelt
+  - :word: outsmelled
+    :trans: aʋtʹsmeld
+  3:
+  - :word: outsmelt
+    :trans: aʋtʹsmelt
+  - :word: outsmelled
+    :trans: aʋtʹsmeld
+165:
+  1:
+  - :word: outspeak
+    :trans: aʋtʹspi:k
+  translations:
+  - говорить лучше
+  - выразительнее
+  - громче(кого-либо)
+  - высказываться смело или откровенно
+  2:
+  - :word: outspoke
+    :trans: aʋtʹspəʋk
+  3:
+  - :word: outspoken
+    :trans: aʋtʹspəʋkən
+166:
+  1:
+  - :word: outspeed
+    :trans: aʋtspi:d
+  translations:
+  - перегонять
+  - превосходить по скорости
+  - быстродействию
+  2:
+  - :word: outsped
+    :trans: aʋtsped
+  3:
+  - :word: outsped
+    :trans: aʋtsped
+167:
+  1:
+  - :word: outspend
+    :trans: aʋtʹspend
+  translations:
+  - перерасходовать
+  2:
+  - :word: outspent
+    :trans: aʋtʹspent
+  3:
+  - :word: outspent
+    :trans: aʋtʹspent
+168:
+  1:
+  - :word: outspin
+    :trans: aʋtspın
+  translations:
+  - растягивать (также в переносном смысле)
+  - экономить
+  2:
+  - :word: outspun
+    :trans: aʋtspʌn
+  3:
+  - :word: outspun
+    :trans: aʋtspʌn
+169:
+  1:
+  - :word: outspread
+    :trans: ʹaʋtspred
+  translations:
+  - распространять(ся)
+  - рассеиваться
+  - рассредоточиваться
+  2:
+  - :word: outspread
+    :trans: ʹaʋtspred
+  3:
+  - :word: outspread
+    :trans: ʹaʋtspred
+170:
+  1:
+  - :word: outspring
+    :trans: aʋtsprıŋ
+  translations:
+  - выходить
+  - вытекать
+  - выпрыгивать
+  2:
+  - :word: outsprang
+    :trans: aʋtspræŋ
+  3:
+  - :word: outsprung
+    :trans: aʋtsprʌŋ
+171:
+  1:
+  - :word: outstand
+    :trans: aʋtʹstænd
+  translations:
+  - выдерживать
+  - терпеть
+  - сносить
+  - выделяться
+  - выступать
+  2:
+  - :word: outstood
+    :trans: aʋtʹstʋd
+  3:
+  - :word: outstood
+    :trans: aʋtʹstʋd
+172:
+  1:
+  - :word: outstride
+    :trans: aʋtʹstraıd
+  translations:
+  - идти более широким шагом
+  - шагать быстрее (чем кто-л.)
+  - обгонять
+  2:
+  - :word: outstrode
+    :trans: aʋtʹstrəʋd
+  3:
+  - :word: outstridden
+    :trans: aʋtʹstrıdn
+173:
+  1:
+  - :word: outswear
+    :trans: aʋtʹsweə
+  translations:
+  - превзойти (кого-л.) в сквернословии
+  2:
+  - :word: outswore
+    :trans: 'aʋtʹswɔ:'
+  3:
+  - :word: outsworn
+    :trans: aʋtʹswɔ:n
+174:
+  1:
+  - :word: outswim
+    :trans: aʋtʹswım
+  translations:
+  - плавать/плыть быстрее или дальше чем кто-либо
+  2:
+  - :word: outswam
+    :trans: aʋtʹswæm
+  3:
+  - :word: outswum
+    :trans: aʋtʹswʌm
+175:
+  1:
+  - :word: outtell
+    :trans: aʋtʹtel
+  translations:
+  - заявлять
+  - провозглашать
+  2:
+  - :word: outtold
+    :trans: aʋtʹtəʋld
+  3:
+  - :word: outtold
+    :trans: aʋtʹtəʋld
+176:
+  1:
+  - :word: outthink
+    :trans: aʋtʹθıŋk
+  translations:
+  - перехитрить
+  - оказаться умнее
+  2:
+  - :word: outthought
+    :trans: aʋtʹθɔ:t
+  3:
+  - :word: outthought
+    :trans: aʋtʹθɔ:t
+177:
+  1:
+  - :word: outthrow
+    :trans: ʹaʋtθrəʋ
+  translations:
+  - выбрасывать
+  - извергать
+  - выделять
+  - бросать дальше чем кто-либо
+  2:
+  - :word: outthrew
+    :trans: 'aʋtʹθru:'
+  3:
+  - :word: outthrown
+    :trans: aʋtʹθrəʋn
+178:
+  1:
+  - :word: outwear
+    :trans: aʋtʹweə
+  translations:
+  - изнашивать
+  2:
+  - :word: outwore
+    :trans: 'aʋtʹwɔ:'
+  3:
+  - :word: outworn
+    :trans: aʋtʹwɔ:n
+179:
+  1:
+  - :word: outweep
+    :trans: aʋtʹwi:p
+  translations:
+  - плакать дольше (кого-л.)
+  2:
+  - :word: outwept
+    :trans: aʋtʹwept
+  3:
+  - :word: outwept
+    :trans: aʋtʹwept
+180:
+  1:
+  - :word: outwind
+    :trans: aʋtwınd
+  translations:
+  - отвязывать
+  - освобождать
+  2:
+  - :word: outwound
+    :trans: aʋtwu:nd
+  3:
+  - :word: outwound
+    :trans: aʋtwu:nd
+181:
+  1:
+  - :word: shear
+    :trans: ʃıə
+  translations:
+  - стричь
+  2:
+  - :word: 'sheared '
+    :trans: ʃıəd
+  - :word: shore
+    :trans: 'ʃɔ:'
+  3:
+  - :word: 'sheared '
+    :trans: ʃıəd
+  - :word: shorn
+    :trans: ʹʃɔ:n
+182:
+  1:
+  - :word: shed
+    :trans: ʃed
+  translations:
+  - проливать
+  - ронять
+  2:
+  - :word: shed
+    :trans: ʃed
+  3:
+  - :word: shed
+    :trans: ʃed
+183:
+  1:
+  - :word: shend
+    :trans: ʃend
+  translations:
+  - срамить
+  - позорить
+  - бесчестить
+  2:
+  - :word: shent
+    :trans: ʃent
+  3:
+  - :word: shent
+    :trans: ʃent
+184:
+  1:
+  - :word: shew
+    :trans: ʃəʋ
+  translations:
+  - показывать
+  2:
+  - :word: shewed
+    :trans: ʃəʋd
+  3:
+  - :word: shewn
+    :trans: ʃəʋn
+  - :word: shewed
+    :trans: ʃəʋd
+185:
+  1:
+  - :word: shine
+    :trans: ʃaın
+  translations:
+  - светить(ся)
+  - сиять
+  2:
+  - :word: shone
+    :trans: ʃəʋn
+  3:
+  - :word: shone
+    :trans: ʃəʋn
+186:
+  1:
+  - :word: shit
+    :trans: ʃıt
+  translations:
+  - гадить
+  2:
+  - :word: shitted
+    :trans: ʃıtıd
+  - :word: shat
+    :trans: ʃʌt
+  3:
+  - :word: shitted
+    :trans: ʃıtıd
+  - :word: shat
+    :trans: ʃʌt
+187:
+  1:
+  - :word: shoe
+    :trans: 'ʃu:'
+  translations:
+  - обувать
+  - подковывать
+  2:
+  - :word: shod
+    :trans: ʃɔ:d
+  3:
+  - :word: shod
+    :trans: ʃɔ:d
+188:
+  1:
+  - :word: shoot
+    :trans: ʃu:t
+  translations:
+  - стрелять
+  2:
+  - :word: shot
+    :trans: ʃɒt
+  3:
+  - :word: shot
+    :trans: ʃɒt
+189:
+  1:
+  - :word: shortcut
+    :trans: ʃɔ:tkʌt
+  translations:
+  - сократить путь
+  2:
+  - :word: shortcut
+    :trans: ʃɔ:tkʌt
+  3:
+  - :word: shortcut
+    :trans: ʃɔ:tkʌt
+190:
+  1:
+  - :word: show
+    :trans: ʃəʋ
+  translations:
+  - показывать
+  2:
+  - :word: showed
+    :trans: ʃeʋd
+  3:
+  - :word: shown
+    :trans: ʃəʋn
+  - :word: showed
+    :trans: ʃeʋd
+191:
+  1:
+  - :word: shred
+    :trans: ʃred
+  translations:
+  - резать
+  - разрезать
+  - рвать
+  - крошить
+  - измельчать
+  2:
+  - :word: shred(ded)
+    :trans: ʃred(ıd)
+  3:
+  - :word: shred(ded)
+    :trans: ʃred(ıd)
+192:
+  1:
+  - :word: shrink
+    :trans: ʃrıŋk
+  translations:
+  - сжиматься
+  - съёживаться
+  - давать усадку
+  - уменьшать
+  - сокращать
+  - сжимать
+  2:
+  - :word: shrank
+    :trans: ʃræŋk
+  3:
+  - :word: shrunk
+    :trans: ʃrʌŋk
+193:
+  1:
+  - :word: shrive
+    :trans: ʃraıv
+  translations:
+  - исповедовать(ся)
+  2:
+  - :word: 'shrived '
+    :trans: ʃraıvd
+  - :word: shrove
+    :trans: ʃrəʋv
+  3:
+  - :word: 'shrived '
+    :trans: ʃraıvd
+  - :word: shriven
+    :trans: ʃrıvn
+194:
+  1:
+  - :word: shut
+    :trans: ʃʌt
+  translations:
+  - затворять(ся)
+  - закрывать(ся)
+  2:
+  - :word: shut
+    :trans: ʃʌt
+  3:
+  - :word: shut
+    :trans: ʃʌt
+195:
+  1:
+  - :word: sidewind
+    :trans: saıdʹwaınd
+  translations:
+  - пойти боком
+  2:
+  - :word: sidewound
+    :trans: saıdʹwaʋnd
+  3:
+  - :word: sidewound
+    :trans: saıdʹwaʋnd
+196:
+  1:
+  - :word: sight-read
+    :trans: saıtred
+  translations:
+  - петь
+  - исполнять музыку с листа (без предварительных репетиций)
+  - переводить с листа
+  2:
+  - :word: sight-read
+    :trans: saıtred
+  3:
+  - :word: sight-read
+    :trans: saıtred
+197:
+  1:
+  - :word: sightsee
+    :trans: 'saıtʹsi:'
+  translations:
+  - осматривать достопримечательности
+  2:
+  - :word: sightsaw
+    :trans: 'saıtʹsɔ:'
+  3:
+  - :word: sightseen
+    :trans: saıtʹsi:n
+198:
+  1:
+  - :word: simulcast
+    :trans: sımlʹka:st
+  translations:
+  - транслировать одновременно по радио и телевидению
+  2:
+  - :word: simulcast
+    :trans: sımlʹka:st
+  3:
+  - :word: simulcast
+    :trans: sımlʹka:st
+199:
+  1:
+  - :word: sing
+    :trans: sıŋ
+  translations:
+  - петь
+  2:
+  - :word: sang
+    :trans: sæŋ
+  3:
+  - :word: sung
+    :trans: sʌŋ
+200:
+  1:
+  - :word: sink
+    :trans: sıŋk
+  translations:
+  - тонуть
+  2:
+  - :word: sank
+    :trans: sæŋk
+  3:
+  - :word: sunk
+    :trans: sʌŋk
+  - :word: sunken
+    :trans: sʌŋkən
+201:
+  1:
+  - :word: sit
+    :trans: sıt
+  translations:
+  - сидеть
+  2:
+  - :word: sat
+    :trans: sæt
+  3:
+  - :word: sat
+    :trans: sæt
+202:
+  1:
+  - :word: ski
+    :trans: 'ski:'
+  translations:
+  - ходить на лыжах
+  2:
+  - :word: skied
+    :trans: ski:d
+  - :word: ski'd
+    :trans: "%%%"
+  3:
+  - :word: skied
+    :trans: ski:d
+  - :word: ski'd
+    :trans: "%%%"
+203:
+  1:
+  - :word: skin-dive
+    :trans: skındaıv
+  translations:
+  - плавать или нырять с аквалангом
+  2:
+  - :word: skindived
+    :trans: skındaıvd
+  - :word: skindove
+    :trans: skındʌv
+  3:
+  - :word: skindived
+    :trans: skındaıvd
+204:
+  1:
+  - :word: skywrite
+    :trans: skaıraıt
+  translations:
+  - делать рекламные надписи в небе субстанцией, выпускаемой из самолета
+  - написать на небе
+  2:
+  - :word: skywrote
+    :trans: skaırəʋt
+  3:
+  - :word: skywritten
+    :trans: skaırıtn
+205:
+  1:
+  - :word: slay
+    :trans: sleı
+  translations:
+  - убивать
+  2:
+  - :word: slew
+    :trans: 'slu:'
+  3:
+  - :word: slain
+    :trans: sleın
+206:
+  1:
+  - :word: sleep
+    :trans: sli:p
+  translations:
+  - спать
+  2:
+  - :word: slept
+    :trans: slept
+  3:
+  - :word: slept
+    :trans: slept
+207:
+  1:
+  - :word: slide
+    :trans: slaıd
+  translations:
+  - скользить
+  2:
+  - :word: slid
+    :trans: slıd
+  3:
+  - :word: slid
+    :trans: slıd
+208:
+  1:
+  - :word: sling
+    :trans: slıŋ
+  translations:
+  - бросать
+  - швырять
+  2:
+  - :word: slung
+    :trans: slʌŋ
+  3:
+  - :word: slung
+    :trans: slʌŋ
+209:
+  1:
+  - :word: slink
+    :trans: slıŋk
+  translations:
+  - красться
+  - ходить раскачивая бёдрами
+  - выкинуть (плод — о животных)
+  2:
+  - :word: slunk
+    :trans: slʌŋk
+  3:
+  - :word: slunk
+    :trans: slʌŋk
+210:
+  1:
+  - :word: slit
+    :trans: slıt
+  translations:
+  - разрезать вдоль
+  - делать разрез
+  2:
+  - :word: slit
+    :trans: slıt
+  3:
+  - :word: slit
+    :trans: slıt
+211:
+  1:
+  - :word: smell
+    :trans: smel
+  translations:
+  - обонять
+  - чуять
+  - нюхать
+  - пахнуть
+  2:
+  - :word: smelt
+    :trans: smelt
+  - :word: smelled
+    :trans: smeld
+  3:
+  - :word: smelt
+    :trans: smelt
+  - :word: smelled
+    :trans: smeld
+212:
+  1:
+  - :word: smite
+    :trans: smaıt
+  translations:
+  - ударять
+  - бить
+  2:
+  - :word: smote
+    :trans: sməʋt
+  3:
+  - :word: smitten
+    :trans: smıtn
+213:
+  1:
+  - :word: snapshoot
+    :trans: snæpʹʃu:t
+  translations:
+  - сделать моментальную фотографию/моментальный снимок
+  2:
+  - :word: snapshot
+    :trans: snæpʹʃɒt
+  3:
+  - :word: snapshot
+    :trans: snæpʹʃɒt
+214:
+  1:
+  - :word: sneak
+    :trans: sni:k
+  translations:
+  - красться
+  2:
+  - :word: sneaked
+    :trans: sni:kd
+  - :word: snuck
+    :trans: snʌk
+  3:
+  - :word: sneaked
+    :trans: sni:kd
+  - :word: snuck
+    :trans: snʌk
+215:
+  1:
+  - :word: soothsay
+    :trans: ʹsu:θseı
+  translations:
+  - предсказывать
+  - пророчествовать
+  2:
+  - :word: soothsaid
+    :trans: ʹsu:θsed
+  3:
+  - :word: soothsaid
+    :trans: ʹsu:θsed
+216:
+  1:
+  - :word: sow
+    :trans: səʋ
+  translations:
+  - сеять
+  2:
+  - :word: sowed
+    :trans: səʋd
+  3:
+  - :word: 'sowed '
+    :trans: səʋd
+  - :word: sown
+    :trans: səʋn
+217:
+  1:
+  - :word: speak
+    :trans: spi:k
+  translations:
+  - говорить
+  2:
+  - :word: spoke
+    :trans: spəʋk
+  3:
+  - :word: spoken
+    :trans: ʹspəʋkən
+218:
+  1:
+  - :word: speed
+    :trans: spi:d
+  translations:
+  - быстро проходить
+  - проноситься
+  - быстро пролетать
+  - мчаться
+  - ускорять
+  2:
+  - :word: speeded
+    :trans: spi:dıd
+  - :word: sped
+    :trans: sped
+  3:
+  - :word: speeded
+    :trans: spi:dıd
+  - :word: sped
+    :trans: sped
+219:
+  1:
+  - :word: speed-read
+    :trans: spi:dri:d
+  translations:
+  - бегло читать
+  2:
+  - :word: speed-read
+    :trans: spi:dred
+  3:
+  - :word: speed-read
+    :trans: spi:dred
+220:
+  1:
+  - :word: spell
+    :trans: spel
+  translations:
+  - произносить или писать (слово) по буквам
+  2:
+  - :word: spelt
+    :trans: spelt
+  - :word: spelled
+    :trans: speld
+  3:
+  - :word: spelt
+    :trans: spelt
+  - :word: spelled
+    :trans: speld
+221:
+  1:
+  - :word: spellbind
+    :trans: ʹspelbaınd
+  translations:
+  - очаровывать
+  - завораживать
+  2:
+  - :word: spellbound
+    :trans: ʹspelbaʋnd
+  3:
+  - :word: spellbound
+    :trans: ʹspelbaʋnd
+222:
+  1:
+  - :word: spend
+    :trans: spend
+  translations:
+  - тратить
+  - проводить (время)
+  2:
+  - :word: spent
+    :trans: spent
+  3:
+  - :word: spent
+    :trans: spent
+223:
+  1:
+  - :word: spill
+    :trans: spıl
+  translations:
+  - проливать(ся)
+  2:
+  - :word: spilt
+    :trans: spılt
+  - :word: spilled
+    :trans: spıld
+  3:
+  - :word: spilt
+    :trans: spılt
+  - :word: spilled
+    :trans: spıld
+224:
+  1:
+  - :word: spin
+    :trans: spın
+  translations:
+  - прясть
+  2:
+  - :word: spun
+    :trans: spʌn
+  - :word: span
+    :trans: spæn
+  3:
+  - :word: spun
+    :trans: spʌn
+225:
+  1:
+  - :word: spit
+    :trans: spıt
+  translations:
+  - плевать(ся)
+  2:
+  - :word: spat
+    :trans: spıt
+  - :word: spit
+    :trans: spæt
+  3:
+  - :word: spat
+    :trans: spıt
+  - :word: spit
+    :trans: spæt
+226:
+  1:
+  - :word: split
+    :trans: splıt
+  translations:
+  - расщеплять(ся)
+  - раскалывать(ся)
+  - трескать(ся)
+  2:
+  - :word: split
+    :trans: splıt
+  3:
+  - :word: split
+    :trans: splıt
+227:
+  1:
+  - :word: spoil
+    :trans: spɔıl
+  translations:
+  - портить
+  - баловать
+  2:
+  - :word: spoilt
+    :trans: spɔılt
+  - :word: spoiled
+    :trans: spɔıld
+  3:
+  - :word: spoilt
+    :trans: spɔılt
+  - :word: spoiled
+    :trans: spɔıld
+228:
+  1:
+  - :word: spoon-feed
+    :trans: ʹspu:nfi:d
+  translations:
+  - кормить с ложки
+  2:
+  - :word: spoon-fed
+    :trans: "͵spu:nʹfed"
+  3:
+  - :word: spoon-fed
+    :trans: "͵spu:nʹfed"
+229:
+  1:
+  - :word: spotlight
+    :trans: ʹspɒtlaıt
+  translations:
+  - осветить прожектором
+  - сделать центром внимания
+  2:
+  - :word: spotlighted
+    :trans: spɒtlaıtıd
+  - :word: spotlit
+    :trans: spɒtlıt
+  3:
+  - :word: spotlighted
+    :trans: spɒtlaıtıd
+  - :word: spotlit
+    :trans: spɒtlıt
+230:
+  1:
+  - :word: spread
+    :trans: spred
+  translations:
+  - распространять(ся)
+  2:
+  - :word: spread
+    :trans: spred
+  3:
+  - :word: spread
+    :trans: spred
+231:
+  1:
+  - :word: spring
+    :trans: sprıŋ
+  translations:
+  - прыгать
+  2:
+  - :word: sprang
+    :trans: spræŋ
+  3:
+  - :word: sprung
+    :trans: sprʌŋ
+232:
+  1:
+  - :word: stall-feed
+    :trans: ʹstɔ:lfi:d
+  translations:
+  - откармливать в стойле
+  2:
+  - :word: stall-fed
+    :trans: "͵stɔ:lʹfed"
+  3:
+  - :word: stall-fed
+    :trans: "͵stɔ:lʹfed"
+233:
+  1:
+  - :word: stand
+    :trans: stænd
+  translations:
+  - стоять
+  2:
+  - :word: stood
+    :trans: stʋd
+  3:
+  - :word: stood
+    :trans: stʋd
+234:
+  1:
+  - :word: stave
+    :trans: steıv
+  translations:
+  - пробить разбить (бочку и т. п.)
+  2:
+  - :word: 'staved '
+    :trans: steıvd
+  - :word: stove
+    :trans: stəʋv
+  3:
+  - :word: 'staved '
+    :trans: steıvd
+  - :word: stove
+    :trans: stəʋv
+235:
+  1:
+  - :word: steal
+    :trans: sti:l
+  translations:
+  - воровать
+  - "(у)красть"
+  2:
+  - :word: stole
+    :trans: stəʋl
+  3:
+  - :word: stolen
+    :trans: ʹstəʋlən
+236:
+  1:
+  - :word: stick
+    :trans: stık
+  translations:
+  - втыкать(ся)
+  - вонзать(ся)
+  2:
+  - :word: stuck
+    :trans: stʌk
+  3:
+  - :word: stuck
+    :trans: stʌk
+237:
+  1:
+  - :word: sting
+    :trans: stıŋ
+  translations:
+  - жалить
+  - жечь
+  2:
+  - :word: stung
+    :trans: stʌŋ
+  3:
+  - :word: stung
+    :trans: stʌŋ
+238:
+  1:
+  - :word: stink
+    :trans: stıŋk
+  translations:
+  - вонять
+  - смердеть
+  2:
+  - :word: stunk
+    :trans: stʌŋk
+  - :word: stank
+    :trans: stæŋk
+  3:
+  - :word: stunk
+    :trans: stʌŋk
+239:
+  1:
+  - :word: straphang
+    :trans: ʹstræphæŋ
+  translations:
+  - ехать стоя
+  - держась за ремень (в трамвае
+  - автобусе)
+  2:
+  - :word: straphung
+    :trans: stræphʌŋ
+  3:
+  - :word: straphung
+    :trans: stræphʌŋ
+240:
+  1:
+  - :word: strew
+    :trans: 'stru:'
+  translations:
+  - разбрасывать
+  - разбрызгивать
+  2:
+  - :word: strewed
+    :trans: stru:d
+  3:
+  - :word: 'strewed '
+    :trans: stru:d
+  - :word: strewn
+    :trans: stru:n
+241:
+  1:
+  - :word: stride
+    :trans: straıd
+  translations:
+  - шагать (большими шагами)
+  2:
+  - :word: strode
+    :trans: strəʋd
+  3:
+  - :word: stridden
+    :trans: ʹstrıdn
+242:
+  1:
+  - :word: strike
+    :trans: straık
+  translations:
+  - ударять(ся)
+  2:
+  - :word: struck
+    :trans: strʌk
+  3:
+  - :word: struck
+    :trans: strʌk
+  - :word: stricken
+    :trans: ʹstrıkən
+243:
+  1:
+  - :word: string
+    :trans: strıŋ
+  translations:
+  - натягивать (струну
+  - тетиву и т. п.)
+  2:
+  - :word: strung
+    :trans: strʌŋ
+  3:
+  - :word: strung
+    :trans: strʌŋ
+244:
+  1:
+  - :word: strip
+    :trans: strıp
+  translations:
+  - обдирать
+  - снимать верхний слой
+  - раздевать
+  - срывать одежду
+  2:
+  - :word: stript
+    :trans: strıpt
+  3:
+  - :word: stript
+    :trans: strıpt
+245:
+  1:
+  - :word: strive
+    :trans: straıv
+  translations:
+  - стараться
+  - прилагать усилия
+  - бороться
+  2:
+  - :word: strove
+    :trans: strəʋv
+  3:
+  - :word: striven
+    :trans: ʹstrıvn
+246:
+  1:
+  - :word: sublet
+    :trans: sʌbʹlet
+  translations:
+  - сдавать в поднаём
+  - передавать в субаренду
+  2:
+  - :word: sublet
+    :trans: sʌbʹlet
+  3:
+  - :word: sublet
+    :trans: sʌbʹlet
+247:
+  1:
+  - :word: sunburn
+    :trans: sʌnbɜ:n
+  translations:
+  - обгорать на солнце
+  2:
+  - :word: sunburned
+    :trans: sʌnbɜ:nd
+  - :word: sunburnt
+    :trans: sʌnbɜ:nt
+  3:
+  - :word: sunburned
+    :trans: sʌnbɜ:nd
+  - :word: sunburnt
+    :trans: sʌnbɜ:nt
+248:
+  1:
+  - :word: swear
+    :trans: sweə
+  translations:
+  - клясться
+  - ругаться
+  - сквернословить
+  2:
+  - :word: swore
+    :trans: 'swɔ:'
+  3:
+  - :word: sworn
+    :trans: swɔ:n
+249:
+  1:
+  - :word: sweat
+    :trans: swet
+  translations:
+  - потеть
+  2:
+  - :word: sweat
+    :trans: ʹswetıd
+  - :word: sweated
+    :trans: "%%%"
+  3:
+  - :word: sweat
+    :trans: ʹswetıd
+  - :word: sweated
+    :trans: "%%%"
+250:
+  1:
+  - :word: sweep
+    :trans: swi:p
+  translations:
+  - мести
+  2:
+  - :word: swept
+    :trans: swept
+  3:
+  - :word: swept
+    :trans: swept
+251:
+  1:
+  - :word: swell
+    :trans: swel
+  translations:
+  - надувать(ся)
+  - раздувать(ся)
+  - набухать
+  - опухать
+  2:
+  - :word: swelled
+    :trans: sweld
+  3:
+  - :word: 'swelled '
+    :trans: sweld
+  - :word: swollen
+    :trans: swəʋlən
+252:
+  1:
+  - :word: swim
+    :trans: swım
+  translations:
+  - плавать
+  - плыть
+  2:
+  - :word: swam
+    :trans: swæm
+  3:
+  - :word: swum
+    :trans: swʌm
+253:
+  1:
+  - :word: swing
+    :trans: swıŋ
+  translations:
+  - качать(ся)
+  - колебать(ся)
+  - раскачивать(ся)
+  2:
+  - :word: swung
+    :trans: swʌŋ
+  3:
+  - :word: swung
+    :trans: swʌŋ
+254:
+  1:
+  - :word: swink
+    :trans: swıŋk
+  translations:
+  - много работать(устар.)
+  2:
+  - :word: swinked
+    :trans: swıŋkt
+  - :word: swank
+    :trans: swæŋ
+  3:
+  - :word: swinked
+    :trans: swıŋkt
+  - :word: swank
+    :trans: swæŋ
+255:
+  1:
+  - :word: switch-hit
+    :trans: swıtʃhıt
+  translations:
+  - отбивать мяч как правой так и левой рукой
+  2:
+  - :word: switch-hit
+    :trans: swıtʃhıt
+  3:
+  - :word: switch-hit
+    :trans: swıtʃhıt
+256:
+  1:
+  - :word: tailor-make
+    :trans: "͵teıləʹmeık"
+  translations:
+  - делать по специальному заказу
+  2:
+  - :word: tailor-made
+    :trans: "͵teıləʹmeıd"
+  3:
+  - :word: tailor-made
+    :trans: "͵teıləʹmeıd"
+257:
+  1:
+  - :word: take
+    :trans: teık
+  translations:
+  - брать
+  2:
+  - :word: took
+    :trans: tʋk
+  3:
+  - :word: taken
+    :trans: ʹteıkən
+258:
+  1:
+  - :word: teach
+    :trans: ti:tʃ
+  translations:
+  - учить
+  - обучать
+  - преподавать
+  2:
+  - :word: taught
+    :trans: tɔ:t
+  3:
+  - :word: taught
+    :trans: tɔ:t
+259:
+  1:
+  - :word: team-teach
+    :trans: ti:mti:tʃ
+  translations:
+  - применять коллективный метод преподавания
+  2:
+  - :word: team-taught
+    :trans: ti:mtɔ:t
+  3:
+  - :word: team-taught
+    :trans: ti:mtɔ:t
+260:
+  1:
+  - :word: tear
+    :trans: teə
+  translations:
+  - рвать(ся)
+  - разрывать(ся)
+  2:
+  - :word: tore
+    :trans: 'tɔ:'
+  3:
+  - :word: torn
+    :trans: tɔ:n
+261:
+  1:
+  - :word: telecast
+    :trans: ʹtelıkɑ:st
+  translations:
+  - передавать по телевидению
+  - передавать телевизионную программу
+  2:
+  - :word: telecast
+    :trans: ʹtelıkɑ:st
+  3:
+  - :word: telecast
+    :trans: ʹtelıkɑ:st
+262:
+  1:
+  - :word: tell
+    :trans: tel
+  translations:
+  - рассказывать
+  2:
+  - :word: told
+    :trans: təʋld
+  3:
+  - :word: told
+    :trans: təʋld
+263:
+  1:
+  - :word: test-drive
+    :trans: testdraıv
+  translations:
+  - совершать пробную поездку на автомобиле
+  - проводить испытания ( автомобиля / компьютерной программы)
+  2:
+  - :word: test-drove
+    :trans: testdræʋv
+  3:
+  - :word: test-driven
+    :trans: testdrıvn
+264:
+  1:
+  - :word: test-fly
+    :trans: testflaı
+  translations:
+  - выполнять пробный полёт
+  - проводить летные испытания
+  2:
+  - :word: test-flew
+    :trans: 'testflu:'
+  3:
+  - :word: test-flown
+    :trans: testfləʋn
+265:
+  1:
+  - :word: think
+    :trans: θınk
+  translations:
+  - думать
+  2:
+  - :word: thought
+    :trans: θɔ:t
+  3:
+  - :word: thought
+    :trans: θɔ:t
+266:
+  1:
+  - :word: thrive
+    :trans: θraıv
+  translations:
+  - процветать
+  - преуспевать
+  2:
+  - :word: 'thrived '
+    :trans: θraıvd
+  - :word: throve
+    :trans: θrəʋv
+  3:
+  - :word: 'thrived '
+    :trans: θraıvd
+  - :word: thriven
+    :trans: θrıvn
+267:
+  1:
+  - :word: throw
+    :trans: θrəʋ
+  translations:
+  - бросать(ся)
+  - кидать(ся)
+  2:
+  - :word: threw
+    :trans: 'θru:'
+  3:
+  - :word: thrown
+    :trans: θrəʋn
+268:
+  1:
+  - :word: thrust
+    :trans: θrʌst
+  translations:
+  - толкать
+  - тыкать
+  - совать
+  - засовывать
+  - всовывать
+  - просовывать
+  2:
+  - :word: thrust
+    :trans: θrʌst
+  3:
+  - :word: thrust
+    :trans: θrʌst
+269:
+  1:
+  - :word: thunderstrike
+    :trans: θʌndəstraık
+  translations:
+  - ошеломить
+  2:
+  - :word: thunderstruck
+    :trans: θʌndəstrʌk
+  3:
+  - :word: thunderstruck
+    :trans: θʌndəstrʌk
+  - :word: thunderstricken
+    :trans: θʌndəstrıkən
+270:
+  1:
+  - :word: tine
+    :trans: taın
+  translations:
+  - потерять(ся)
+  2:
+  - :word: tint
+    :trans: tınt
+  - :word: tined
+    :trans: ʹtaınd
+  3:
+  - :word: tint
+    :trans: tınt
+  - :word: tined
+    :trans: ʹtaınd
+271:
+  1:
+  - :word: toss
+    :trans: tɒs
+  translations:
+  - бросать
+  2:
+  - :word: tost
+    :trans: tɒst
+  3:
+  - :word: tost
+    :trans: tɒst
+272:
+  1:
+  - :word: tread
+    :trans: tred
+  translations:
+  - ступать
+  - шагать
+  2:
+  - :word: trod
+    :trans: trɒd
+  3:
+  - :word: trod
+    :trans: trɒd
+  - :word: trodden
+    :trans: trɒdn
+273:
+  1:
+  - :word: troubleshoot
+    :trans: trʌb(ə)lʃu:t
+  translations:
+  - диагностировать (техн.)
+  - искать неисправности
+  - разрешать проблемы
+  2:
+  - :word: troubleshot
+    :trans: trʌb(ə)lʃɒt
+  3:
+  - :word: troubleshot
+    :trans: trʌb(ə)lʃɒt
+274:
+  1:
+  - :word: typecast
+    :trans: taıpsetkɑ:st
+  translations:
+  - подбирать актеров по типажам
+  - давать актеру однотипные роли
+  2:
+  - :word: typecast
+    :trans: taıpsetkɑ:st
+  3:
+  - :word: typecast
+    :trans: taıpsetkɑ:st
+275:
+  1:
+  - :word: typeset
+    :trans: taıpset
+  translations:
+  - набирать текст для последующей печати
+  2:
+  - :word: typeset
+    :trans: taıpset
+  3:
+  - :word: typeset
+    :trans: taıpset
+276:
+  1:
+  - :word: typewrite
+    :trans: taıpraıt
+  translations:
+  - печатать на пишущей машине
+  2:
+  - :word: typewrote
+    :trans: taıprəʋt
+  3:
+  - :word: typewritten
+    :trans: taıpʹrıtn
+277:
+  1:
+  - :word: unbear
+    :trans: ʌnbeə
+  translations:
+  - снимать или уменьшать навьюченный груз (например
+  - с лошади)
+  2:
+  - :word: unbore
+    :trans: 'ʌnbɔ:'
+  3:
+  - :word: unborn
+    :trans: ʌnbɔ:n
+278:
+  1:
+  - :word: unbend
+    :trans: ʌnʹbend
+  translations:
+  - выпрямлять(ся)
+  - разгибать(ся)
+  2:
+  - :word: unbent
+    :trans: ʌnʹbent
+  3:
+  - :word: unbent
+    :trans: ʌnʹbent
+279:
+  1:
+  - :word: unbind
+    :trans: ʌnʹbaınd
+  translations:
+  - развязывать
+  2:
+  - :word: unbound
+    :trans: ʌnʹbaʋnd
+  3:
+  - :word: unbound
+    :trans: ʌnʹbaʋnd
+280:
+  1:
+  - :word: unbuild
+    :trans: ʌnbıld
+  translations:
+  - разрушать здание
+  - сносить
+  2:
+  - :word: unbuilt
+    :trans: ʌnbılt
+  3:
+  - :word: unbuilt
+    :trans: ʌnbılt
+281:
+  1:
+  - :word: unclothe
+    :trans: ʌnkləʋð
+  translations:
+  - обнажать(ся)
+  - раскрывать(ся)
+  2:
+  - :word: unclothed
+    :trans: ʌnkləʋðd
+  - :word: unclad
+    :trans: ʌnklæd
+  3:
+  - :word: unclothed
+    :trans: ʌnkləʋðd
+  - :word: unclad
+    :trans: ʌnklæd
+282:
+  1:
+  - :word: underbid
+    :trans: ʌndəʹbıd
+  translations:
+  - предложить по более низкой цене (по сравнению с другими)
+  - сбить цену
+  2:
+  - :word: underbid
+    :trans: ʌndəʹbıd
+  3:
+  - :word: underbid
+    :trans: ʌndəʹbıd
+283:
+  1:
+  - :word: underbuy
+    :trans: "͵ʌndəʹbaı"
+  translations:
+  - покупать ниже стоимости
+  2:
+  - :word: underbought
+    :trans: "͵ʌndəʹbɔ:t"
+  3:
+  - :word: underbought
+    :trans: "͵ʌndəʹbɔ:t"
+284:
+  1:
+  - :word: undercut
+    :trans: ʹʌndəkʌt
+  translations:
+  - подрезать
+  - сбивать цены
+  - продавать по более низким ценам
+  2:
+  - :word: undercut
+    :trans: ʹʌndəkʌt
+  3:
+  - :word: undercut
+    :trans: ʹʌndəkʌt
+285:
+  1:
+  - :word: underdo
+    :trans: 'ʌndəʹdu:'
+  translations:
+  - недоделывать
+  - недожаривать
+  2:
+  - :word: underdid
+    :trans: ʌndəʹdıd
+  3:
+  - :word: underdone
+    :trans: ʌndəʹdʌn
+286:
+  1:
+  - :word: underdraw
+    :trans: "͵ʌndəʹdrɔ:"
+  translations:
+  - подчёркивать
+  2:
+  - :word: underdrew
+    :trans: "͵ʌndəʹdru:"
+  3:
+  - :word: underdrawn
+    :trans: "͵ʌndəʹdrɔ:n"
+287:
+  1:
+  - :word: underfeed
+    :trans: ʌndəʹfi:d
+  translations:
+  - недокармливать
+  - недоедать
+  2:
+  - :word: underfed
+    :trans: ʌndəʹfed
+  3:
+  - :word: underfed
+    :trans: ʌndəʹfed
+288:
+  1:
+  - :word: undergird
+    :trans: "͵ʌndəʹgɜ:d"
+  translations:
+  - поддерживать
+  2:
+  - :word: undergirded
+    :trans: ʌndəʹgɜ:dıd
+  - :word: undergirt
+    :trans: ʌndəʹgɜ:t
+  3:
+  - :word: undergirded
+    :trans: ʌndəʹgɜ:dıd
+  - :word: undergirt
+    :trans: ʌndəʹgɜ:t
+289:
+  1:
+  - :word: undergo
+    :trans: ʌndəʹgəʋ
+  translations:
+  - испытывать
+  - переносить
+  - подвергаться
+  2:
+  - :word: underwent
+    :trans: ʌndəʹwent
+  3:
+  - :word: undergone
+    :trans: ʌndəʹgɒn
+290:
+  1:
+  - :word: underlay
+    :trans: ʌndəʹleı
+  translations:
+  - подстилать
+  - подкладывать
+  - лежать в основе (чего-л.)
+  2:
+  - :word: underlaid
+    :trans: ʌndəʹleıd
+  3:
+  - :word: underlaid
+    :trans: ʌndəʹleıd
+291:
+  1:
+  - :word: underlet
+    :trans: ʌndəʹlet
+  translations:
+  - сдавать в аренду по заниженной цене
+  2:
+  - :word: underlet
+    :trans: ʌndəʹlet
+  3:
+  - :word: underlet
+    :trans: ʌndəʹlet
+292:
+  1:
+  - :word: underlie
+    :trans: ʌndəʹlaı
+  translations:
+  - лежать в основе (чего-л.)
+  - подстилать
+  - подкладывать
+  2:
+  - :word: underlay
+    :trans: ʌndəʹleı
+  3:
+  - :word: underlain
+    :trans: ʌndəʹleın
+293:
+  1:
+  - :word: underpay
+    :trans: ʌndəʹpeı
+  translations:
+  - мало платить (за какой-л. труд)
+  - недоплачивать
+  2:
+  - :word: underpaid
+    :trans: ʌndəʹpeıd
+  3:
+  - :word: underpaid
+    :trans: ʌndəʹpeıd
+294:
+  1:
+  - :word: underrun
+    :trans: "͵ʌndəʹrʌn"
+  translations:
+  - проходить
+  - проезжать
+  - протекать (под чем-л.)
+  2:
+  - :word: underran
+    :trans: "͵ʌndəʹræn"
+  3:
+  - :word: underrun
+    :trans: "͵ʌndəʹrʌn"
+295:
+  1:
+  - :word: undersell
+    :trans: ʌndəʹsel
+  translations:
+  - продавать по пониженной цене
+  - продавать дешевле других
+  2:
+  - :word: undersold
+    :trans: ʌndəʹsəʋld
+  3:
+  - :word: undersold
+    :trans: ʌndəʹsəʋld
+296:
+  1:
+  - :word: underset
+    :trans: ʌndəʹset
+  translations:
+  - подпирать
+  - поддерживать
+  2:
+  - :word: underset
+    :trans: ʌndəʹset
+  3:
+  - :word: underset
+    :trans: ʌndəʹset
+297:
+  1:
+  - :word: undershoot
+    :trans: ʌndəʹʃu:t
+  translations:
+  - стрелять с недолётом
+  2:
+  - :word: undershot
+    :trans: ʌndəʹʃɒt
+  3:
+  - :word: undershot
+    :trans: ʌndəʹʃɒt
+298:
+  1:
+  - :word: underspend
+    :trans: ʌndəʹspend
+  translations:
+  - недостаточно потратить (денег/времени)
+  2:
+  - :word: underspent
+    :trans: ʌndəʹspent
+  3:
+  - :word: underspent
+    :trans: ʌndəʹspent
+299:
+  1:
+  - :word: understand
+    :trans: ʌndəʹstænd
+  translations:
+  - понимать
+  2:
+  - :word: understood
+    :trans: ʌndəʹstʋd
+  3:
+  - :word: understood
+    :trans: ʌndəʹstʋd
+300:
+  1:
+  - :word: undertake
+    :trans: ʌndəʹteık
+  translations:
+  - предпринимать
+  2:
+  - :word: undertook
+    :trans: ʌndəʹtʋk
+  3:
+  - :word: undertaken
+    :trans: ʌndəʹteıkən
+301:
+  1:
+  - :word: underthrust
+    :trans: ʌndəθrʌst
+  translations:
+  - 'о слоях вещества: вдвигаться'
+  - заползать снизу под что-то
+  2:
+  - :word: underthrust
+    :trans: ʌndəθrʌst
+  3:
+  - :word: underthrust
+    :trans: ʌndəθrʌst
+302:
+  1:
+  - :word: underwork
+    :trans: "͵ʌndəʹwɜ:k"
+  translations:
+  - недостаточно обрабатывать
+  - мало работать
+  2:
+  - :word: underworked
+    :trans: ʌndəʹwɜ:kt
+  - :word: underwrought
+    :trans: ʌndəʹrɔ:t
+  3:
+  - :word: underworked
+    :trans: ʌndəʹwɜ:kt
+  - :word: underwrought
+    :trans: ʌndəʹrɔ:t
+303:
+  1:
+  - :word: underwrite
+    :trans: ʌndəraıt
+  translations:
+  - подписывать(ся)
+  - страховать (суда
+  - грузы)
+  2:
+  - :word: underwrote
+    :trans: ʌndərəʋt
+  3:
+  - :word: underwritten
+    :trans: ʌndərıtn
+304:
+  1:
+  - :word: undo
+    :trans: 'ʌnʹdu:'
+  translations:
+  - развязывать
+  - расстёгивать
+  - уничтожить сделанное
+  2:
+  - :word: undid
+    :trans: ʌnʹdıd
+  3:
+  - :word: undone
+    :trans: ʌnʹdʌn
+305:
+  1:
+  - :word: undraw
+    :trans: 'ʌnʹdrɔ:'
+  translations:
+  - открывать
+  - раздвигать (шторы
+  - занавески)
+  - неиспользовать (ассигнования(
+  2:
+  - :word: undrew
+    :trans: 'ʌnʹdru:'
+  3:
+  - :word: undrawn
+    :trans: ʌnʹdrɔ:n
+306:
+  1:
+  - :word: unfreeze
+    :trans: ʌnʹfri:z
+  translations:
+  - размораживать
+  2:
+  - :word: unfroze
+    :trans: ʌnʹfrəʋz
+  3:
+  - :word: unfrozen
+    :trans: ʌnʹfrəʋz(ə)n
+307:
+  1:
+  - :word: unget
+    :trans: ʌnʹget
+  translations:
+  - уничтожать в зародыше
+  2:
+  - :word: ungot
+    :trans: ʌnʹgɒt
+  3:
+  - :word: ungotten
+    :trans: "%%%"
+  - :word: ungot
+    :trans: ʌnʹgɒt
+308:
+  1:
+  - :word: ungild
+    :trans: ʌnʹgıld
+  translations:
+  - удалять позолоту
+  2:
+  - :word: ungilded
+    :trans: "%%%"
+  - :word: ungilt
+    :trans: ʌnʹgılt
+  3:
+  - :word: ungilded
+    :trans: "%%%"
+  - :word: ungilt
+    :trans: ʌnʹgılt
+309:
+  1:
+  - :word: ungird
+    :trans: ʌnʹgɜ:d
+  translations:
+  - развязывать на себе пояс
+  - распоясываться
+  2:
+  - :word: ungirded
+    :trans: ʌnʹgɜ:t
+  - :word: ungirt
+    :trans: "%%%"
+  3:
+  - :word: ungirded
+    :trans: ʌnʹgɜ:t
+  - :word: ungirt
+    :trans: "%%%"
+310:
+  1:
+  - :word: unhang
+    :trans: ʌnʹhæŋ
+  translations:
+  - снимать (что-л. висящее)
+  2:
+  - :word: unhung
+    :trans: ʌnʹhʌŋ
+  3:
+  - :word: unhung
+    :trans: ʌnʹhʌŋ
+311:
+  1:
+  - :word: unhide
+    :trans: ʌnhaıd
+  translations:
+  - показывать
+  - раскрывать ч-либо скрытое
+  2:
+  - :word: unhid
+    :trans: ʌnhıd
+  3:
+  - :word: unhidden
+    :trans: ʌnhıdn
+312:
+  1:
+  - :word: unhold
+    :trans: ʌnhəʋld
+  translations:
+  - выпускать
+  - отпускать
+  - освобождать
+  2:
+  - :word: unheld
+    :trans: ʌnheld
+  3:
+  - :word: unheld
+    :trans: ʌnheld
+313:
+  1:
+  - :word: unknit
+    :trans: "͵ʌnʹnıt"
+  translations:
+  - распускать(ся) (о вязанье)
+  2:
+  - :word: unknitted
+    :trans: "͵ʌnʹnıt"
+  - :word: unknit
+    :trans: "%%%"
+  3:
+  - :word: unknitted
+    :trans: "͵ʌnʹnıt"
+  - :word: unknit
+    :trans: "%%%"
+314:
+  1:
+  - :word: unlade
+    :trans: ʌnʹleıd
+  translations:
+  - разгружать
+  - выгружать
+  2:
+  - :word: unladed
+    :trans: ʌnleıdıd
+  3:
+  - :word: unladed
+    :trans: ʌnleıdıd
+  - :word: unladen
+    :trans: ʌnʹleıdn
+315:
+  1:
+  - :word: unlay
+    :trans: ʌnʹleı
+  translations:
+  - распускать на пряди (трос)
+  2:
+  - :word: unlaid
+    :trans: ʌnʹleıd
+  3:
+  - :word: unlaid
+    :trans: ʌnʹleıd
+316:
+  1:
+  - :word: unlearn
+    :trans: ʌnʹlɜ:n
+  translations:
+  - разучиться
+  - забыть то, что знал
+  2:
+  - :word: 'unlearnt '
+    :trans: ʌnʹlɜ:nt
+  - :word: unlearned
+    :trans: ʌnʹlɜ:nd
+  3:
+  - :word: 'unlearnt '
+    :trans: ʌnʹlɜ:nt
+  - :word: unlearned
+    :trans: ʌnʹlɜ:nd
+317:
+  1:
+  - :word: unmake
+    :trans: ʌnʹmeık
+  translations:
+  - разрушать
+  - уничтожать (сделанное)
+  2:
+  - :word: unmade
+    :trans: ʌnʹmeıd
+  3:
+  - :word: unmade
+    :trans: ʌnʹmeıd
+318:
+  1:
+  - :word: unreeve
+    :trans: ʌnri:v
+  translations:
+  - вынимать веревку из кольца/отверстия/блока/снасти
+  2:
+  - :word: unreeved
+    :trans: ʌnri:vd
+  - :word: unrove
+    :trans: ʌnrəʋv
+  3:
+  - :word: unreeved
+    :trans: ʌnri:vd
+  - :word: unrove
+    :trans: ʌnrəʋv
+319:
+  1:
+  - :word: unsay
+    :trans: ʌnʹseı
+  translations:
+  - брать назад (слова)
+  - отказываться (от сказанного или написанного)
+  2:
+  - :word: unsaid
+    :trans: ʌnʹsed
+  3:
+  - :word: unsaid
+    :trans: ʌnʹsed
+320:
+  1:
+  - :word: unsell
+    :trans: ʌnʹsel
+  translations:
+  - разубеждать
+  - разуверять (в чём-л.)
+  2:
+  - :word: unsold
+    :trans: "͵ʌnʹsəʋld"
+  3:
+  - :word: unsold
+    :trans: "͵ʌnʹsəʋld"
+321:
+  1:
+  - :word: unsew
+    :trans: ʌnʹsəʋ
+  translations:
+  - распарывать (шитьё)
+  2:
+  - :word: unsewed
+    :trans: ʌnʹsəʋd
+  3:
+  - :word: unsewn
+    :trans: ʌnʹsəʋn
+322:
+  1:
+  - :word: unshoe
+    :trans: 'ʌnʹʃu:'
+  translations:
+  - расковать
+  - разувать
+  2:
+  - :word: unshod
+    :trans: ʌnʹʃɔ:d
+  3:
+  - :word: unshod
+    :trans: ʌnʹʃɔ:d
+323:
+  1:
+  - :word: unsling
+    :trans: ʌnʹslıŋ
+  translations:
+  - отвязывать
+  - снимать (воен. с плеча из положения «на ремень»)
+  2:
+  - :word: unslung
+    :trans: ʌnʹslʌŋ
+  3:
+  - :word: unslung
+    :trans: ʌnʹslʌŋ
+324:
+  1:
+  - :word: unspeak
+    :trans: ʌnʹspi:k
+  translations:
+  - взять назад свои слова
+  2:
+  - :word: unspoke
+    :trans: ʌnʹspəʋk
+  3:
+  - :word: unspoken
+    :trans: ʌnʹspəʋkən
+325:
+  1:
+  - :word: unspin
+    :trans: ʌnspın
+  translations:
+  - распускать
+  - расплетать
+  - распрядать
+  - распутывать
+  2:
+  - :word: unspun
+    :trans: ʌnspʌn
+  3:
+  - :word: unspun
+    :trans: ʌnspʌn
+326:
+  1:
+  - :word: unstick
+    :trans: ʌnʹstık
+  translations:
+  - отклеивать
+  - отдирать
+  2:
+  - :word: unstuck
+    :trans: ʌnʹstʌk
+  3:
+  - :word: unstuck
+    :trans: ʌnʹstʌk
+327:
+  1:
+  - :word: unstring
+    :trans: ʌnʹstrıŋ
+  translations:
+  - распускать (бусы и т. п.)
+  - ослабить струны
+  2:
+  - :word: unstrung
+    :trans: ʌnʹstrʌŋ
+  3:
+  - :word: unstrung
+    :trans: ʌnʹstrʌŋ
+328:
+  1:
+  - :word: unswear
+    :trans: ʌnʹsweə
+  translations:
+  - опровергать или отрицать под присягой (что-л.)
+  - взять назад клятву
+  2:
+  - :word: unswore
+    :trans: 'ʌnʹswɔ:'
+  3:
+  - :word: unsworn
+    :trans: "͵ʌnʹswɔ:n"
+329:
+  1:
+  - :word: unteach
+    :trans: ʌnti:tʃ
+  translations:
+  - лишать умений или знаний
+  - разубеждать
+  2:
+  - :word: untaught
+    :trans: ʌntɔ:t
+  3:
+  - :word: untaught
+    :trans: ʌntɔ:t
+330:
+  1:
+  - :word: unthink
+    :trans: ʌnʹθıŋk
+  translations:
+  - передумать
+  2:
+  - :word: unthought
+    :trans: ʌnʹθɔ:t
+  3:
+  - :word: unthought
+    :trans: ʌnʹθɔ:t
+331:
+  1:
+  - :word: untread
+    :trans: "͵ʌnʹtred"
+  translations:
+  - возвращаться по уже пройденному пути
+  2:
+  - :word: untrod
+    :trans: "͵ʌnʹtrɒd"
+  3:
+  - :word: untrod
+    :trans: "͵ʌnʹtrɒd"
+  - :word: untrodden
+    :trans: "͵ʌnʹtrɒdn"
+332:
+  1:
+  - :word: unweave
+    :trans: ʌnʹwi:v
+  translations:
+  - "(текстиль.) распускать (дефектное полотно)"
+  2:
+  - :word: unwove
+    :trans: ʌnʹwəʋv
+  3:
+  - :word: unwoven
+    :trans: ʌnʹwəʋv(ə)n
+333:
+  1:
+  - :word: unwind
+    :trans: ʌnʹwaınd
+  translations:
+  - разматывать(ся)
+  - раскручивать(ся)
+  2:
+  - :word: unwound
+    :trans: ʌnʹwandʋ
+  3:
+  - :word: unwound
+    :trans: ʌnʹwandʋ
+334:
+  1:
+  - :word: unwrite
+    :trans: ʌnraıt
+  translations:
+  - вычеркивать
+  - стирать написанное
+  2:
+  - :word: unwrote
+    :trans: ʌnrəʋt
+  3:
+  - :word: unwritten
+    :trans: ʌnʹrıtn
+335:
+  1:
+  - :word: upbear
+    :trans: ʌpʹbeə
+  translations:
+  - поддерживать
+  - приподнимать
+  2:
+  - :word: upbore
+    :trans: 'ʌpʹbɔ:'
+  3:
+  - :word: upborne
+    :trans: ʌpʹbɔ:n
+336:
+  1:
+  - :word: upbuild
+    :trans: ʌpʹbıld
+  translations:
+  - построить
+  - выстроить
+  2:
+  - :word: upbuilt
+    :trans: ʌpʹbılt
+  3:
+  - :word: upbuilt
+    :trans: ʌpʹbılt
+337:
+  1:
+  - :word: upcast
+    :trans: ʹʌpkɑ:st
+  translations:
+  - бросать
+  - кидать вверх
+  2:
+  - :word: upcast
+    :trans: ʹʌpkɑ:st
+  3:
+  - :word: upcast
+    :trans: ʹʌpkɑ:st
+338:
+  1:
+  - :word: updo
+    :trans: 'ʹʌpdu:'
+  translations:
+  - делать высокую причёску
+  2:
+  - :word: updid
+    :trans: "͵ʌpʹdıd"
+  3:
+  - :word: updone
+    :trans: "͵ʌpʹdʌn"
+339:
+  1:
+  - :word: outwork
+    :trans: ʹaʋtwɜ:k
+  translations:
+  - работать лучше и быстрее (кого-л.)
+  - обогнать в работе (кого-л.)
+  - довести работу до конца
+  - доделать
+  2:
+  - :word: outworked
+    :trans: aʋtʹwɜ:kt
+  - :word: outwrought
+    :trans: aʋtʹrɔ:t
+  3:
+  - :word: outworked
+    :trans: aʋtʹwɜ:kt
+  - :word: outwrought
+    :trans: aʋtʹrɔ:t
+340:
+  1:
+  - :word: outwrite
+    :trans: aʋtʹraıt
+  translations:
+  - писать лучше (кого-л.)
+  2:
+  - :word: outwrote
+    :trans: aʋtʹrəʋt
+  3:
+  - :word: outwritten
+    :trans: aʋtʹrıtn
+341:
+  1:
+  - :word: overbear
+    :trans: əʋvəʹbeə
+  translations:
+  - пересиливать
+  - одолевать
+  - потрясать
+  - ошеломлять
+  2:
+  - :word: overbore
+    :trans: 'əʋvəʹbɔ:'
+  3:
+  - :word: overborne
+    :trans: əʋvəʹbɔ:n
+342:
+  1:
+  - :word: overbend
+    :trans: "͵əʋvəʹbend"
+  translations:
+  - перегибать
+  2:
+  - :word: overbent
+    :trans: "͵əʋvəʹbent"
+  3:
+  - :word: overbent
+    :trans: "͵əʋvəʹbent"
+343:
+  1:
+  - :word: overbid
+    :trans: əʋvəʹbıd
+  translations:
+  - перебивать цену
+  2:
+  - :word: overbid
+    :trans: əʋvəʹbıd
+  3:
+  - :word: overbid
+    :trans: əʋvəʹbıd
+344:
+  1:
+  - :word: overblow
+    :trans: "͵əʋvəʹbləʋ"
+  translations:
+  - раздувать
+  - растягивать
+  2:
+  - :word: overblew
+    :trans: "͵əʋvəʹblu:"
+  3:
+  - :word: overblown
+    :trans: "͵əʋvəʹbləʋn"
+345:
+  1:
+  - :word: overbreed
+    :trans: əʋvəbri:d
+  translations:
+  - разводить (животных) в чрезмерном количестве
+  2:
+  - :word: overbred
+    :trans: əʋvəbred
+  3:
+  - :word: overbred
+    :trans: əʋvəbred
+346:
+  1:
+  - :word: overbuild
+    :trans: "͵əʋvəʹbıld"
+  translations:
+  - "(чрезмерно) застраивать (район и т. п.)"
+  2:
+  - :word: overbuilt
+    :trans: "͵əʋvəʹbılt"
+  3:
+  - :word: overbuilt
+    :trans: "͵əʋvəʹbılt"
+347:
+  1:
+  - :word: overburn
+    :trans: "͵əʋvəʹbɜ:n"
+  translations:
+  - перегореть
+  2:
+  - :word: overburnt
+    :trans: əʋvəʹbɜ:nt
+  3:
+  - :word: overburnt
+    :trans: əʋvəʹbɜ:nt
+348:
+  1:
+  - :word: overbuy
+    :trans: "͵əʋvəʹbaı"
+  translations:
+  - покупать в слишком большом количестве
+  2:
+  - :word: overbought
+    :trans: "͵əʋvəʹbɔ:t"
+  3:
+  - :word: overbought
+    :trans: "͵əʋvəʹbɔ:t"
+349:
+  1:
+  - :word: overcast
+    :trans: əʋvəʹka:st
+  translations:
+  - покрывать(ся) мраком
+  - закрываться тучами
+  - темнеть
+  2:
+  - :word: overcast
+    :trans: əʋvəʹka:st
+  3:
+  - :word: overcast
+    :trans: əʋvəʹka:st
+350:
+  1:
+  - :word: overcome
+    :trans: əʋvəʹkʌm
+  translations:
+  - побороть
+  - победить
+  - превозмочь
+  - преодолеть
+  2:
+  - :word: overcame
+    :trans: əʋvəʹkəım
+  3:
+  - :word: overcome
+    :trans: əʋvəʹkʌm
+351:
+  1:
+  - :word: overcut
+    :trans: əʋvəkʌt
+  translations:
+  - вырубать лес сверх допустимых объемов
+  - сверлить отверстие с диаметром большим
+  - чем
+  2:
+  - :word: overcut
+    :trans: əʋvəkʌt
+  3:
+  - :word: overcut
+    :trans: əʋvəkʌt
+352:
+  1:
+  - :word: overdo
+    :trans: 'əʋvəʹdu:'
+  translations:
+  - заходить слишком далеко
+  - переборщить
+  - перестараться
+  - переусердствовать
+  2:
+  - :word: overdid
+    :trans: əʋvəʹdıd
+  3:
+  - :word: overdone
+    :trans: əʋvəʹdʌn
+353:
+  1:
+  - :word: overdraw
+    :trans: 'əʋvəʹdrɔ:'
+  translations:
+  - превысить остаток счёта в банке
+  2:
+  - :word: overdrew
+    :trans: 'əʋvəʹdru:'
+  3:
+  - :word: overdrawn
+    :trans: əʋvəʹdrɔ:n
+354:
+  1:
+  - :word: overdrink
+    :trans: "͵əʋvəʹdrıŋk"
+  translations:
+  - перепиться
+  2:
+  - :word: overdrank
+    :trans: "͵əʋvəʹdræŋk"
+  3:
+  - :word: overdrunk
+    :trans: "͵əʋvəʹdrʌŋk"
+355:
+  1:
+  - :word: overdrive
+    :trans: ʹəʋvədraıv
+  translations:
+  - вести машину
+  - управлять автомобилем
+  - превышая скорость
+  - нарушая правила
+  2:
+  - :word: overdrove
+    :trans: "͵əʋvəʹdrəʋv"
+  3:
+  - :word: overdriven
+    :trans: "͵əʋvəʹdrıv(ə)n"
+356:
+  1:
+  - :word: overeat
+    :trans: əʋvərʹi:t
+  translations:
+  - переедать
+  - объедаться
+  - обжираться
+  2:
+  - :word: overate
+    :trans: əʋvərʹæt
+  3:
+  - :word: overeaten
+    :trans: əʋvərʹi:tn
+357:
+  1:
+  - :word: overfeed
+    :trans: "͵əʋvəʹfi:d"
+  translations:
+  - перекармливать
+  2:
+  - :word: overfed
+    :trans: "͵əʋvəʹfed"
+  3:
+  - :word: overfed
+    :trans: "͵əʋvəʹfed"
+358:
+  1:
+  - :word: overflow
+    :trans: ʹəʋvəfləʋ
+  translations:
+  - переливаться (через край)
+  2:
+  - :word: overflowe
+    :trans: "͵əʋvəʹfləʋn"
+  - :word: overflown
+    :trans: "%%%"
+  3:
+  - :word: overflowe
+    :trans: "͵əʋvəʹfləʋn"
+  - :word: overflown
+    :trans: "%%%"
+359:
+  1:
+  - :word: overfly
+    :trans: "͵əʋvəʹflaı"
+  translations:
+  - перелетать
+  2:
+  - :word: overflew
+    :trans: "͵əʋvəʹflu:"
+  3:
+  - :word: overflown
+    :trans: "͵əʋvəʹfləʋn"
+360:
+  1:
+  - :word: overget
+    :trans: "͵əʋvəʹget"
+  translations:
+  - оправиться
+  - поправиться (после болезни и т. п.)
+  2:
+  - :word: overgot
+    :trans: əʋvəʹgɒt
+  3:
+  - :word: overgot
+    :trans: əʋvəʹgɒt
+361:
+  1:
+  - :word: overgild
+    :trans: "͵əʋvəʹgıld"
+  translations:
+  - позолотить
+  2:
+  - :word: overgilded
+    :trans: əʋvəʹgıldıd
+  - :word: overgilt
+    :trans: "͵əʋvəʹgılt"
+  3:
+  - :word: overgilded
+    :trans: əʋvəʹgıldıd
+  - :word: overgilt
+    :trans: "͵əʋvəʹgılt"
+362:
+  1:
+  - :word: overgo
+    :trans: "͵əʋvəʹgəʋ"
+  translations:
+  - пересекать
+  - переходить
+  2:
+  - :word: overwent
+    :trans: əʋvəʹwent
+  3:
+  - :word: overgone
+    :trans: "͵əʋvəʹgɒn"
+363:
+  1:
+  - :word: overgrow
+    :trans: "͵əʋvəʹgrəʋ"
+  translations:
+  - зарастать
+  2:
+  - :word: overgrew
+    :trans: "͵əʋvəʹgru:"
+  3:
+  - :word: overgrown
+    :trans: "͵əʋvəʹgrəʋn"
+364:
+  1:
+  - :word: overhang
+    :trans: əʋvəʹhæŋ
+  translations:
+  - выступать над (чем-л.)
+  - выдаваться
+  - свешиваться
+  - нависать
+  2:
+  - :word: overhung
+    :trans: əʋvəʹhʌŋ
+  3:
+  - :word: overhung
+    :trans: əʋvəʹhʌŋ
+365:
+  1:
+  - :word: overhear
+    :trans: əʋvəʹhıə
+  translations:
+  - подслушивать
+  - нечаянно услышать
+  2:
+  - :word: overheard
+    :trans: əʋvəʹhɜ:d
+  3:
+  - :word: overheard
+    :trans: əʋvəʹhɜ:d
+366:
+  1:
+  - :word: overlay
+    :trans: əʋvəʹleı
+  translations:
+  - перекрывать
+  - лежать (над чем-л.
+  - на чём-л.)
+  2:
+  - :word: overlaid
+    :trans: əʋvəʹleıd
+  3:
+  - :word: overlaid
+    :trans: əʋvəʹleıd
+367:
+  1:
+  - :word: overleap
+    :trans: əʋvəʹli:p
+  translations:
+  - перепрыгивать
+  - перескакивать
+  2:
+  - :word: 'overleaped '
+    :trans: əʋvəʹli:pt
+  - :word: overleapt
+    :trans: əʋvəʹlept
+  3:
+  - :word: 'overleaped '
+    :trans: əʋvəʹli:pt
+  - :word: overleapt
+    :trans: əʋvəʹlept
+368:
+  1:
+  - :word: overlearn
+    :trans: əʋvəʹlɜ:n
+  translations:
+  - учить сверх необходимого уровня
+  2:
+  - :word: overlearnt
+    :trans: əʋvəʹlɜ:nt
+  - :word: overlearned
+    :trans: əʋvəʹlɜ:nd
+  3:
+  - :word: overlearnt
+    :trans: əʋvəʹlɜ:nt
+  - :word: overlearned
+    :trans: əʋvəʹlɜ:nd
+369:
+  1:
+  - :word: overlie
+    :trans: əʋvəʹlaı
+  translations:
+  - лежать (над чем-л.
+  - на чём-л.)
+  - перекрывать
+  2:
+  - :word: overlay
+    :trans: əʋvəʹleı
+  3:
+  - :word: overlain
+    :trans: əʋvəʹleın
+370:
+  1:
+  - :word: overpass
+    :trans: əʋvəʹpa:s
+  translations:
+  - переправляться
+  - пересекать
+  - переходить
+  2:
+  - :word: overpast
+    :trans: əʋvəʹpa:st
+  - :word: overpassed
+    :trans: əʋvəʹpa:st
+  3:
+  - :word: overpast
+    :trans: əʋvəʹpa:st
+  - :word: overpassed
+    :trans: əʋvəʹpa:st
+371:
+  1:
+  - :word: overpay
+    :trans: əʋvəʹpeı
+  translations:
+  - переплачивать
+  - платить завышенную цену
+  2:
+  - :word: overpaid
+    :trans: əʋvəʹpeıd
+  3:
+  - :word: overpaid
+    :trans: əʋvəʹpeıd
+372:
+  1:
+  - :word: overread
+    :trans: "͵əʋvəʹri:d"
+  translations:
+  - читать слишком много
+  - зачитываться
+  2:
+  - :word: overread
+    :trans: "͵əʋvəʹred"
+  3:
+  - :word: overread
+    :trans: "͵əʋvəʹred"
+373:
+  1:
+  - :word: override
+    :trans: əʋvəʹraıd
+  translations:
+  - переезжать
+  - наезжать
+  - задавить
+  - попирать(отвергать
+  - не принимать во внимание)
+  2:
+  - :word: overrode
+    :trans: əʋvəʹrəʋd
+  3:
+  - :word: overridden
+    :trans: əʋvəʹrıd(ə)n
+374:
+  1:
+  - :word: overrun
+    :trans: əʋvəʹrʌn
+  translations:
+  - переливаться через край
+  - наводнять
+  2:
+  - :word: overran
+    :trans: əʋvəʹræn
+  3:
+  - :word: overrun
+    :trans: əʋvəʹrʌn
+375:
+  1:
+  - :word: oversee
+    :trans: 'əʋvəʹsi:'
+  translations:
+  - надзирать
+  - наблюдать
+  2:
+  - :word: oversaw
+    :trans: 'əʋvəʹsɔ:'
+  3:
+  - :word: overseen
+    :trans: əʋvəʹsi:n
+376:
+  1:
+  - :word: oversell
+    :trans: əʋvəʹsel
+  translations:
+  - распродавать
+  2:
+  - :word: oversold
+    :trans: əʋvəʹsəʋld
+  3:
+  - :word: oversold
+    :trans: əʋvəʹsəʋld
+377:
+  1:
+  - :word: overset
+    :trans: əʋvəʹset
+  translations:
+  - нарушать порядок
+  - расстраивать
+  2:
+  - :word: overset
+    :trans: əʋvəʹset
+  3:
+  - :word: overset
+    :trans: əʋvəʹset
+378:
+  1:
+  - :word: oversew
+    :trans: ʹəʋvəsəʋ
+  translations:
+  - сшивать через край
+  2:
+  - :word: oversewed
+    :trans: əʋvəʹsəʋd
+  3:
+  - :word: oversewed
+    :trans: əʋvəʹsəʋd
+  - :word: oversewn
+    :trans: ʹəʋvəsəʋn
+379:
+  1:
+  - :word: overshine
+    :trans: "͵əʋvəʹʃaın"
+  translations:
+  - затмевать
+  2:
+  - :word: overshone
+    :trans: "͵əʋvəʹʃəʋn"
+  3:
+  - :word: overshone
+    :trans: "͵əʋvəʹʃəʋn"
+380:
+  1:
+  - :word: overshoot
+    :trans: əʋvəʹʃu:t
+  translations:
+  - промахнуться
+  2:
+  - :word: overshot
+    :trans: əʋvəʹʃɒt
+  3:
+  - :word: overshot
+    :trans: əʋvəʹʃɒt
+381:
+  1:
+  - :word: oversing
+    :trans: "͵əʋvəʹsıŋ"
+  translations:
+  - петь громче или в манере
+  - не соответствующей замыслу авторов
+  2:
+  - :word: oversang
+    :trans: "͵əʋvəʹsæŋ"
+  3:
+  - :word: oversung
+    :trans: "͵əʋvəʹsʌŋ"
+382:
+  1:
+  - :word: oversleep
+    :trans: əʋvəʹsli:p
+  translations:
+  - проспать
+  - заспаться
+  2:
+  - :word: overslept
+    :trans: əʋvəʹslept
+  3:
+  - :word: overslept
+    :trans: əʋvəʹslept
+383:
+  1:
+  - :word: oversow
+    :trans: "͵əʋvəʹsəʋ"
+  translations:
+  - пересевать
+  - засевать заново
+  2:
+  - :word: oversowed
+    :trans: əʋvəʹsəʋd
+  3:
+  - :word: oversowed
+    :trans: əʋvəʹsəʋd
+  - :word: oversown
+    :trans: "͵əʋvəʹsəʋn"
+384:
+  1:
+  - :word: overspeak
+    :trans: əʋvəspi:k
+  translations:
+  - разговаривать слишком много
+  - быть слишком многословным
+  2:
+  - :word: overspoke
+    :trans: əʋvəspəʋk
+  3:
+  - :word: overspoken
+    :trans: əʋvəʹspəʋkən
+385:
+  1:
+  - :word: overspeed
+    :trans: ʹəʋvəspi:d
+  translations:
+  - ехать с превышением скорости
+  2:
+  - :word: oversped
+    :trans: "͵əʋvəʹsped"
+  - :word: overspeeded
+    :trans: "%%%"
+  3:
+  - :word: oversped
+    :trans: "͵əʋvəʹsped"
+  - :word: overspeeded
+    :trans: "%%%"
+386:
+  1:
+  - :word: overspend
+    :trans: əʋvəʹspend
+  translations:
+  - тратить слишком много
+  - сорить деньгами
+  2:
+  - :word: overspent
+    :trans: əʋvəʹspent
+  3:
+  - :word: overspent
+    :trans: əʋvəʹspent
+387:
+  1:
+  - :word: overspill
+    :trans: ʹəʋvə͵spıl
+  translations:
+  - переливаться через край
+  2:
+  - :word: overspilled
+    :trans: əʋvəʹspıld
+  - :word: overspilt
+    :trans: əʋvəʹspılt
+  3:
+  - :word: overspilled
+    :trans: əʋvəʹspıld
+  - :word: overspilt
+    :trans: əʋvəʹspılt
+388:
+  1:
+  - :word: overspin
+    :trans: əʋvəspın
+  translations:
+  - растягиваться слишком сильно
+  - сделать кручченый удар по мячу (в теннисе)
+  2:
+  - :word: overspun
+    :trans: əʋvəspʌn
+  3:
+  - :word: overspun
+    :trans: əʋvəspʌn
+389:
+  1:
+  - :word: overspread
+    :trans: "͵əʋvəʹspred"
+  translations:
+  - покрывать
+  2:
+  - :word: overspread
+    :trans: "͵əʋvəʹspred"
+  3:
+  - :word: overspread
+    :trans: "͵əʋvəʹspred"
+390:
+  1:
+  - :word: overspring
+    :trans: əʋvəsprıŋ
+  translations:
+  - перепрыгивать
+  2:
+  - :word: oversprang
+    :trans: əʋvəspræŋ
+  - :word: oversprung
+    :trans: əʋvəsprʌŋ
+  3:
+  - :word: oversprung
+    :trans: əʋvəsprʌŋ
+391:
+  1:
+  - :word: overstand
+    :trans: əʋvəstænd
+  translations:
+  - сорвать сделку из-за своих слишком жестких условй (например
+  - завышенной цены)
+  2:
+  - :word: overstood
+    :trans: əʋvəstʋd
+  3:
+  - :word: overstood
+    :trans: əʋvəstʋd
+392:
+  1:
+  - :word: overstay
+    :trans: "͵əʋvəʹsteı"
+  translations:
+  - оставаться слишком долго
+  - загоститься
+  - засидеться
+  2:
+  - :word: overstayed
+    :trans: əʋvəʹsteıd
+  3:
+  - :word: overstayed
+    :trans: əʋvəʹsteıd
+393:
+  1:
+  - :word: overstrew
+    :trans: "͵əʋvəʹstru:"
+  translations:
+  - разбрасывать
+  - посыпать
+  2:
+  - :word: overstrewed
+    :trans: əʋvəʹstru:d
+  3:
+  - :word: overstrewn
+    :trans: "͵əʋvəʹstru:n"
+  - :word: overstrewed
+    :trans: əʋvəʹstru:d
+394:
+  1:
+  - :word: overstride
+    :trans: "͵əʋvəʹstraıd"
+  translations:
+  - перешагивать
+  2:
+  - :word: overstrode
+    :trans: əʋvəʹstrəʋd
+  3:
+  - :word: overstridden
+    :trans: "͵əʋvəʹstrıdn"
+395:
+  1:
+  - :word: overstrike
+    :trans: əʋvəstraık
+  translations:
+  - печататать или чеканить изображение поверх существующего
+  2:
+  - :word: overstruck
+    :trans: əʋvəstrʌk
+  3:
+  - :word: overstruck
+    :trans: əʋvəstrʌk
+  - :word: overstricken
+    :trans: əʋvəstrıkən
+396:
+  1:
+  - :word: overstring
+    :trans: əʋvəʹstrıŋ
+  translations:
+  - слишком туго завязать
+  2:
+  - :word: overstrung
+    :trans: əʋvəʹstrʌŋ
+  3:
+  - :word: overstrung
+    :trans: əʋvəʹstrʌŋ
+397:
+  1:
+  - :word: oversweep
+    :trans: "͵əʋvəʹswi:p"
+  translations:
+  - сметать
+  - выметать
+  2:
+  - :word: overswept
+    :trans: əʋvəʹswept
+  3:
+  - :word: overswept
+    :trans: əʋvəʹswept
+398:
+  1:
+  - :word: overswell
+    :trans: "͵əʋvəʹswel"
+  translations:
+  - раздувать(ся)
+  - вздувать(ся)
+  2:
+  - :word: overswelled
+    :trans: əʋvəʹsweld
+  3:
+  - :word: overswollen
+    :trans: "͵əʋvəʹswəʋl(ə)n"
+399:
+  1:
+  - :word: overtake
+    :trans: əʋvəʹteık
+  translations:
+  - перегонять
+  - догнать
+  - обогнать
+  2:
+  - :word: overtook
+    :trans: əʋvəʹtʋk
+  3:
+  - :word: overtaken
+    :trans: əʋvəʹteık(ə)n
+400:
+  1:
+  - :word: overthink
+    :trans: əʋvəʹθıŋk
+  translations:
+  - слишком много думать
+  2:
+  - :word: overthought
+    :trans: əʋvəʹθɔ:t
+  3:
+  - :word: overthought
+    :trans: əʋvəʹθɔ:t
+401:
+  1:
+  - :word: overthrow
+    :trans: əʋvəʹθrəʋ
+  translations:
+  - свергать
+  - ниспровергать
+  - уничтожать
+  2:
+  - :word: overthrew
+    :trans: 'əʋvəʹθru:'
+  3:
+  - :word: overthrown
+    :trans: əʋvəʹθrəʋn
+402:
+  1:
+  - :word: overwear
+    :trans: "͵əʋvəʹweə"
+  translations:
+  - изнурять тяжёлым трудом
+  - изнашиваться
+  2:
+  - :word: overwore
+    :trans: "͵əʋvəʹwɔ:"
+  3:
+  - :word: overworn
+    :trans: "͵əʋvəʹwɔ:n"
+403:
+  1:
+  - :word: overwind
+    :trans: "͵əʋvəʹwaınd"
+  translations:
+  - перекрутить (пружину / завод у часов и т. п.)
+  2:
+  - :word: overwound
+    :trans: "͵əʋvəʹwaʋnd"
+  3:
+  - :word: overwound
+    :trans: "͵əʋvəʹwaʋnd"
+404:
+  1:
+  - :word: overwithhold
+    :trans: "͵əʋvəwıðʹhəʋld"
+  translations:
+  - удерживать слишком большую сумму (с налогоплательщика)
+  2:
+  - :word: overwithheld
+    :trans: əʋvəwıðʹheld
+  3:
+  - :word: overwithheld
+    :trans: əʋvəwıðʹheld
+405:
+  1:
+  - :word: overwork
+    :trans: ʹəʋvəwɜ:k
+  translations:
+  - заставлять работать слишком много
+  - переутомлять
+  2:
+  - :word: overwrought
+    :trans: "͵əʋvəʹrɔ:t"
+  - :word: overworked
+    :trans: "%%%"
+  3:
+  - :word: overwrought
+    :trans: "͵əʋvəʹrɔ:t"
+  - :word: overworked
+    :trans: "%%%"
+406:
+  1:
+  - :word: overwrite
+    :trans: "͵əʋvəʹraıt"
+  translations:
+  - писать поверх другого текста
+  2:
+  - :word: overwrote
+    :trans: "͵əʋvəʹrəʋt"
+  3:
+  - :word: overwritten
+    :trans: "͵əʋvəʹrıtn"
+407:
+  1:
+  - :word: partake
+    :trans: pa:ʹteık
+  translations:
+  - принимать участие
+  2:
+  - :word: partook
+    :trans: pa:ʹtʋk
+  3:
+  - :word: partaken
+    :trans: pa:ʹteık(ə)n
+408:
+  1:
+  - :word: pay
+    :trans: peı
+  translations:
+  - "(за)платить"
+  - "(мор.) смолить"
+  2:
+  - :word: paid
+    :trans: peıd
+  3:
+  - :word: paid
+    :trans: peıd
+409:
+  1:
+  - :word: pen
+    :trans: pen
+  translations:
+  - загонять (скот) в загон
+  - писать
+  - запирать
+  - заключать
+  2:
+  - :word: penned
+    :trans: pend
+  - :word: pent
+    :trans: pent
+  3:
+  - :word: penned
+    :trans: pend
+  - :word: pent
+    :trans: pent
+410:
+  1:
+  - :word: pinch-hit
+    :trans: pıntʃʹhıt
+  translations:
+  - заменить
+  2:
+  - :word: pinch-hit
+    :trans: pıntʃʹhıt
+  3:
+  - :word: pinch-hit
+    :trans: pıntʃʹhıt
+411:
+  1:
+  - :word: plead
+    :trans: pli:d
+  translations:
+  - выступать в суде
+  - просить
+  - умолять
+  2:
+  - :word: plead(ed)
+    :trans: pli:d(ıd)
+  - :word: pled
+    :trans: pled
+  3:
+  - :word: plead(ed)
+    :trans: pli:d(ıd)
+  - :word: pled
+    :trans: pled
+412:
+  1:
+  - :word: potshot
+    :trans: pɒtʹʃɒt
+  translations:
+  - палить наугад
+  2:
+  - :word: potshot
+    :trans: pɒtʹʃɒt
+  - :word: potshotted
+    :trans: pɒtʹʃɒtıd
+  3:
+  - :word: potshot
+    :trans: pɒtʹʃɒt
+413:
+  1:
+  - :word: practice-teach
+    :trans: præktısʹti:tʃ
+  translations:
+  - преподавать в качестве студента-приктиканта
+  2:
+  - :word: practice-taught
+    :trans: præktısʹtɔ:t
+  3:
+  - :word: practice-taught
+    :trans: præktısʹtɔ:t
+414:
+  1:
+  - :word: prebuild
+    :trans: pri:ʹbıld
+  translations:
+  - изготовлять заводским способом
+  2:
+  - :word: prebuilt
+    :trans: pri:ʹbılt
+  3:
+  - :word: prebuilt
+    :trans: pri:ʹbılt
+415:
+  1:
+  - :word: prepay
+    :trans: "͵pri:ʹpeı"
+  translations:
+  - оплачивать заранее
+  2:
+  - :word: prepaid
+    :trans: "͵pri:ʹpeıd"
+  3:
+  - :word: prepaid
+    :trans: "͵pri:ʹpeıd"
+416:
+  1:
+  - :word: presell
+    :trans: pri:sel
+  translations:
+  - рекламировать что-либо заранее
+  - договариваться о продаже того
+  - чего еще нет в наличии
+  2:
+  - :word: presold
+    :trans: pri:səʋld
+  3:
+  - :word: presold
+    :trans: pri:səʋld
+417:
+  1:
+  - :word: preset
+    :trans: pri:set
+  translations:
+  - настраивать параметры технического устройства для будущего запуска
+  - заранее устанавливать
+  2:
+  - :word: preset
+    :trans: pri:set
+  3:
+  - :word: preset
+    :trans: pri:set
+418:
+  1:
+  - :word: preshrink
+    :trans: pri:ʃrıŋk
+  translations:
+  - подвергать ткань обработке
+  - чтобы она или изделия из нее не садились после продажи
+  2:
+  - :word: preshrank
+    :trans: pri:ʃrʌŋk
+  3:
+  - :word: preshrunk
+    :trans: pri:ʹʃrʌŋkən
+419:
+  1:
+  - :word: price-cut
+    :trans: praısʹkʌt
+  translations:
+  - снижать цену
+  2:
+  - :word: price-cut
+    :trans: praısʹkʌt
+  3:
+  - :word: price-cut
+    :trans: praısʹkʌt
+420:
+  1:
+  - :word: proofread
+    :trans: ʹpru:f͵ri:d
+  translations:
+  - читать корректуру
+  - гранки
+  2:
+  - :word: proofread
+    :trans: ʹpru:f͵ri:d
+  3:
+  - :word: proofread
+    :trans: ʹpru:f͵ri:d
+421:
+  1:
+  - :word: prove
+    :trans: pru:v
+  translations:
+  - доказывать
+  2:
+  - :word: proved
+    :trans: pru:vd
+  3:
+  - :word: proven
+    :trans: pru:vn
+  - :word: proved
+    :trans: pru:vd
+422:
+  1:
+  - :word: baby-sit
+    :trans: beıbısıt
+  translations:
+  - работать няней
+  - присматривать за детьми
+  2:
+  - :word: baby-sat
+    :trans: beıbısæt
+  3:
+  - :word: baby-sat
+    :trans: beıbısæt
+423:
+  1:
+  - :word: backbite
+    :trans: bækbaıt
+  translations:
+  - злословить за спиной
+  - клеветать
+  2:
+  - :word: backbit
+    :trans: bækbıt
+  3:
+  - :word: backbitten
+    :trans: bækbıtn
+424:
+  1:
+  - :word: backcast
+    :trans: ʹbækkɑ:st
+  translations:
+  - воссоздавать прошлое
+  2:
+  - :word: backcast
+    :trans: ʹbækkɑ:st
+  3:
+  - :word: backcast
+    :trans: ʹbækkɑ:st
+425:
+  1:
+  - :word: backfit
+    :trans: ʹbæk͵fıt
+  translations:
+  - переоснастить
+  2:
+  - :word: backfit
+    :trans: ʹbæk͵fıt
+  3:
+  - :word: backfit
+    :trans: ʹbæk͵fıt
+426:
+  1:
+  - :word: backlight
+    :trans: ʹbæklaıt
+  translations:
+  - "(устар.) осветить сзади"
+  - подсветить
+  2:
+  - :word: backlit
+    :trans: bæklıt
+  3:
+  - :word: backlit
+    :trans: bæklıt
+427:
+  1:
+  - :word: put
+    :trans: pʋt
+  translations:
+  - класть
+  - "(по)ложить"
+  - "(по)ставить"
+  2:
+  - :word: put
+    :trans: pʋt
+  3:
+  - :word: put
+    :trans: pʋt
+428:
+  1:
+  - :word: quick-freeze
+    :trans: kwıkfri:z
+  translations:
+  - подвергать быстрой заморозке (технология переработки пищи)
+  - быстро замерзать
+  2:
+  - :word: quick-froze
+    :trans: kwıkfrəʋz
+  3:
+  - :word: quick-frozen
+    :trans: kwıkfrəʋz
+429:
+  1:
+  - :word: quit
+    :trans: kwıt
+  translations:
+  - оставлять
+  - покидать
+  2:
+  - :word: quit
+    :trans: kwıt
+  - :word: quitted
+    :trans: kwıtıd
+  3:
+  - :word: quit
+    :trans: kwıt
+  - :word: quitted
+    :trans: kwıtıd
+430:
+  1:
+  - :word: rap
+    :trans: ræp
+  translations:
+  - слегка ударять
+  - ругать
+  - критиковать
+  2:
+  - :word: rapped
+    :trans: ræpt
+  - :word: rapt
+    :trans: "%%%"
+  3:
+  - :word: rapped
+    :trans: ræpt
+  - :word: rapt
+    :trans: "%%%"
+431:
+  1:
+  - :word: read
+    :trans: ri:d
+  translations:
+  - читать
+  2:
+  - :word: read
+    :trans: red
+  3:
+  - :word: read
+    :trans: red
+432:
+  1:
+  - :word: reave
+    :trans: ri:v
+  translations:
+  - похищать
+  - отнимать
+  2:
+  - :word: reft
+    :trans: reft
+  - :word: reaved
+    :trans: ri:vd
+  3:
+  - :word: reft
+    :trans: reft
+  - :word: reaved
+    :trans: ri:vd
+433:
+  1:
+  - :word: reawake
+    :trans: ri:əʹweık
+  translations:
+  - просыпаться снова
+  2:
+  - :word: reawoke
+    :trans: ri:əʹwəʋk
+  3:
+  - :word: reawoken
+    :trans: ri:əʹwəʋkən
+  - :word: reawaken
+    :trans: ri:əʹweıkən
+434:
+  1:
+  - :word: rebid
+    :trans: ri:bıd
+  translations:
+  - делать повторную ставку
+  2:
+  - :word: rebid
+    :trans: ri:bıd
+  3:
+  - :word: rebid
+    :trans: ri:bıd
+435:
+  1:
+  - :word: rebind
+    :trans: ri:ʹbaınd
+  translations:
+  - снова переплетать
+  - снабжать новым переплётом
+  2:
+  - :word: rebound
+    :trans: ri:ʹbaʋnd
+  3:
+  - :word: rebound
+    :trans: ri:ʹbaʋnd
+436:
+  1:
+  - :word: rebroadcast
+    :trans: ri:ʹbrɒdkɑ:st
+  translations:
+  - показывать телевизионную передачу еще раз
+  - ретранслировать
+  2:
+  - :word: rebroadcast
+    :trans: ri:ʹbrɒdkɑ:st
+  - :word: rebroadcasted
+    :trans: ri:ʹbrɔ:dka:stıd
+  3:
+  - :word: rebroadcast
+    :trans: ri:ʹbrɒdkɑ:st
+  - :word: rebroadcasted
+    :trans: ri:ʹbrɔ:dka:stıd
+437:
+  1:
+  - :word: rebuild
+    :trans: ri:ʹbıld
+  translations:
+  - реконструировать
+  - перестраивать
+  2:
+  - :word: rebuilt
+    :trans: ri:ʹbılt
+  3:
+  - :word: rebuilt
+    :trans: ri:ʹbılt
+438:
+  1:
+  - :word: recast
+    :trans: ri:ʹka:st
+  translations:
+  - переделывать
+  - перерабатывать
+  - придавать новую форму
+  - перестраивать(предложение/ план)
+  - перераспределить роли
+  2:
+  - :word: recast
+    :trans: ri:ʹka:st
+  3:
+  - :word: recast
+    :trans: ri:ʹka:st
+439:
+  1:
+  - :word: recut
+    :trans: ri:ʹkʌt
+  translations:
+  - вторично нарезать
+  2:
+  - :word: recut
+    :trans: ri:ʹkʌt
+  3:
+  - :word: recut
+    :trans: ri:ʹkʌt
+440:
+  1:
+  - :word: redd
+    :trans: red
+  translations:
+  - приводить в порядок
+  - согласовывать
+  2:
+  - :word: redd
+    :trans: red
+  - :word: redded
+    :trans: redıd
+  3:
+  - :word: redd
+    :trans: red
+  - :word: redded
+    :trans: redıd
+441:
+  1:
+  - :word: redeal
+    :trans: ri:di:l
+  translations:
+  - вторично(заново) сдавать карты
+  2:
+  - :word: redealt
+    :trans: ri:delt
+  3:
+  - :word: redealt
+    :trans: ri:delt
+442:
+  1:
+  - :word: redo
+    :trans: 'ri:ʹdu:'
+  translations:
+  - делать вновь или заново
+  - переделывать
+  2:
+  - :word: redid
+    :trans: ri:ʹdıd
+  3:
+  - :word: redone
+    :trans: ri:ʹdʌn
+443:
+  1:
+  - :word: redraw
+    :trans: 'ri:ʹdrɔ:'
+  translations:
+  - "(фин.) выставлять обратный переводный вексель/ретратту"
+  - перерисовывать
+  2:
+  - :word: redrew
+    :trans: 'ri:ʹdru:'
+  3:
+  - :word: redrawn
+    :trans: ri:ʹdrɔ:n
+444:
+  1:
+  - :word: reeve
+    :trans: ri:v
+  translations:
+  - "(мор.) продевать трос через кольцо или в коуш"
+  - крепить
+  - закреплять
+  2:
+  - :word: rove
+    :trans: rəʋv
+  - :word: reeved
+    :trans: ri:vd
+  3:
+  - :word: rove
+    :trans: rəʋv
+  - :word: reeved
+    :trans: ri:vd
+445:
+  1:
+  - :word: refit
+    :trans: ʹri:fıt
+  translations:
+  - переоборудовать
+  2:
+  - :word: refit
+    :trans: ʹri:fıt
+  - :word: refitted
+    :trans: ri:fıtıd
+  3:
+  - :word: refit
+    :trans: ʹri:fıt
+  - :word: refitted
+    :trans: ri:fıtıd
+446:
+  1:
+  - :word: regrind
+    :trans: ri:graınd
+  translations:
+  - перешлифовывать
+  - затачивать снова
+  - пришлифовывать
+  - доизмельчать
+  2:
+  - :word: reground
+    :trans: ri:graʋnd
+  3:
+  - :word: reground
+    :trans: ri:graʋnd
+447:
+  1:
+  - :word: regrow
+    :trans: ri:grəʋ
+  translations:
+  - отрастать снова (например
+  - о побегах растения после повреждения)
+  2:
+  - :word: regrew
+    :trans: 'ri:gru:'
+  3:
+  - :word: regrown
+    :trans: ri:grəʋn
+448:
+  1:
+  - :word: rehang
+    :trans: ri:ʹhæŋ
+  translations:
+  - повесить снова
+  - повесить в другом месте
+  2:
+  - :word: rehung
+    :trans: ri:ʹhʌŋ
+  3:
+  - :word: rehung
+    :trans: ri:ʹhʌŋ
+449:
+  1:
+  - :word: rehear
+    :trans: ri:ʹhıə
+  translations:
+  - "(юр.) вторично расследовать дело"
+  - вторично слушать дело (в суде)
+  2:
+  - :word: reheard
+    :trans: ri:ʹhɜ:d
+  3:
+  - :word: reheard
+    :trans: ri:ʹhɜ:d
+450:
+  1:
+  - :word: reknit
+    :trans: ri:ʹnıt
+  translations:
+  - вновь связать
+  2:
+  - :word: reknitted
+    :trans: ri:ʹnıtıd
+  - :word: reknit
+    :trans: ri:ʹnıt
+  3:
+  - :word: reknitted
+    :trans: ri:ʹnıtıd
+  - :word: reknit
+    :trans: ri:ʹnıt
+451:
+  1:
+  - :word: re-lay
+    :trans: "͵ri:ʹleı"
+  translations:
+  - снова класть
+  - перекладывать
+  2:
+  - :word: re-laid
+    :trans: "͵ri:ʹleıd"
+  3:
+  - :word: re-laid
+    :trans: "͵ri:ʹleıd"
+452:
+  1:
+  - :word: relay
+    :trans: ri:ʹleı
+  translations:
+  - снова класть
+  - перекладывать
+  2:
+  - :word: relaid
+    :trans: ri:ʹleıd
+  3:
+  - :word: relaid
+    :trans: ri:ʹleıd
+453:
+  1:
+  - :word: relearn
+    :trans: ri:lɜ:n
+  translations:
+  - обучаться чему-либо заново
+  2:
+  - :word: relearned
+    :trans: ri:lɜ:nd
+  - :word: relearnt
+    :trans: ri:lɜ:nt
+  3:
+  - :word: relearned
+    :trans: ri:lɜ:nd
+  - :word: relearnt
+    :trans: ri:lɜ:nt
+454:
+  1:
+  - :word: re-let
+    :trans: "͵ri:ʹlet"
+  translations:
+  - снова сдавать
+  - пересдавать
+  2:
+  - :word: re-let
+    :trans: "͵ri:ʹlet"
+  3:
+  - :word: re-let
+    :trans: "͵ri:ʹlet"
+455:
+  1:
+  - :word: relight
+    :trans: ri:ʹlaıt
+  translations:
+  - снова зажечь
+  2:
+  - :word: relit
+    :trans: ri:ʹlıt
+  3:
+  - :word: relit
+    :trans: ri:ʹlıt
+456:
+  1:
+  - :word: remake
+    :trans: ri:ʹmeık
+  translations:
+  - переделывать
+  - делать заново
+  2:
+  - :word: remade
+    :trans: ri:ʹmeıd
+  3:
+  - :word: remade
+    :trans: ri:ʹmeıd
+457:
+  1:
+  - :word: rend
+    :trans: rend
+  translations:
+  - отдирать
+  - отрывать
+  2:
+  - :word: rent
+    :trans: rent
+  3:
+  - :word: rent
+    :trans: rent
+458:
+  1:
+  - :word: repay
+    :trans: rıʹpeı
+  translations:
+  - возвращать (долг)
+  2:
+  - :word: repaid
+    :trans: rıʹpeıd
+  3:
+  - :word: repaid
+    :trans: rıʹpeıd
+459:
+  1:
+  - :word: replead
+    :trans: "͵ri:ʹpli:d"
+  translations:
+  - вторично
+  - повторно выступать или обмениваться состязательными бумагами
+  2:
+  - :word: repleaded
+    :trans: ri:ʹplıdıd
+  - :word: repled
+    :trans: ri:ʹpled
+  3:
+  - :word: repleaded
+    :trans: ri:ʹplıdıd
+  - :word: repled
+    :trans: ri:ʹpled
+460:
+  1:
+  - :word: reprove
+    :trans: rıʹpru:v
+  translations:
+  - упрекать
+  - винить
+  - бранить
+  2:
+  - :word: reproved
+    :trans: rıʹpru:vd
+  3:
+  - :word: reproved
+    :trans: rıʹpru:v
+  - :word: reproven
+    :trans: rıʹpru:vn
+461:
+  1:
+  - :word: reread
+    :trans: ʹri:ʹri:d
+  translations:
+  - перечитывать
+  2:
+  - :word: reread
+    :trans: ʹri:ʹred
+  3:
+  - :word: reread
+    :trans: ʹri:ʹred
+462:
+  1:
+  - :word: rerun
+    :trans: rıʹrʌn
+  translations:
+  - повторно показывать
+  - снова демонстрировать (фильм и т. п.)
+  2:
+  - :word: reran
+    :trans: rıʹræn
+  3:
+  - :word: rerun
+    :trans: rıʹrʌn
+463:
+  1:
+  - :word: resell
+    :trans: ʹri:sel
+  translations:
+  - перепродавать
+  2:
+  - :word: resold
+    :trans: ʹri:səʋld
+  3:
+  - :word: resold
+    :trans: ʹri:səʋld
+464:
+  1:
+  - :word: resend
+    :trans: ri:send
+  translations:
+  - посылать снова
+  - посылать обратно
+  2:
+  - :word: resent
+    :trans: ri:sent
+  3:
+  - :word: resent
+    :trans: ri:sent
+465:
+  1:
+  - :word: reset
+    :trans: ri:ʹset
+  translations:
+  - подрегулировать
+  - вновь установить
+  - вправить
+  2:
+  - :word: reset
+    :trans: ri:ʹset
+  3:
+  - :word: reset
+    :trans: ri:ʹset
+466:
+  1:
+  - :word: resew
+    :trans: ri:səʋ
+  translations:
+  - пришивать снова
+  2:
+  - :word: resewed
+    :trans: ri:səʋd
+  3:
+  - :word: resewn
+    :trans: ri:səʋn
+  - :word: resewed
+    :trans: ri:səʋd
+467:
+  1:
+  - :word: reshoot
+    :trans: ri:ʹʃu:t
+  translations:
+  - повторно фотографировать
+  2:
+  - :word: reshot
+    :trans: ri:ʹʃɒt
+  3:
+  - :word: reshot
+    :trans: ri:ʹʃɒt
+468:
+  1:
+  - :word: resit
+    :trans: ʹri:sıt
+  translations:
+  - держать переэкзаменовку
+  - пересдавать письменный экзамен
+  2:
+  - :word: resat
+    :trans: ri:ʹsæt
+  3:
+  - :word: resat
+    :trans: ri:ʹsæt
+469:
+  1:
+  - :word: resow
+    :trans: "͵ri:ʹsəʋ"
+  translations:
+  - пересевать
+  - пересеивать
+  2:
+  - :word: resowed
+    :trans: ri:ʹsəʋd
+  3:
+  - :word: resown
+    :trans: "͵ri:ʹsəʋn"
+  - :word: resowed
+    :trans: ri:ʹsəʋd
+470:
+  1:
+  - :word: respell
+    :trans: ri:ʹspel
+  translations:
+  - писать или произносить по буквам повторно
+  2:
+  - :word: respelt
+    :trans: ri:ʹspelt
+  - :word: respelled
+    :trans: ri:ʹspeld
+  3:
+  - :word: respelt
+    :trans: ri:ʹspelt
+  - :word: respelled
+    :trans: ri:ʹspeld
+471:
+  1:
+  - :word: restring
+    :trans: ri:ʹstrıŋ
+  translations:
+  - претянуть
+  - снова натянуть
+  2:
+  - :word: restrung
+    :trans: ri:ʹstrʌŋ
+  3:
+  - :word: restrung
+    :trans: ri:ʹstrʌŋ
+472:
+  1:
+  - :word: retake
+    :trans: ʹri:teık
+  translations:
+  - снова взять
+  - занять или захватить
+  2:
+  - :word: retook
+    :trans: "͵ri:ʹtʋk"
+  3:
+  - :word: retaken
+    :trans: "͵ri:ʹteıkən"
+473:
+  1:
+  - :word: reteach
+    :trans: ri:ʹti:tʃ
+  translations:
+  - переучивать
+  2:
+  - :word: retaught
+    :trans: ri:ʹtɔ:t
+  3:
+  - :word: retaught
+    :trans: ri:ʹtɔ:t
+474:
+  1:
+  - :word: retear
+    :trans: ri:ʹteə
+  translations:
+  - рвать снова
+  2:
+  - :word: retore
+    :trans: 'ri:ʹtɔ:'
+  3:
+  - :word: retorn
+    :trans: ri:ʹtɔ:n
+475:
+  1:
+  - :word: retell
+    :trans: ri:ʹtel
+  translations:
+  - пересказывать
+  2:
+  - :word: retold
+    :trans: ri:ʹtəʋld
+  3:
+  - :word: retold
+    :trans: ri:ʹtəʋld
+476:
+  1:
+  - :word: rethink
+    :trans: ʹri:͵θıŋk
+  translations:
+  - продумать заново
+  - пересмотреть прежнее мнение
+  - решение и т. п.
+  2:
+  - :word: rethought
+    :trans: ri:ʹθɔ:t
+  3:
+  - :word: rethought
+    :trans: ri:ʹθɔ:t
+477:
+  1:
+  - :word: retread
+    :trans: ʹri:tred
+  translations:
+  - снова топтать/наступать/давить
+  - "(авт.) восстанавливать протектор"
+  2:
+  - :word: retrod
+    :trans: "͵ri:ʹtrɒd"
+  3:
+  - :word: retrodden
+    :trans: "͵ri:ʹtrɒdn"
+478:
+  1:
+  - :word: retrofit
+    :trans: ʹretrəʋfıt
+  translations:
+  - "(тех.) модифицировать (модель)"
+  2:
+  - :word: retrofit
+    :trans: ʹretrəʋfıt
+  - :word: retrofitted
+    :trans: retrəʋfıtıd
+  3:
+  - :word: retrofit
+    :trans: ʹretrəʋfıt
+  - :word: retrofitted
+    :trans: retrəʋfıtıd
+479:
+  1:
+  - :word: rewake
+    :trans: ri:weık
+  translations:
+  - просыпаться снова
+  - будить снова
+  2:
+  - :word: rewoke
+    :trans: ri:wəʋk
+  - :word: rewaked
+    :trans: ri:wəıkt
+  3:
+  - :word: rewoken
+    :trans: ri:wəʋkən
+  - :word: rewaked
+    :trans: ri:wəıkt
+480:
+  1:
+  - :word: rewear
+    :trans: ri:ʹweə
+  translations:
+  - снова(вновь/опять) носить
+  2:
+  - :word: rewore
+    :trans: 'ri:ʹwɔ:'
+  3:
+  - :word: reworn
+    :trans: ri:ʹwɔ:n
+481:
+  1:
+  - :word: reweave
+    :trans: ri:ʹwi:v
+  translations:
+  - снова(опять) ткать
+  2:
+  - :word: rewove
+    :trans: ri:ʹwəʋv
+  3:
+  - :word: rewoven
+    :trans: ri:ʹwəʋvən
+482:
+  1:
+  - :word: rewed
+    :trans: ri:ʹwed
+  translations:
+  - снова(опять) жениться /вступать в брак
+  2:
+  - :word: rewed
+    :trans: ri:ʹwed
+  - :word: rewedded
+    :trans: ri:ʹwedıd
+  3:
+  - :word: rewed
+    :trans: ri:ʹwed
+  - :word: rewedded
+    :trans: ri:ʹwedıd
+483:
+  1:
+  - :word: rewet
+    :trans: ri:wet
+  translations:
+  - смачивать повторно. (замок огнестрельного оружия)
+  2:
+  - :word: rewet
+    :trans: ri:wet
+  - :word: rewetted
+    :trans: ri:wetıd
+  3:
+  - :word: rewet
+    :trans: ri:wet
+  - :word: rewetted
+    :trans: ri:wetıd
+484:
+  1:
+  - :word: rewin
+    :trans: ri:wın
+  translations:
+  - одерживать победу после поражения или вновь одерживать победу
+  - отыгрывать
+  - возвращать занятые врагом земли
+  2:
+  - :word: rewon
+    :trans: ri:wʌn
+  3:
+  - :word: rewon
+    :trans: ri:wʌn
+485:
+  1:
+  - :word: rewind
+    :trans: ri:wınd
+  translations:
+  - отматывать (ленту звукозапись видеозапись) назад
+  2:
+  - :word: rewound
+    :trans: ri:wu:nd
+  3:
+  - :word: rewound
+    :trans: ri:wu:nd
+486:
+  1:
+  - :word: rewrite
+    :trans: ri:ʹraıt
+  translations:
+  - переписывать
+  2:
+  - :word: rewrote
+    :trans: ri:ʹrəʋt
+  3:
+  - :word: rewritten
+    :trans: ri:ʹrıtn
+487:
+  1:
+  - :word: rid
+    :trans: rıd
+  translations:
+  - освобождать
+  - избавлять
+  2:
+  - :word: 'ridden '
+    :trans: rıdn
+  - :word: rid
+    :trans: rıd
+  3:
+  - :word: 'ridden '
+    :trans: rıdn
+  - :word: rid
+    :trans: rıd
+488:
+  1:
+  - :word: ride
+    :trans: raıd
+  translations:
+  - ехать
+  - ездить
+  2:
+  - :word: rode
+    :trans: roʋd
+  3:
+  - :word: ridden
+    :trans: ʹrıdn
+489:
+  1:
+  - :word: ring
+    :trans: rıŋ
+  translations:
+  - звенеть
+  - звучать
+  - звонить
+  2:
+  - :word: rang
+    :trans: ræŋ
+  3:
+  - :word: rung
+    :trans: raŋ
+490:
+  1:
+  - :word: rise
+    :trans: raız
+  translations:
+  - подниматься
+  - вставать
+  2:
+  - :word: rose
+    :trans: rəʋz
+  3:
+  - :word: risen
+    :trans: ʹrızn
+491:
+  1:
+  - :word: rive
+    :trans: raıv
+  translations:
+  - разрывать(ся)
+  - раскалывать(ся)
+  - расщеплять(ся)
+  - разрубать(ся)
+  2:
+  - :word: rived
+    :trans: raıvd
+  3:
+  - :word: 'rived '
+    :trans: raıvd
+  - :word: riven
+    :trans: rıvn
+492:
+  1:
+  - :word: rot
+    :trans: rɒt
+  translations:
+  - гнить
+  - гноить
+  2:
+  - :word: rotted
+    :trans: rɒtıd
+  3:
+  - :word: rotted
+    :trans: rɒtıd
+  - :word: rotten
+    :trans: ʹrɒtn
+493:
+  1:
+  - :word: roughcast
+    :trans: rʌfkɑ:st
+  translations:
+  - штукатурить с добавлением каменной крошки или гальки
+  - составлять предварительный/черновой план
+  - выполнять работу вчерне (без окончательной доделки)
+  2:
+  - :word: roughcast
+    :trans: rʌfkɑ:st
+  3:
+  - :word: roughcast
+    :trans: rʌfkɑ:st
+494:
+  1:
+  - :word: rough-hew
+    :trans: 'rʌfʹhju:'
+  translations:
+  - грубо обтесывать
+  2:
+  - :word: rough-hewed
+    :trans: rʌfʹhju:d
+  3:
+  - :word: rough-hewn
+    :trans: rʌfʹhju:n
+495:
+  1:
+  - :word: run
+    :trans: rʌn
+  translations:
+  - бежать
+  - течь
+  2:
+  - :word: ran
+    :trans: ræn
+  3:
+  - :word: run
+    :trans: rʌn
+496:
+  1:
+  - :word: sand-cast
+    :trans: sændkɑ:st
+  translations:
+  - отливать расплавленный металл в песочную форму
+  2:
+  - :word: sand-cast
+    :trans: sændkɑ:st
+  3:
+  - :word: sand-cast
+    :trans: sændkɑ:st
+497:
+  1:
+  - :word: saw
+    :trans: 'sɔ:'
+  translations:
+  - пилить(ся)
+  - смотреть
+  - видеть
+  2:
+  - :word: sawed
+    :trans: sɔ:d
+  3:
+  - :word: 'sawn '
+    :trans: sɔ:n
+  - :word: sawed
+    :trans: sɔ:d
+498:
+  1:
+  - :word: say
+    :trans: seı
+  translations:
+  - говорить
+  - сказать
+  2:
+  - :word: said
+    :trans: sed
+  3:
+  - :word: said
+    :trans: sed
+499:
+  1:
+  - :word: scuba-dive
+    :trans: ʹsk(j)u:bədaıv
+  translations:
+  - плавать или нырять с аквалангом
+  2:
+  - :word: scuba-dived
+    :trans: ʹsk(j)u:bədaıvd
+  - :word: scuba-dove
+    :trans: sk(j)u:bədʌv
+  3:
+  - :word: scuba-dived
+    :trans: ʹsk(j)u:bədaıvd
+500:
+  1:
+  - :word: see
+    :trans: 'si:'
+  translations:
+  - смотреть
+  - видеть
+  - пилить(ся)
+  2:
+  - :word: saw
+    :trans: 'sɔ:'
+  3:
+  - :word: seen
+    :trans: si:n
+501:
+  1:
+  - :word: seek
+    :trans: si:k
+  translations:
+  - искать
+  2:
+  - :word: sought
+    :trans: sɔ:t
+  3:
+  - :word: sought
+    :trans: sɔ:t
+502:
+  1:
+  - :word: seethe
+    :trans: si:ð
+  translations:
+  - кипеть
+  - кипятить
+  2:
+  - :word: seethed
+    :trans: "%%%"
+  - :word: sod
+    :trans: sɒd
+  3:
+  - :word: seethed
+    :trans: "%%%"
+  - :word: sod
+    :trans: sɒd
+503:
+  1:
+  - :word: self-feed
+    :trans: selfʹfi:d
+  translations:
+  - кормить при помощи самоподающего механизма
+  2:
+  - :word: self-fed
+    :trans: selfʹfed
+  3:
+  - :word: self-fed
+    :trans: selfʹfed
+504:
+  1:
+  - :word: self-sow
+    :trans: selfʹsəʋ
+  translations:
+  - засевать самосевом
+  2:
+  - :word: self-sowed
+    :trans: selfʹsəʋd
+  3:
+  - :word: self-sown
+    :trans: selfʹsəʋn
+  - :word: self-sowed
+    :trans: selfʹsəʋd
+505:
+  1:
+  - :word: sell
+    :trans: sel
+  translations:
+  - торговать
+  - продавать(ся)
+  2:
+  - :word: sold
+    :trans: səʋld
+  3:
+  - :word: sold
+    :trans: səʋld
+506:
+  1:
+  - :word: send
+    :trans: send
+  translations:
+  - посылать
+  - присылать
+  - отправлять
+  - отсылать
+  2:
+  - :word: sent
+    :trans: sent
+  3:
+  - :word: sent
+    :trans: sent
+507:
+  1:
+  - :word: set
+    :trans: set
+  translations:
+  - "(по)ставить"
+  - установить
+  2:
+  - :word: set
+    :trans: set
+  3:
+  - :word: set
+    :trans: set
+508:
+  1:
+  - :word: sew
+    :trans: səʋ
+  translations:
+  - шить
+  - сшивать
+  - зашивать
+  - пришивать
+  2:
+  - :word: sewed
+    :trans: səʋd
+  3:
+  - :word: sewn
+    :trans: səʋn
+  - :word: sewed
+    :trans: səʋd
+509:
+  1:
+  - :word: shake
+    :trans: ʃeık
+  translations:
+  - трясти(сь)
+  2:
+  - :word: shook
+    :trans: ʃʋk
+  3:
+  - :word: shaken
+    :trans: ʹʃeıken
+510:
+  1:
+  - :word: shampoo
+    :trans: 'ʃæmʹpu:'
+  translations:
+  - мыть голову/ковры
+  2:
+  - :word: shampooed
+    :trans: ʃæmʹpu:d
+  - :word: shampo'd
+    :trans: "%%%"
+  3:
+  - :word: shampooed
+    :trans: ʃæmʹpu:d
+  - :word: shampo'd
+    :trans: "%%%"
+511:
+  1:
+  - :word: shape
+    :trans: ʃeıp
+  translations:
+  - придавать форму
+  2:
+  - :word: shaped
+    :trans: ʃeıpt
+  3:
+  - :word: shaped
+    :trans: ʹʃeıpən
+  - :word: shapen
+    :trans: "%%%"
+512:
+  1:
+  - :word: shave
+    :trans: ʃeıv
+  translations:
+  - брить(ся)
+  2:
+  - :word: shaved
+    :trans: ʃeıvd
+  3:
+  - :word: 'shaved '
+    :trans: ʃeıvd
+  - :word: shaven
+    :trans: ʃeıvn
+513:
+  1:
+  - :word: upheave
+    :trans: ʌpʹhi:v
+  translations:
+  - поднимать(ся)
+  2:
+  - :word: 'uphove '
+    :trans: ʌpʹhəʋv
+  - :word: upheaved
+    :trans: ʌpʹhi:vd
+  3:
+  - :word: 'uphove '
+    :trans: ʌpʹhəʋv
+  - :word: upheaved
+    :trans: ʌpʹhi:vd
+514:
+  1:
+  - :word: uphold
+    :trans: ʌpʹhəʋld
+  translations:
+  - поддерживать
+  2:
+  - :word: upheld
+    :trans: ʌpʹhəld
+  3:
+  - :word: upheld
+    :trans: ʌpʹhəld
+515:
+  1:
+  - :word: uppercut
+    :trans: ʌpəkʌt
+  translations:
+  - сделать апперкот
+  2:
+  - :word: uppercut
+    :trans: ʌpəkʌt
+  3:
+  - :word: uppercut
+    :trans: ʌpəkʌt
+516:
+  1:
+  - :word: uprise
+    :trans: ʌpʹraız
+  translations:
+  - восставать
+  2:
+  - :word: uprose
+    :trans: ʌpʹrəʋz
+  3:
+  - :word: uprisen
+    :trans: ʌpʹrızn
+517:
+  1:
+  - :word: upset
+    :trans: ʌpʹset
+  translations:
+  - опрокидывать(ся)
+  - расстраивать
+  2:
+  - :word: upset
+    :trans: ʌpʹset
+  3:
+  - :word: upset
+    :trans: ʌpʹset
+518:
+  1:
+  - :word: upspring
+    :trans: ʌpʹsprıŋ
+  translations:
+  - прорастать
+  - всходить
+  2:
+  - :word: upsprang
+    :trans: ʌpʹspræŋ
+  3:
+  - :word: upsprung
+    :trans: ʌpʹsprʌŋ
+519:
+  1:
+  - :word: upsweep
+    :trans: ʌpswi:p
+  translations:
+  - подметать
+  - прибирать(комнату)
+  2:
+  - :word: upswept
+    :trans: ʌpswept
+  3:
+  - :word: upswept
+    :trans: ʌpswept
+520:
+  1:
+  - :word: uptear
+    :trans: ʹʌpteə
+  translations:
+  - разрывать
+  - порвать
+  - подрывать
+  2:
+  - :word: uptore
+    :trans: 'ʹʌptɔ:'
+  3:
+  - :word: uptorn
+    :trans: ʹʌptɔ:n
+521:
+  1:
+  - :word: vex
+    :trans: veks
+  translations:
+  - досаждать
+  - надоедать
+  - дразнить
+  2:
+  - :word: vext
+    :trans: vekst
+  3:
+  - :word: vext
+    :trans: vekst
+522:
+  1:
+  - :word: wake
+    :trans: weık
+  translations:
+  - просыпаться
+  - пробуждать(ся)
+  2:
+  - :word: woke
+    :trans: wəʋk
+  - :word: waked
+    :trans: wəıkt
+  3:
+  - :word: woken
+    :trans: wəʋkən
+  - :word: waked
+    :trans: wəıkt
+523:
+  1:
+  - :word: wax
+    :trans: wæks
+  translations:
+  - прибывать (о фазе Луны или других небесных тел)
+  - развиваться
+  2:
+  - :word: waxed
+    :trans: wæksd
+  - :word: wex
+    :trans: ʹweks
+  3:
+  - :word: waxed
+    :trans: wæksd
+  - :word: waxen
+    :trans: ʹwæks(ə)n
+524:
+  1:
+  - :word: waylay
+    :trans: weıʹleı
+  translations:
+  - подстерегать
+  - устраивать засаду (на кого-л.)
+  2:
+  - :word: waylaid
+    :trans: weıʹleıd
+  3:
+  - :word: waylaid
+    :trans: weıʹleıd
+525:
+  1:
+  - :word: wear
+    :trans: weə
+  translations:
+  - носить (одежду и т. п.)
+  2:
+  - :word: wore
+    :trans: 'wɔ:'
+  3:
+  - :word: worn
+    :trans: wɔ:n
+526:
+  1:
+  - :word: weave
+    :trans: wi:v
+  translations:
+  - ткать
+  - плести
+  2:
+  - :word: wove
+    :trans: wəʋv
+  3:
+  - :word: woven
+    :trans: ʹwəʋv(ə)n
+527:
+  1:
+  - :word: wed
+    :trans: wed
+  translations:
+  - жениться
+  - выходить замуж
+  - вступать в брак
+  2:
+  - :word: wedded
+    :trans: wedıd
+  - :word: wed
+    :trans: wed
+  3:
+  - :word: wedded
+    :trans: wedıd
+  - :word: wed
+    :trans: wed
+528:
+  1:
+  - :word: weep
+    :trans: wi:p
+  translations:
+  - плакать
+  2:
+  - :word: wept
+    :trans: wept
+  3:
+  - :word: wept
+    :trans: wept
+529:
+  1:
+  - :word: wend
+    :trans: wend
+  translations:
+  - идти
+  - держать путь (домой)
+  - направляться
+  - ходить
+  - ехать
+  - становиться
+  - стать
+  2:
+  - :word: wended
+    :trans: wendıd
+  - :word: went
+    :trans: went
+  3:
+  - :word: wended
+    :trans: wendıd
+  - :word: went
+    :trans: went
+530:
+  1:
+  - :word: wet
+    :trans: wet
+  translations:
+  - мочить
+  2:
+  - :word: wet
+    :trans: wet
+  - :word: wetted
+    :trans: wetıd
+  3:
+  - :word: wet
+    :trans: wet
+  - :word: wetted
+    :trans: wetıd
+531:
+  1:
+  - :word: whipsaw
+    :trans: 'wıpsɔ:'
+  translations:
+  - пилить лучковой пилой
+  2:
+  - :word: whipsawed
+    :trans: wıpsɔ:d
+  3:
+  - :word: whipsawn
+    :trans: wıpsɔ:n
+  - :word: whipsawed
+    :trans: wıpsɔ:d
+532:
+  1:
+  - :word: Wicket-keep
+    :trans: ʹwıkıtki:p
+  translations:
+  - "(устар.) охранять воротца (в крикете)"
+  2:
+  - :word: wicket-kept
+    :trans: "%%%"
+  3:
+  - :word: wicket-kept
+    :trans: "%%%"
+533:
+  1:
+  - :word: win
+    :trans: wın
+  translations:
+  - выиграть
+  - победить
+  2:
+  - :word: won
+    :trans: wʌn
+  3:
+  - :word: won
+    :trans: wʌn
+534:
+  1:
+  - :word: wind
+    :trans: wınd
+  translations:
+  - виться
+  - извиваться
+  - играть на духовом инструменте
+  - трубить
+  2:
+  - :word: wound
+    :trans: wu:nd
+  3:
+  - :word: wound
+    :trans: wu:nd
+535:
+  1:
+  - :word: winterfeed
+    :trans: wıntəfi:d
+  translations:
+  - кормить скот зимой
+  2:
+  - :word: winterfed
+    :trans: wıntəfed
+  3:
+  - :word: winterfed
+    :trans: wıntəfed
+536:
+  1:
+  - :word: wiredraw
+    :trans: 'waıədrɔ:'
+  translations:
+  - растягивать
+  - удлинять
+  - вытягивать в длину
+  - затягивать
+  2:
+  - :word: wiredrew
+    :trans: 'waıədru:'
+  3:
+  - :word: wiredrawn
+    :trans: waıədrɔ:n
+537:
+  1:
+  - :word: wiredraw
+    :trans: 'ʹwaıədrɔ:'
+  translations:
+  - "(устар.)(тех.) волочить проволоку"
+  2:
+  - :word: wiredrew
+    :trans: 'ʹwaıədru:'
+  3:
+  - :word: wiredrawn
+    :trans: ʹwaıədrɔ:n
+538:
+  1:
+  - :word: wit
+    :trans: wıt
+  translations:
+  - "(устар.) знать"
+  - ведать
+  2:
+  - :word: wit
+    :trans: wıt
+  3:
+  - :word: wit
+    :trans: wıt
+539:
+  1:
+  - :word: withdraw
+    :trans: 'wıðʹdrɔ:'
+  translations:
+  - отнимать
+  - отдёргивать
+  - забирать
+  - брать назад
+  - отказываться
+  2:
+  - :word: withdrew
+    :trans: 'wıðʹdru:'
+  3:
+  - :word: withdrawn
+    :trans: wıðʹdrɔ:n
+540:
+  1:
+  - :word: withhold
+    :trans: wıðʹhəʋld
+  translations:
+  - вычитать
+  - удерживать
+  - не сообщать
+  - утаивать
+  2:
+  - :word: withheld
+    :trans: wıðʹhəld
+  3:
+  - :word: withheld
+    :trans: wıðʹhəld
+541:
+  1:
+  - :word: withstand
+    :trans: wıðʹstænd
+  translations:
+  - устоять
+  - выстоять
+  - выдержать
+  2:
+  - :word: withstood
+    :trans: wıðʹstʋd
+  3:
+  - :word: withstood
+    :trans: wıðʹstʋd
+542:
+  1:
+  - :word: work
+    :trans: wɜ:k
+  translations:
+  - работать
+  - действовать
+  - оказывать воздействие
+  - обрабатывать
+  - причинять (вред, ущерб)
+  2:
+  - :word: worked
+    :trans: wɜ:kt
+  - :word: wrought
+    :trans: rɔ:t
+  3:
+  - :word: worked
+    :trans: wɜ:kt
+  - :word: wrought
+    :trans: rɔ:t
+543:
+  1:
+  - :word: worth
+    :trans: wɜ:θ
+  translations:
+  - становиться(устар.)
+  2:
+  - :word: worth
+    :trans: wɜ:θ
+  3:
+  - :word: worth
+    :trans: wɜ:θ
+  - :word: worthen
+    :trans: wɜ:θən
+544:
+  1:
+  - :word: wrap
+    :trans: ræp
+  translations:
+  - окутывать
+  - завёртывать
+  2:
+  - :word: wrapt
+    :trans: ræpt
+  - :word: wrapped
+    :trans: "%%%"
+  3:
+  - :word: wrapt
+    :trans: ræpt
+  - :word: wrapped
+    :trans: "%%%"
+545:
+  1:
+  - :word: wreak
+    :trans: ri:k
+  translations:
+  - причинять (вред, ущерб)
+  - работать
+  - действовать
+  - оказывать воздействие
+  - обрабатывать
+  2:
+  - :word: wrought
+    :trans: rɔ:t
+  - :word: wreaked
+    :trans: ri:kt
+  3:
+  - :word: wrought
+    :trans: rɔ:t
+  - :word: wreaked
+    :trans: ri:kt
+546:
+  1:
+  - :word: wring
+    :trans: rıŋ
+  translations:
+  - выжимать
+  - жать
+  - вымогать
+  - скручивать
+  2:
+  - :word: wrung
+    :trans: rʌŋ
+  3:
+  - :word: wrung
+    :trans: rʌŋ
+547:
+  1:
+  - :word: write
+    :trans: raıt
+  translations:
+  - писать
+  2:
+  - :word: wrote
+    :trans: rəʋt
+  3:
+  - :word: written
+    :trans: rıtn
+548:
+  1:
+  - :word: abide
+    :trans: əʹbaıd
+  translations:
+  - выносить
+  - терпеть
+  - ждать
+  - оставаться верным
+  - следовать (чему-л.)
+  - выполнять
+  - пребывать
+  - находиться
+  2:
+  - :word: abode
+    :trans: əʹbəʋd
+  - :word: abided
+    :trans: əʹbaıdıd
+  3:
+  - :word: abode
+    :trans: əʹbəʋd
+  - :word: abided
+    :trans: əʹbaıdıd
+549:
+  1:
+  - :word: aby
+    :trans: əʹbaı
+  translations:
+  - искупать
+  - искупить
+  2:
+  - :word: abought
+    :trans: əʹbɔ:t
+  3:
+  - :word: abought
+    :trans: əʹbɔ:t
+550:
+  1:
+  - :word: alight
+    :trans: əʹlaıt
+  translations:
+  - сходить
+  - выходить (из поезда автобуса и т. п.)
+  2:
+  - :word: alighted
+    :trans: əʹlaıtıd
+  - :word: alit
+    :trans: əʹlıt
+  3:
+  - :word: alighted
+    :trans: əʹlaıtıd
+  - :word: alit
+    :trans: əʹlıt
+551:
+  1:
+  - :word: arise
+    :trans: əʹraız
+  translations:
+  - возникать
+  - появляться
+  - проистекать
+  - являться результатом
+  2:
+  - :word: arose
+    :trans: əʹroʋz
+  3:
+  - :word: arizen
+    :trans: əʹrızn
+552:
+  1:
+  - :word: awake
+    :trans: əʹweık
+  translations:
+  - будить
+  - пробуждать(ся)
+  - просыпаться
+  - осознать
+  2:
+  - :word: awoke
+    :trans: əʹwəʋk
+  3:
+  - :word: awoken
+    :trans: əʹwəʋkən
+  - :word: awaked
+    :trans: əʹweıkt
+553:
+  1:
+  - :word: backset
+    :trans: ʹbækset
+  translations:
+  - перепахивать (землю в прериях)
+  2:
+  - :word: backset
+    :trans: ʹbækset
+  3:
+  - :word: backset
+    :trans: ʹbækset
+554:
+  1:
+  - :word: backslide
+    :trans: ʹbækslaıd
+  translations:
+  - катиться по наклонной плоскости
+  - возвращаться к пороку
+  2:
+  - :word: backslid
+    :trans: "͵bækʹslıd"
+  3:
+  - :word: 'backslid '
+    :trans: "͵bækʹslıd"
+  - :word: backslidden
+    :trans: "͵bækʹslıdn"
+555:
+  1:
+  - :word: backwind
+    :trans: ʹbækwınd
+  translations:
+  - отнимать ветер (на парусных гонках)
+  - перематывать плёнку назад
+  - в обратном направлении
+  2:
+  - :word: backwound
+    :trans: ʹbækwaʋnd
+  3:
+  - :word: backwound
+    :trans: ʹbækwaʋnd
+556:
+  1:
+  - :word: be
+    :trans: 'bi:'
+  translations:
+  - быть
+  2:
+  - :word: was
+    :trans: wɒz
+  - :word: were
+    :trans: 'wɜ:'
+  3:
+  - :word: been
+    :trans: bi:n
+557:
+  1:
+  - :word: bear
+    :trans: beə
+  translations:
+  - переносить
+  - выносить
+  - "(p.p. born) рождать"
+  - производить
+  2:
+  - :word: bore
+    :trans: 'bɔ:'
+  3:
+  - :word: born(e)
+    :trans: bɔ:n
+558:
+  1:
+  - :word: beat
+    :trans: bi:t
+  translations:
+  - бить
+  2:
+  - :word: beat
+    :trans: bi:t
+  3:
+  - :word: beaten
+    :trans: bi:tn
+559:
+  1:
+  - :word: become
+    :trans: bıʹkʌm
+  translations:
+  - делаться
+  - становиться
+  - превращаться
+  2:
+  - :word: became
+    :trans: bıʹkeım
+  3:
+  - :word: become
+    :trans: bıʹkʌm
+560:
+  1:
+  - :word: bedight
+    :trans: ʹbıʹdaıt
+  translations:
+  - одевать
+  - наряжать
+  - украшать
+  2:
+  - :word: bedight
+    :trans: ʹbıʹdaıt
+  - :word: bedighted
+    :trans: ʹbıʹdaıtıd
+  3:
+  - :word: bedight
+    :trans: ʹbıʹdaıt
+  - :word: bedighted
+    :trans: ʹbıʹdaıtıd
+561:
+  1:
+  - :word: befall
+    :trans: bıʹfɔ:l
+  translations:
+  - случаться (с кем-л.)
+  - приключаться
+  - выпадать на (чью-л.) долю
+  2:
+  - :word: befell
+    :trans: bıʹfel
+  3:
+  - :word: befallen
+    :trans: bıʹfɔ:lən
+562:
+  1:
+  - :word: beget
+    :trans: bıʹget
+  translations:
+  - порождать
+  - "(лит.) быть отцом"
+  - производить на свет
+  2:
+  - :word: begat
+    :trans: bıʹgæt
+  - :word: begot
+    :trans: bıʹgɒt
+  3:
+  - :word: begotten
+    :trans: bıʹgɒtn
+  - :word: begot
+    :trans: bıʹgɒt
+563:
+  1:
+  - :word: begin
+    :trans: bıʹ(g)ın
+  translations:
+  - начинать(ся)
+  2:
+  - :word: began
+    :trans: bıʹgæn
+  3:
+  - :word: begun
+    :trans: bıʹgʌn
+564:
+  1:
+  - :word: begird
+    :trans: bıʹgɜ:d
+  translations:
+  - опоясывать
+  - окружать
+  2:
+  - :word: 'begirt '
+    :trans: bıʹgɜ:t
+  - :word: begirded
+    :trans: bıʹgɜ:dıd
+  3:
+  - :word: begirt
+    :trans: bıʹgɜ:t
+565:
+  1:
+  - :word: belay
+    :trans: bıʹleı
+  translations:
+  - мор. закрепить (канат)
+  - завёртывать (снасть)
+  2:
+  - :word: belaid
+    :trans: bıʹleıd
+  3:
+  - :word: belaid
+    :trans: bıʹleıd
+566:
+  1:
+  - :word: bename
+    :trans: bıʹneım
+  translations:
+  - "(устар.) называть"
+  - величать
+  2:
+  - :word: benempt
+    :trans: bıʹnem(p)t
+  3:
+  - :word: benempt
+    :trans: bıʹnem(p)t
+567:
+  1:
+  - :word: bend
+    :trans: bend
+  translations:
+  - гнуть(ся)
+  - сгибать(ся)
+  - покорять (conquer)
+  - покоряться (submit resign oneself to- чему-либо)
+  - привязывать (тросы паруса)
+  2:
+  - :word: bent
+    :trans: bent
+  3:
+  - :word: bent
+    :trans: bent
+568:
+  1:
+  - :word: bequeath
+    :trans: bıʹkwi:ð
+  translations:
+  - завещать
+  2:
+  - :word: bequeathed
+    :trans: bıʹkwi:ðd
+  - :word: bequoth
+    :trans: bıʹkwəʋθ
+  3:
+  - :word: bequeathed
+    :trans: bıʹkwi:ðd
+  - :word: bequoth
+    :trans: bıʹkwəʋθ
+  - :word: bequeathen
+    :trans: bıʹkwi:ðən
+569:
+  1:
+  - :word: bereave
+    :trans: bıʹri:v
+  translations:
+  - лишать (родных) (о смерти и т.п.)
+  2:
+  - :word: bereft
+    :trans: bıʹreft
+  - :word: bereaved
+    :trans: bıʹri:vd
+  3:
+  - :word: bereft
+    :trans: bıʹreft
+  - :word: bereaved
+    :trans: bıʹri:vd
+570:
+  1:
+  - :word: beset
+    :trans: bıʹset
+  translations:
+  - осаждать
+  - окружать
+  - нападать со всех сторон
+  2:
+  - :word: beset
+    :trans: bıʹset
+  3:
+  - :word: beset
+    :trans: bıʹset
+571:
+  1:
+  - :word: bespeak
+    :trans: bıʹspi:k
+  translations:
+  - свидетельствовать
+  - означать
+  - предвещать
+  - предзнаменовать
+  2:
+  - :word: bespoke
+    :trans: bıʹspeık
+  3:
+  - :word: bespoken
+    :trans: bıʹspəʋkən
+572:
+  1:
+  - :word: bespit
+    :trans: bıspıt
+  translations:
+  - заплёвывать
+  2:
+  - :word: bespat
+    :trans: bıspæt
+  3:
+  - :word: bespat
+    :trans: bıspæt
+573:
+  1:
+  - :word: bespread
+    :trans: bıʹspred
+  translations:
+  - покрывать
+  - устилать
+  - засыпать
+  2:
+  - :word: bespread
+    :trans: bıʹspred
+  3:
+  - :word: bespread
+    :trans: bıʹspred
+574:
+  1:
+  - :word: bestead
+    :trans: bıʹsted
+  translations:
+  - "(устар.) помогать"
+  - быть полезным
+  2:
+  - :word: besteaded
+    :trans: "%%%"
+  3:
+  - :word: bested
+    :trans: "%%%"
+  - :word: bestead
+    :trans: "%%%"
+575:
+  1:
+  - :word: bestrew
+    :trans: 'bıʹstru:'
+  translations:
+  - разбрасывать
+  - усыпать
+  - устилать
+  2:
+  - :word: bestrewed
+    :trans: bıʹstru:d
+  3:
+  - :word: bestrewed
+    :trans: bıʹstru:d
+  - :word: bestrewn
+    :trans: bıʹstru:n
+576:
+  1:
+  - :word: bestride
+    :trans: bıstraıd
+  translations:
+  - садиться или сидеть верхом
+  - стоять расставив ноги
+  - перешагивать
+  2:
+  - :word: bestrode
+    :trans: bıstrəʋd
+  3:
+  - :word: bestridden
+    :trans: bıstrıdn
+577:
+  1:
+  - :word: bet
+    :trans: bet
+  translations:
+  - держать пари
+  - биться об заклад
+  - быть уверенным в чём-л.
+  2:
+  - :word: 'betted '
+    :trans: betıd
+  - :word: bet
+    :trans: bet
+  3:
+  - :word: 'betted '
+    :trans: betıd
+  - :word: bet
+    :trans: bet
+578:
+  1:
+  - :word: betake
+    :trans: bıʹteık
+  translations:
+  - "(устар.) прибегать"
+  - обращаться (oneself to)
+  2:
+  - :word: betook
+    :trans: bıʹtʋk
+  3:
+  - :word: betaken
+    :trans: bıʹteıkən
+579:
+  1:
+  - :word: bethink
+    :trans: bıʹθıŋk
+  translations:
+  - "(устар.) размышлять"
+  - поразмыслить
+  - призадуматься
+  2:
+  - :word: bethought
+    :trans: bıʹθɔ:t
+  3:
+  - :word: bethought
+    :trans: bıʹθɔ:t
+580:
+  1:
+  - :word: betide
+    :trans: bıʹtaıd
+  translations:
+  - случаться
+  - постигать (употр. тк. в 3-ем л. ед. ч. и безл. оборотах)
+  2:
+  - :word: betid
+    :trans: bıʹtıd
+  3:
+  - :word: betid
+    :trans: bıʹtıd
+581:
+  1:
+  - :word: beweep
+    :trans: bıʹwi:p
+  translations:
+  - оплакивать
+  2:
+  - :word: bewept
+    :trans: bıʹwept
+  3:
+  - :word: bewept
+    :trans: bıʹwept
+582:
+  1:
+  - :word: bewrite
+    :trans: bıʹraıt
+  translations:
+  - описывать
+  2:
+  - :word: bewrote
+    :trans: bıʹrəʋt
+  3:
+  - :word: bewritten
+    :trans: bıʹrıtn
+583:
+  1:
+  - :word: bid
+    :trans: bıd
+  translations:
+  - предлагать цену (на аукционе торгах)
+  - говорить
+  - желать
+  - приказывать
+  - приглашать
+  2:
+  - :word: bade
+    :trans: bæd
+  - :word: bid
+    :trans: bıd
+  3:
+  - :word: 'bidden '
+    :trans: bıdn
+  - :word: bid
+    :trans: bıd
+584:
+  1:
+  - :word: bide
+    :trans: baıd
+  translations:
+  - выжидать (благоприятного момента)
+  2:
+  - :word: bided
+    :trans: ʹbaıdıd
+  - :word: bode
+    :trans: bəʋd
+  3:
+  - :word: bided
+    :trans: ʹbaıdıd
+585:
+  1:
+  - :word: bind
+    :trans: baınd
+  translations:
+  - вязать
+  - связывать
+  2:
+  - :word: bound
+    :trans: baʋnd
+  3:
+  - :word: bound
+    :trans: baʋnd
+586:
+  1:
+  - :word: bite
+    :trans: baıt
+  translations:
+  - кусать(ся)
+  2:
+  - :word: bit
+    :trans: bıt
+  3:
+  - :word: bitten
+    :trans: bıtn
+  - :word: bit
+    :trans: baıt
+587:
+  1:
+  - :word: blaw
+    :trans: 'blɔ:'
+  translations:
+  - дуть(Scottish)
+  2:
+  - :word: blawed
+    :trans: blɔ:d
+  3:
+  - :word: blawn
+    :trans: blɔ:n
+588:
+  1:
+  - :word: bleed
+    :trans: bli:d
+  translations:
+  - кровоточить
+  2:
+  - :word: bled
+    :trans: bled
+  3:
+  - :word: bled
+    :trans: bled
+589:
+  1:
+  - :word: blend
+    :trans: blend
+  translations:
+  - смешивать(ся)
+  2:
+  - :word: 'blent '
+    :trans: blent
+  - :word: blended
+    :trans: blendıd
+  3:
+  - :word: 'blent '
+    :trans: blent
+  - :word: blended
+    :trans: blendıd
+590:
+  1:
+  - :word: bless
+    :trans: bles
+  translations:
+  - благословлять
+  - освящать
+  2:
+  - :word: 'blest '
+    :trans: blest
+  - :word: blessed
+    :trans: blest
+  3:
+  - :word: 'blest '
+    :trans: blest
+  - :word: blessed
+    :trans: blest
+591:
+  1:
+  - :word: blow
+    :trans: blɑʋ
+  translations:
+  - дуть
+  - цвести
+  - расцветать
+  2:
+  - :word: blew
+    :trans: 'blu:'
+  3:
+  - :word: blown
+    :trans: bləʋn
+592:
+  1:
+  - :word: bottle-feed
+    :trans: ʹbɒtlfi:d
+  translations:
+  - вскармливать искусственно (новорождённого)
+  2:
+  - :word: bottle-fed
+    :trans: ʹbɒtlfed
+  3:
+  - :word: bottle-fed
+    :trans: ʹbɒtlfed
+593:
+  1:
+  - :word: bowstring
+    :trans: ʹbəʋ͵strıŋ
+  translations:
+  - задушить с помощью шнурка
+  2:
+  - :word: bowstrung
+    :trans: ʹbəʋ͵strʌŋ
+  - :word: bowstringed
+    :trans: ʹbəʋ͵strıŋd
+  3:
+  - :word: bowstrung
+    :trans: ʹbəʋ͵strʌŋ
+594:
+  1:
+  - :word: break
+    :trans: breık
+  translations:
+  - ломать(ся)
+  2:
+  - :word: broke
+    :trans: brəʋk
+  3:
+  - :word: broken
+    :trans: ʹbrəʋkn
+595:
+  1:
+  - :word: breastfeed
+    :trans: ʹbrestfi:d
+  translations:
+  - кормить грудью
+  2:
+  - :word: breastfed
+    :trans: brestfəd
+  3:
+  - :word: breastfed
+    :trans: brestfəd
+596:
+  1:
+  - :word: breed
+    :trans: bri:d
+  translations:
+  - размножаться
+  - плодиться
+  - разводить
+  2:
+  - :word: bred
+    :trans: bred
+  3:
+  - :word: bred
+    :trans: bred
+597:
+  1:
+  - :word: bring
+    :trans: brıŋ
+  translations:
+  - приносить
+  2:
+  - :word: brought
+    :trans: brɔ:t
+  3:
+  - :word: brought
+    :trans: brɔ:t
+598:
+  1:
+  - :word: broadcast
+    :trans: brɔ:dka:st
+  translations:
+  - передавать по радио
+  - вести радиопередачу
+  - вещать
+  2:
+  - :word: 'broadcasted '
+    :trans: brɔ:dka:stıd
+  - :word: broadcast
+    :trans: ʹbrɔ:dka:st
+  3:
+  - :word: 'broadcasted '
+    :trans: brɔ:dka:stıd
+  - :word: broadcast
+    :trans: ʹbrɔ:dka:st
+599:
+  1:
+  - :word: browbeat
+    :trans: ʹbraʋbi:t
+  translations:
+  - запугивать
+  - отпугивать
+  - нагонять страх
+  2:
+  - :word: browbeat
+    :trans: ʹbraʋbi:t
+  3:
+  - :word: browbeat
+    :trans: ʹbraʋbi:t
+  - :word: browbeaten
+    :trans: ʹbraʋ͵bi:tn
+600:
+  1:
+  - :word: build
+    :trans: bıld
+  translations:
+  - строить
+  2:
+  - :word: built
+    :trans: bılt
+  3:
+  - :word: built
+    :trans: bılt
+601:
+  1:
+  - :word: burn
+    :trans: bɜ:n
+  translations:
+  - жечь
+  - сжигать
+  - пылать
+  - гореть
+  2:
+  - :word: burnt
+    :trans: bɜ:nt
+  - :word: burned
+    :trans: bɜ:nd
+  3:
+  - :word: burnt
+    :trans: bɜ:nt
+  - :word: burned
+    :trans: bɜ:nd
+602:
+  1:
+  - :word: burst
+    :trans: bɜ:st
+  translations:
+  - взрывать(ся)
+  2:
+  - :word: burst
+    :trans: bɜ:st
+  3:
+  - :word: burst
+    :trans: bɜ:st
+603:
+  1:
+  - :word: bust
+    :trans: bʌst
+  translations:
+  - обанкротиться
+  2:
+  - :word: busted
+    :trans: bʌstıd
+  - :word: bust
+    :trans: bʌst
+  3:
+  - :word: busted
+    :trans: bʌstıd
+  - :word: bust
+    :trans: bʌst
+604:
+  1:
+  - :word: buy
+    :trans: baı
+  translations:
+  - покупать
+  - купить
+  2:
+  - :word: bought
+    :trans: bɔ:t
+  3:
+  - :word: bought
+    :trans: bɔ:t
+605:
+  1:
+  - :word: cablecast
+    :trans: ʹkeıb(ə)lkɑ:st
+  translations:
+  - вести передачи по кабельному
+  - абонентскому телевидению
+  2:
+  - :word: cablecast
+    :trans: ʹkeıb(ə)lkɑ:st
+  3:
+  - :word: cablecast
+    :trans: ʹkeıb(ə)lkɑ:st
+606:
+  1:
+  - :word: carve
+    :trans: kɑ:v
+  translations:
+  - вырезать
+  - резать (по дереву кости)
+  2:
+  - :word: carved
+    :trans: ka:vıd
+  - :word: corve
+    :trans: kɔ:v
+  3:
+  - :word: carved
+    :trans: ka:vıd
+  - :word: carven
+    :trans: ʹkɑ:v(ə)n
+607:
+  1:
+  - :word: cast
+    :trans: kɑ:st
+  translations:
+  - бросать
+  - кидать
+  - швырять
+  2:
+  - :word: cast
+    :trans: kɑ:st
+  3:
+  - :word: cast
+    :trans: kɑ:st
+608:
+  1:
+  - :word: catch
+    :trans: kætʃ
+  translations:
+  - поймать
+  - схватить
+  - ловить
+  2:
+  - :word: caught
+    :trans: kɔ:t
+  3:
+  - :word: caught
+    :trans: kɔ:t
+609:
+  1:
+  - :word: chap
+    :trans: tʃæp
+  translations:
+  - трескаться
+  - раскалывать
+  2:
+  - :word: chapped
+    :trans: tʃæpt
+  - :word: chapt
+    :trans: tʃæpt
+  3:
+  - :word: chapped
+    :trans: tʃæpt
+  - :word: chapt
+    :trans: tʃæpt
+610:
+  1:
+  - :word: cheerlead
+    :trans: ʹtʃıəli:d
+  translations:
+  - работать в группе поддержки
+  2:
+  - :word: cheerled
+    :trans: ʹtʃıəled
+  3:
+  - :word: cheerled
+    :trans: ʹtʃıəled
+611:
+  1:
+  - :word: chide
+    :trans: tʃaıd
+  translations:
+  - бранить
+  - упрекать
+  - ворчать
+  2:
+  - :word: 'chided '
+    :trans: tʃaıdıd
+  - :word: chid
+    :trans: tʃıd
+  3:
+  - :word: chided
+    :trans: tʃaıdıd
+  - :word: 'chidden '
+    :trans: tʃıdn
+  - :word: chid
+    :trans: tʃıd
+612:
+  1:
+  - :word: choose
+    :trans: tʃu:z
+  translations:
+  - выбирать
+  2:
+  - :word: chose
+    :trans: tʃəʋz
+  3:
+  - :word: chosen
+    :trans: tʃəʋz(ə)n
+613:
+  1:
+  - :word: clap
+    :trans: klæp
+  translations:
+  - хлопать (ладонью, ладонями, крыльями)
+  - аплодировать
+  2:
+  - :word: clapped
+    :trans: klæpt
+  - :word: clapt
+    :trans: klæpt
+  3:
+  - :word: clapped
+    :trans: klæpt
+  - :word: clapt
+    :trans: klæpt
+614:
+  1:
+  - :word: clear-cut
+    :trans: ʹklıəkʌt
+  translations:
+  - осуществлять сплошную вырубку леса
+  2:
+  - :word: clear-cut
+    :trans: ʹklıəkʌt
+  3:
+  - :word: clear-cut
+    :trans: ʹklıəkʌt
+615:
+  1:
+  - :word: cleave
+    :trans: kli:v
+  translations:
+  - раскалывать(ся)
+  - оставаться верным(преданным)
+  2:
+  - :word: 'cleaved '
+    :trans: kli:vd
+  - :word: cleft
+    :trans: kleft
+  - :word: clove
+    :trans: kləʋv
+  3:
+  - :word: 'cleaved '
+    :trans: kli:vd
+  - :word: cleft
+    :trans: kleft
+  - :word: cloven
+    :trans: kləʋvn
+616:
+  1:
+  - :word: cleek
+    :trans: kli:k
+  translations:
+  - схватывать
+  - хватать (рукой или крюком)
+  - загребать к себе
+  2:
+  - :word: claught
+    :trans: klɔ:t
+  - :word: cleeked
+    :trans: kli:kt
+  3:
+  - :word: claught
+    :trans: klɔ:t
+  - :word: cleeked
+    :trans: kli:kt
+617:
+  1:
+  - :word: clepe
+    :trans: kli:p
+  translations:
+  - называть
+  2:
+  - :word: clept
+    :trans: klept
+  - :word: cleped
+    :trans: kli:pt
+  3:
+  - :word: clept
+    :trans: klept
+  - :word: cleped
+    :trans: kli:pt
+618:
+  1:
+  - :word: cliffhang
+    :trans: ʹklıfhæŋ
+  translations:
+  - висеть на волоске
+  2:
+  - :word: cliffhang
+    :trans: ʹklıfhæŋ
+  3:
+  - :word: cliffhung
+    :trans: klıfhʌŋ
+619:
+  1:
+  - :word: climb
+    :trans: klaım
+  translations:
+  - карабкаться
+  - взбираться
+  - влезать
+  - подниматься
+  2:
+  - :word: climbed
+    :trans: kləʋm
+  - :word: clomb
+    :trans: kloʊm
+  - :word: clumb
+    :trans: "%%%"
+  3:
+  - :word: climbed
+    :trans: kləʋm
+  - :word: clomb
+    :trans: kloʊm
+  - :word: clumb
+    :trans: "%%%"
+620:
+  1:
+  - :word: cling
+    :trans: klıŋ
+  translations:
+  - прилипать
+  - цепляться
+  - держаться
+  2:
+  - :word: clung
+    :trans: klʌŋ
+  3:
+  - :word: clung
+    :trans: klʌŋ
+621:
+  1:
+  - :word: clip
+    :trans: klıp
+  translations:
+  - стричь
+  - подрезать
+  2:
+  - :word: clipped
+    :trans: klıpt
+  3:
+  - :word: clipped
+    :trans: klıpt
+622:
+  1:
+  - :word: clothe
+    :trans: kləʋð
+  translations:
+  - одевать(ся)
+  2:
+  - :word: clad
+    :trans: klæd
+  - :word: clothed
+    :trans: kləʋðd
+  3:
+  - :word: clad
+    :trans: klæd
+  - :word: clothed
+    :trans: kləʋðd
+623:
+  1:
+  - :word: colorbreed
+    :trans: ʹkʌlə͵bri:d
+  translations:
+  - разводить животных определенного цвета
+  2:
+  - :word: colorbred
+    :trans: ʹkʌlə͵bred
+  3:
+  - :word: colorbred
+    :trans: ʹkʌlə͵bred
+624:
+  1:
+  - :word: colorcast
+    :trans: ʹkʌlə͵ka:st
+  translations:
+  - передавать/показывать в цветном изображении
+  2:
+  - :word: colorcast
+    :trans: ʹkʌlə͵ka:st
+  3:
+  - :word: colorcast
+    :trans: ʹkʌlə͵ka:st
+625:
+  1:
+  - :word: come
+    :trans: kʌm
+  translations:
+  - приходить
+  2:
+  - :word: came
+    :trans: keım
+  3:
+  - :word: come
+    :trans: kʌm
+626:
+  1:
+  - :word: cost
+    :trans: kɒst
+  translations:
+  - стоить
+  2:
+  - :word: cost
+    :trans: kɒst
+  3:
+  - :word: cost
+    :trans: kɒst
+627:
+  1:
+  - :word: cost-cut
+    :trans: ʹkɔst͵kʌt
+  translations:
+  - сокращать затраты
+  - издержки
+  2:
+  - :word: cost-cut
+    :trans: ʹkɔst͵kʌt
+  3:
+  - :word: cost-cut
+    :trans: ʹkɔst͵kʌt
+628:
+  1:
+  - :word: countersink
+    :trans: ʹkaʋntəsıŋk
+  translations:
+  - тех. зенковать
+  2:
+  - :word: countersank
+    :trans: kaʋntəsæŋk
+  3:
+  - :word: countersunk
+    :trans: kaʋntəsʌŋk
+629:
+  1:
+  - :word: counterwork
+    :trans: ʹkaʋntəwɜ:k
+  translations:
+  - противодействовать
+  - расстраивать (планы)
+  2:
+  - :word: counterworked
+    :trans: kaʋntəwɜ:kt
+  - :word: counterwrought
+    :trans: "͵kaʋntəʹrɔ:t"
+  3:
+  - :word: counterworked
+    :trans: kaʋntəwɜ:kt
+  - :word: counterwrought
+    :trans: "͵kaʋntəʹrɔ:t"
+630:
+  1:
+  - :word: co-write
+    :trans: ʹkəʋ͵raıt
+  translations:
+  - писать
+  - написать совместно
+  2:
+  - :word: co-wrote
+    :trans: ʹkəʋ͵rəʋt
+  3:
+  - :word: co-written
+    :trans: ʹkəʋ͵rıtn
+631:
+  1:
+  - :word: crash-dive
+    :trans: ʹkræʃdaıv
+  translations:
+  - производить срочное погружение
+  - срочно погружаться (о подводной лодке)
+  2:
+  - :word: crash-dived
+    :trans: kræʃdaıvd
+  - :word: crash-dove
+    :trans: kræʃdʌv
+  3:
+  - :word: crash-dived
+    :trans: kræʃdaıvd
+  - :word: crash-dove
+    :trans: kræʃdʌv
+632:
+  1:
+  - :word: creep
+    :trans: kri:p
+  translations:
+  - ползти
+  2:
+  - :word: crept
+    :trans: krept
+  3:
+  - :word: crept
+    :trans: krept
+633:
+  1:
+  - :word: creep-feed
+    :trans: kri:p͵fi:d
+  translations:
+  - кормить молодняк в специально отведенном месте
+  2:
+  - :word: creep-fed
+    :trans: kri:p͵fed
+  3:
+  - :word: creep-fed
+    :trans: kri:p͵fed
+634:
+  1:
+  - :word: cross-bite
+    :trans: ʹkrɔ:s͵baıt
+  translations:
+  - мешать
+  - помешать исполнению желаний
+  - расстраивать/разрушать( планы)
+  2:
+  - :word: cross-bit
+    :trans: ʹkrɔ:s͵bıt
+  3:
+  - :word: cross-bitten
+    :trans: ʹkrɔ:s͵bıtn
+635:
+  1:
+  - :word: crossbreed
+    :trans: ʹkrɒsbri:d
+  translations:
+  - скрещивать (породы)
+  2:
+  - :word: crossbreeded
+    :trans: krɒsbri:dıd
+  - :word: crossbred
+    :trans: ʹkrɒsbred
+  3:
+  - :word: crossbreeded
+    :trans: krɒsbri:dıd
+  - :word: crossbred
+    :trans: ʹkrɒsbred
+636:
+  1:
+  - :word: crosscut
+    :trans: ʹkrɒs͵kʌt
+  translations:
+  - пересекать
+  - пересечь
+  - быть противоположным чему-либо
+  - прерывать что-либо
+  2:
+  - :word: crosscut
+    :trans: ʹkrɒs͵kʌt
+  3:
+  - :word: crosscut
+    :trans: ʹkrɒs͵kʌt
+637:
+  1:
+  - :word: crosslight
+    :trans: ʹkrɒslaıt
+  translations:
+  - освещать с разных сторон
+  2:
+  - :word: crosslit
+    :trans: ʹkrɒslıt
+  3:
+  - :word: crosslit
+    :trans: ʹkrɒslıt
+638:
+  1:
+  - :word: cross-string
+    :trans: ʹkrɒs͵strıŋ
+  translations:
+  - натягивать струны крест-накрест
+  2:
+  - :word: cross-strung
+    :trans: ʹkrɒs͵strʌŋ
+  3:
+  - :word: cross-strung
+    :trans: ʹkrɒs͵strʌŋ
+639:
+  1:
+  - :word: crow
+    :trans: krəʋ
+  translations:
+  - кричать кукареку
+  2:
+  - :word: crew
+    :trans: krʋ
+  - :word: crowed
+    :trans: krəʋd
+  3:
+  - :word: crowed
+    :trans: krəʋd
+640:
+  1:
+  - :word: cut
+    :trans: kʌt
+  translations:
+  - стричь
+  - резать
+  - нарезать
+  - рубить(дереья)
+  - косить
+  2:
+  - :word: cut
+    :trans: kʌt
+  3:
+  - :word: cut
+    :trans: kʌt
+641:
+  1:
+  - :word: dare
+    :trans: deə
+  translations:
+  - сметь
+  2:
+  - :word: 'dared '
+    :trans: deəd
+  - :word: durst
+    :trans: dɜ:st
+  3:
+  - :word: dared
+    :trans: deəd
+642:
+  1:
+  - :word: daydream
+    :trans: deı͵dri:m
+  translations:
+  - грезить наяву
+  - мечтать
+  2:
+  - :word: daydreamt
+    :trans: deı͵dremt
+  3:
+  - :word: daydreamt
+    :trans: deı͵dremt
+643:
+  1:
+  - :word: deal
+    :trans: di:l
+  translations:
+  - иметь дело
+  2:
+  - :word: dealt
+    :trans: delt
+  3:
+  - :word: dealt
+    :trans: delt
+644:
+  1:
+  - :word: deep-freeze
+    :trans: ʹdi:pʹfri:z
+  translations:
+  - замораживать
+  - заморозить
+  2:
+  - :word: deep-froze
+    :trans: ʹdi:pʹfrəʋz
+  3:
+  - :word: deep-frozen
+    :trans: ʹdi:pʹfrəʋz(ə)n
+645:
+  1:
+  - :word: delve
+    :trans: ʹdelv
+  translations:
+  - рыться
+  - копаться
+  2:
+  - :word: delved
+    :trans: ʹdelvd
+  - :word: dolve
+    :trans: ʹdəʋlv
+  3:
+  - :word: delved
+    :trans: ʹdelvd
+  - :word: dolven
+    :trans: ʹdəʋlvən
+646:
+  1:
+  - :word: dig
+    :trans: dıg
+  translations:
+  - копать
+  - рыть
+  2:
+  - :word: dug
+    :trans: dʌg
+  3:
+  - :word: dug
+    :trans: dʌg
+647:
+  1:
+  - :word: dight
+    :trans: daıt
+  translations:
+  - одеваться
+  - украшаться
+  2:
+  - :word: dighted
+    :trans: daıt
+  - :word: dight
+    :trans: "%%%"
+  3:
+  - :word: dighted
+    :trans: daıt
+  - :word: dight
+    :trans: "%%%"
+648:
+  1:
+  - :word: ding
+    :trans: dıŋ
+  translations:
+  - звенеть (подобно колоколу или металлу
+  2:
+  - :word: dinged
+    :trans: dıŋd
+  - :word: dung
+    :trans: dʌŋ
+  3:
+  - :word: dinged
+    :trans: dıŋd
+  - :word: dung
+    :trans: dʌŋ
+649:
+  1:
+  - :word: dip
+    :trans: dıp
+  translations:
+  - погружать
+  - окунать
+  - макать
+  2:
+  - :word: dipped
+    :trans: dıpt
+  - :word: dipt
+    :trans: "%%%"
+  3:
+  - :word: dipped
+    :trans: dıpt
+  - :word: dipt
+    :trans: "%%%"
+650:
+  1:
+  - :word: dispread
+    :trans: dıʹspred
+  translations:
+  - распространять повсюду
+  2:
+  - :word: dispread
+    :trans: dıʹspred
+  3:
+  - :word: dispread
+    :trans: dıʹspred
+651:
+  1:
+  - :word: disprove
+    :trans: dısʹpru:v
+  translations:
+  - опровергать
+  - доказывать ложность (чего-л.)
+  2:
+  - :word: disproved
+    :trans: dısʹpru:vd
+  3:
+  - :word: disproved
+    :trans: dısʹpru:vd
+  - :word: disproven
+    :trans: dısʹpru:vn
+652:
+  1:
+  - :word: dive
+    :trans: daıv
+  translations:
+  - нырять
+  2:
+  - :word: 'dived '
+    :trans: daıvd
+  - :word: dove
+    :trans: dəʋv
+  3:
+  - :word: dived
+    :trans: daıvd
+653:
+  1:
+  - :word: do
+    :trans: 'du:'
+  translations:
+  - делать
+  2:
+  - :word: did
+    :trans: dıd
+  3:
+  - :word: done
+    :trans: dʌn
+654:
+  1:
+  - :word: dogfight
+    :trans: ʹdɒg͵faıt
+  translations:
+  - учатвовать в воздушном бою
+  - организовывать бои собак
+  2:
+  - :word: dogfought
+    :trans: ʹdɒg͵fɔ:t
+  3:
+  - :word: dogfought
+    :trans: ʹdɒg͵fɔ:t
+655:
+  1:
+  - :word: downcast
+    :trans: ʹdaʋnkɑ:st
+  translations:
+  - удручать
+  - печалить
+  - подавлять
+  2:
+  - :word: downcast
+    :trans: ʹdaʋnkɑ:st
+  3:
+  - :word: downcast
+    :trans: ʹdaʋnkɑ:st
+656:
+  1:
+  - :word: draw
+    :trans: 'drɔ:'
+  translations:
+  - чертить
+  - рисовать
+  - тащить(ся)
+  - тянуть(ся)
+  - волочить(ся)
+  2:
+  - :word: drew
+    :trans: 'dru:'
+  3:
+  - :word: drawn
+    :trans: drɔ:n
+657:
+  1:
+  - :word: dream
+    :trans: dri:m
+  translations:
+  - видеть сон
+  - мечтать
+  2:
+  - :word: 'dreamed '
+    :trans: dri:md
+  - :word: dreamt
+    :trans: dremt
+  3:
+  - :word: 'dreamed '
+    :trans: dri:md
+  - :word: dreamt
+    :trans: dremt
+658:
+  1:
+  - :word: drink
+    :trans: drıŋk
+  translations:
+  - пить
+  2:
+  - :word: drank
+    :trans: dræŋk
+  3:
+  - :word: drunk
+    :trans: drʌŋk
+659:
+  1:
+  - :word: drip-feed
+    :trans: ʹdrıpʹfi:d
+  translations:
+  - дозировать(информацию)
+  2:
+  - :word: drip-fed
+    :trans: ʹdrıpʹfed
+  3:
+  - :word: drip-fed
+    :trans: ʹdrıpʹfed
+660:
+  1:
+  - :word: drive
+    :trans: draıv
+  translations:
+  - вести
+  - управлять (машину)
+  - вбивать
+  - вколачивать
+  2:
+  - :word: drove
+    :trans: dræʋv
+  3:
+  - :word: driven
+    :trans: drıvn
+661:
+  1:
+  - :word: dwell
+    :trans: dwel
+  translations:
+  - жить
+  - проживать
+  - подробно останавливаться на чем-либо
+  2:
+  - :word: dwelt
+    :trans: dwelt
+  3:
+  - :word: dwelt
+    :trans: dwelt
+662:
+  1:
+  - :word: eat
+    :trans: i:t
+  translations:
+  - есть
+  2:
+  - :word: ate
+    :trans: et
+  3:
+  - :word: eaten
+    :trans: i:tn
+663:
+  1:
+  - :word: engird
+    :trans: ınʹgɜ:d
+  translations:
+  - опоясывать
+  2:
+  - :word: engirded
+    :trans: ınʹgɜ:dıd
+  - :word: engirt
+    :trans: ınʹgɜ:t
+  3:
+  - :word: engirded
+    :trans: ınʹgɜ:dıd
+  - :word: engirt
+    :trans: ınʹgɜ:t
+664:
+  1:
+  - :word: english
+    :trans: ʹıŋglıʃ
+  translations:
+  - переводить на английский язык
+  2:
+  - :word: english
+    :trans: ʹıŋglıʃ
+  3:
+  - :word: english
+    :trans: ʹıŋglıʃ
+665:
+  1:
+  - :word: engrave
+    :trans: ınʹgreıv
+  translations:
+  - гравировать
+  2:
+  - :word: engraved
+    :trans: ınʹgreıvd
+  3:
+  - :word: engraved
+    :trans: ınʹgreıvd
+  - :word: engraven
+    :trans: ınʹgreıv(ə)n
+666:
+  1:
+  - :word: enweave
+    :trans: ınʹwi:v
+  translations:
+  - воткать
+  - соткать
+  2:
+  - :word: enwove
+    :trans: ınwəʋv
+  3:
+  - :word: enwoven
+    :trans: ınwəʋv(ə)n
+667:
+  1:
+  - :word: enwind
+    :trans: ınwınd
+  translations:
+  - обвивать
+  - виться
+  - обертывать
+  2:
+  - :word: enwound
+    :trans: ınwu:nd
+  3:
+  - :word: enwound
+    :trans: ınwu:nd
+668:
+  1:
+  - :word: enwrap
+    :trans: ınʹræp
+  translations:
+  - завёртывать
+  - укутывать
+  2:
+  - :word: enwrapped
+    :trans: ınræpt
+  - :word: enwrapt
+    :trans: ınræpt
+  3:
+  - :word: enwrapped
+    :trans: ınræpt
+  - :word: enwrapt
+    :trans: ınræpt
+669:
+  1:
+  - :word: fall
+    :trans: fɔ:l
+  translations:
+  - падать
+  2:
+  - :word: fell
+    :trans: fel
+  3:
+  - :word: fallen
+    :trans: ʹfɔ:lən
+670:
+  1:
+  - :word: fare
+    :trans: feə
+  translations:
+  - жить
+  - поживать
+  - преуспевать
+  - достигать результата
+  2:
+  - :word: fared
+    :trans: ʹfeəd
+  - :word: fore
+    :trans: 'fɒ:'
+  3:
+  - :word: fared
+    :trans: ʹfeəd
+  - :word: faren
+    :trans: feərən
+671:
+  1:
+  - :word: farebeat
+    :trans: feəʹbi:t
+  translations:
+  - не платить за проезд
+  - ехать 'зайцем'
+  2:
+  - :word: farebeat
+    :trans: feəʹbi:t
+  3:
+  - :word: farebeaten
+    :trans: feəʹbi:tn
+672:
+  1:
+  - :word: fee
+    :trans: 'fi:'
+  translations:
+  - платить гонорар или жалованье
+  - кормить
+  - снабжать
+  2:
+  - :word: feed
+    :trans: fi:d
+  3:
+  - :word: feed
+    :trans: fi:d
+673:
+  1:
+  - :word: feed
+    :trans: fi:d
+  translations:
+  - платить гонорар или жалованье
+  - кормить
+  - снабжать
+  2:
+  - :word: fed
+    :trans: fed
+  3:
+  - :word: fed
+    :trans: fed
+674:
+  1:
+  - :word: feel
+    :trans: fi:l
+  translations:
+  - чувствовать
+  2:
+  - :word: felt
+    :trans: felt
+  3:
+  - :word: felt
+    :trans: felt
+675:
+  1:
+  - :word: fight
+    :trans: faıt
+  translations:
+  - драться
+  - бороться
+  - сражаться
+  2:
+  - :word: fought
+    :trans: fɔ:t
+  3:
+  - :word: fought
+    :trans: fɔ:t
+676:
+  1:
+  - :word: find
+    :trans: faınd
+  translations:
+  - находить
+  2:
+  - :word: found
+    :trans: faʋnd
+  3:
+  - :word: found
+    :trans: faʋnd
+677:
+  1:
+  - :word: Fine-draw
+    :trans: 'ʹfaındrɔ:'
+  translations:
+  - "(устар.) сшивать незаметным швом"
+  - штуковать
+  2:
+  - :word: fine-drew
+    :trans: 'ʹfaındru:'
+  3:
+  - :word: fine-drawn
+    :trans: "͵faınʹdrɔ:n"
+678:
+  1:
+  - :word: fit
+    :trans: fıt
+  translations:
+  - совпадать
+  - точно подходить
+  - быть впору
+  - приспосабливать
+  2:
+  - :word: fit
+    :trans: fıt
+  3:
+  - :word: fit
+    :trans: fıt
+679:
+  1:
+  - :word: flash-freze
+    :trans: flæʃʹfri:z
+  translations:
+  - быстро замараживать
+  2:
+  - :word: flash-froze
+    :trans: flæʃʹfrəʋz
+  3:
+  - :word: flash-frozen
+    :trans: flæʃʹfrəʋzn
+680:
+  1:
+  - :word: flee
+    :trans: 'fli:'
+  translations:
+  - бежать
+  - убегать
+  - спасаться бегством
+  2:
+  - :word: fled
+    :trans: fled
+  3:
+  - :word: fled
+    :trans: fled
+681:
+  1:
+  - :word: fling
+    :trans: flıŋ
+  translations:
+  - метать
+  - бросать
+  - швырять
+  2:
+  - :word: flung
+    :trans: flʌŋ
+  3:
+  - :word: flung
+    :trans: flʌŋ
+682:
+  1:
+  - :word: floodlight
+    :trans: ʹflʌdlaıt
+  translations:
+  - освещать прожектором
+  2:
+  - :word: floodlighted
+    :trans: flʌdlaıtıd
+  - :word: floodlit
+    :trans: flʌdlıt
+  3:
+  - :word: floodlighted
+    :trans: flʌdlaıtıd
+  - :word: floodlit
+    :trans: flʌdlıt
+683:
+  1:
+  - :word: fly
+    :trans: flaı
+  translations:
+  - лететь
+  2:
+  - :word: flew
+    :trans: 'flu:'
+  3:
+  - :word: flown
+    :trans: fləʋn
+684:
+  1:
+  - :word: flyblow
+    :trans: ʹflaıbləʋ
+  translations:
+  - откладывать яйца (о мухе)
+  2:
+  - :word: flyblew
+    :trans: 'flaıblu:'
+  3:
+  - :word: flyblown
+    :trans: ʹflaıbləʋn
+685:
+  1:
+  - :word: forbear
+    :trans: fɔ:ʹbeə
+  translations:
+  - удерживаться
+  - воздерживаться
+  2:
+  - :word: forbore
+    :trans: 'fɔ:ʹbɔ:'
+  3:
+  - :word: forborne
+    :trans: fɔ:ʹbɔ:n
+686:
+  1:
+  - :word: forbid
+    :trans: fəʹbıd
+  translations:
+  - запрещать
+  2:
+  - :word: forbade
+    :trans: fəʹbeıd
+  - :word: forbad
+    :trans: fəʹbæd
+  3:
+  - :word: forbidden
+    :trans: fəʹbıdn
+687:
+  1:
+  - :word: force-feed
+    :trans: ʹfɔ:sfi:d
+  translations:
+  - кормить насильно
+  2:
+  - :word: force-fed
+    :trans: fɔ:sfed
+  3:
+  - :word: force-fed
+    :trans: fɔ:sfed
+688:
+  1:
+  - :word: fordo
+    :trans: 'fɔ:ʹdu:'
+  translations:
+  - погубить
+  - разорить
+  - разрушить
+  - уничтожить
+  - убить
+  2:
+  - :word: fordid
+    :trans: fɔ:ʹdıd
+  3:
+  - :word: fordone
+    :trans: fɔ:ʹdʌn
+689:
+  1:
+  - :word: forecast
+    :trans: ʹfɔ:ka:st
+  translations:
+  - предсказывать
+  - делать прогноз
+  - прогнозировать
+  2:
+  - :word: 'forecasted '
+    :trans: ʹfɔ:ka:stıd
+  - :word: forecast
+    :trans: ʹfɔ:ka:st
+  3:
+  - :word: 'forecasted '
+    :trans: ʹfɔ:ka:stıd
+  - :word: forecast
+    :trans: ʹfɔ:ka:st
+690:
+  1:
+  - :word: forefeel
+    :trans: fɔ:ʹfi:l
+  translations:
+  - предчувствовать
+  2:
+  - :word: forefelt
+    :trans: fɔ:ʹfelt
+  3:
+  - :word: forefelt
+    :trans: fɔ:ʹfelt
+691:
+  1:
+  - :word: forego
+    :trans: fɔ:ʹgəʋ
+  translations:
+  - отказываться
+  - воздерживаться от чего-либо
+  - предшествовать
+  2:
+  - :word: forewent
+    :trans: fɔ:ʹwent
+  3:
+  - :word: foregone
+    :trans: fɔ:ʹgɒn
+692:
+  1:
+  - :word: foreknow
+    :trans: fɔ:ʹnəʋ
+  translations:
+  - знать заранее
+  - предвидеть
+  2:
+  - :word: foreknew
+    :trans: 'fɔ:ʹnju:'
+  3:
+  - :word: foreknown
+    :trans: fɔ:ʹnəʋn
+693:
+  1:
+  - :word: forerun
+    :trans: fɔ:ʹrʌn
+  translations:
+  - предшествовать
+  - предвещать
+  2:
+  - :word: foreran
+    :trans: fɔ:ʹræn
+  3:
+  - :word: forerun
+    :trans: fɔ:ʹrʌn
+694:
+  1:
+  - :word: foresee
+    :trans: 'fɔ:ʹsi:'
+  translations:
+  - предвидеть
+  - знать заранее
+  2:
+  - :word: foresaw
+    :trans: 'fɔ:ʹsɔ:'
+  3:
+  - :word: foreseen
+    :trans: fɔ:ʹsi:n
+695:
+  1:
+  - :word: foreshow
+    :trans: fɔ:ʹʃəʋ
+  translations:
+  - предсказывать
+  - предвещать
+  - показывать
+  - показывать заранее
+  2:
+  - :word: foreshowed
+    :trans: fɔ:ʹʃəʋd
+  3:
+  - :word: foreshowed
+    :trans: fɔ:ʹʃəʋd
+  - :word: foreshown
+    :trans: fɔ:ʹʃəʋn
